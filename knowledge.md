@@ -8,7 +8,7 @@ permalink: /knowledge/
 
 A growing map of finance: how money works, how financial decisions are made, and how the systems around them are built.
 
-Start with [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) and [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}); no prior finance knowledge is required. The other areas outline planned coverage and will gain lessons, guides, examples, and exercises over time. Look up new terms in the [Glossary]({{ '/glossary/' | relative_url }}), where each definition links back to its lesson references.
+Start with [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) and [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}); no prior finance knowledge is required. Continue with [Accounting and financial analysis]({{ "/knowledge/accounting-and-financial-analysis/" | relative_url }}) to read a small business's financial statements and connect profit with cash. [Investing and portfolio management]({{ "/knowledge/investing-and-portfolio-management/" | relative_url }}) introduces portfolio choices, funds, returns, and fees. [Banking, credit, and lending]({{ "/knowledge/banking-credit-and-lending/" | relative_url }}) covers deposit accounts, borrowing costs, and repayment decisions. The remaining areas outline planned coverage and will gain lessons, guides, examples, and exercises over time. Look up new terms in the [Glossary]({{ '/glossary/' | relative_url }}), where each definition links back to its lesson references.
 
 ## Explore the areas
 
@@ -51,7 +51,7 @@ Managing money through everyday decisions and major life changes.
 
 ## [Accounting and financial analysis]({{ '/knowledge/accounting-and-financial-analysis/' | relative_url }})
 
-Reading financial information and understanding what it reveals.
+An introductory lesson is available: follow a small shop through its first month to connect financial statements, calculate ratios, and understand the limits of the numbers.
 
 - Balance sheets, income statements, and cash flow statements
 - Accrual accounting, revenue, expenses, assets, and liabilities
@@ -69,7 +69,7 @@ How households, businesses, institutions, and policy interact.
 
 ## [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }})
 
-How institutions hold money, extend credit, and assess borrowers.
+An introductory lesson is available: compare accounts, follow loan repayments, assess borrowing costs, and understand credit decisions and repayment difficulties.
 
 - Banks, credit unions, deposits, and deposit protection
 - Consumer loans, mortgages, and business lending
@@ -87,7 +87,7 @@ The infrastructure that moves value between people and organizations.
 
 ## [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }})
 
-Building and evaluating investments around goals, time horizons, and risk.
+An introductory lesson is available: connect investments to goals, compare funds, calculate portfolio results, and explore rebalancing and costs.
 
 - Diversification, asset allocation, and rebalancing
 - Funds, exchange-traded funds, and active versus passive investing

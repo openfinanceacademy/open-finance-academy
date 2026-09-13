@@ -157,3 +157,252 @@
 - id: power-of-attorney
   term: "Power of attorney"
   definition: "A legal document authorizing someone to act on another person’s behalf. Its scope, when it takes effect, and how long it lasts depend on the document and local law."
+- id: accounting
+  term: "Accounting"
+  definition: "Recording, organizing, and reporting financial events so people can understand an organization’s finances."
+- id: financial-analysis
+  term: "Financial analysis"
+  definition: "Examining financial information to understand performance, financial position, and questions that need further investigation."
+- id: asset
+  term: "Asset"
+  definition: "A resource controlled by a person or organization that is expected to provide future economic benefit."
+- id: liability
+  term: "Liability"
+  definition: "A present obligation to transfer money, goods, services, or other economic resources to another party."
+- id: equity
+  term: "Equity"
+  definition: "The residual interest in an organization’s recorded assets after subtracting its liabilities. Accounting equity is not necessarily its market value."
+- id: balance-sheet
+  term: "Balance sheet"
+  definition: "A financial statement showing assets, liabilities, and equity at a particular date; also called a statement of financial position."
+- id: inventory
+  term: "Inventory"
+  definition: "Goods held for sale, or materials and unfinished goods intended to become products for sale."
+- id: revenue
+  term: "Revenue"
+  definition: "Amounts earned from an organization’s ordinary activities, such as selling goods or providing services, before subtracting expenses."
+- id: accrual-accounting
+  term: "Accrual accounting"
+  definition: "Recording the financial effects of events when they occur, including revenue when earned and expenses when incurred, rather than only when cash changes hands."
+- id: cash-basis-accounting
+  term: "Cash basis accounting"
+  definition: "An accounting approach that generally records revenue when cash is received and expenses when cash is paid. Tax rules may require exceptions."
+- id: accounts-receivable
+  term: "Accounts receivable"
+  definition: "Amounts customers owe for goods or services already provided."
+- id: accounts-payable
+  term: "Accounts payable"
+  definition: "Amounts owed to suppliers for goods or services already received."
+- id: cost-of-goods-sold
+  term: "Cost of goods sold"
+  definition: "The recorded cost of goods sold during a period, rather than the cost of all goods purchased during that period."
+- id: depreciation
+  term: "Depreciation"
+  definition: "Systematically allocating the depreciable cost of a tangible long-lived asset over its estimated useful life. It is not a direct measure of changes in market price."
+- id: carrying-amount
+  term: "Carrying amount"
+  definition: "The amount at which an asset or liability appears in the accounts after applicable adjustments; also called book value."
+- id: income-statement
+  term: "Income statement"
+  definition: "A financial statement showing revenue, expenses, and resulting profit or loss over a period."
+- id: gross-profit
+  term: "Gross profit"
+  definition: "Revenue from sales minus the cost of the goods or services sold, before other expenses are deducted."
+- id: net-profit
+  term: "Net profit"
+  definition: "The amount remaining after all recognized expenses are subtracted from revenue and other income for a period. A negative result is a net loss."
+- id: cash-flow-statement
+  term: "Cash flow statement"
+  definition: "A financial statement explaining changes in cash and cash equivalents over a period, grouped into operating, investing, and financing activities."
+- id: statement-of-changes-in-equity
+  term: "Statement of changes in equity"
+  definition: "A financial statement explaining changes in owners’ recorded interest over a period, including profits, losses, contributions, and distributions."
+- id: financial-ratio
+  term: "Financial ratio"
+  definition: "A comparison calculated by dividing one financial amount by another to help assess a business. Its definition, period, and context matter."
+- id: gross-profit-margin
+  term: "Gross profit margin"
+  definition: "Gross profit divided by sales revenue, usually expressed as a percentage."
+- id: net-profit-margin
+  term: "Net profit margin"
+  definition: "Net profit divided by revenue for the same period, usually expressed as a percentage."
+- id: current-asset
+  term: "Current asset"
+  definition: "An asset classified as short term, generally including cash and resources expected to be used, sold, or collected within the normal operating cycle or twelve months. Detailed classification depends on the reporting framework."
+- id: current-liability
+  term: "Current liability"
+  definition: "An obligation classified as short term, generally because it is due within the normal operating cycle or twelve months. Detailed classification depends on the reporting framework."
+- id: current-ratio
+  term: "Current ratio"
+  definition: "Current assets divided by current liabilities at the same date. It compares recorded short-term resources with short-term obligations but does not guarantee timely payment."
+- id: working-capital
+  term: "Working capital"
+  definition: "Current assets minus current liabilities at a particular date. It is an amount, not a ratio or a cash balance."
+- id: financial-statement-notes
+  term: "Financial statement notes"
+  definition: "Explanations accompanying financial statements that provide accounting policies, estimates, breakdowns, and other relevant disclosures."
+- id: audit
+  term: "Audit"
+  definition: "An independent examination of financial statements to support an opinion under applicable auditing standards. It provides reasonable rather than absolute assurance about material misstatements."
+- id: investing
+  term: "Investing"
+  definition: "Committing money to assets with the aim of receiving future income or growth, while accepting uncertainty and possible loss."
+- id: portfolio
+  term: "Portfolio"
+  definition: "A collection of investments held by a person or organization."
+- id: time-horizon
+  term: "Time horizon"
+  definition: "The length of time before money is expected to be needed for a particular goal."
+- id: risk-tolerance
+  term: "Risk tolerance"
+  definition: "How willing an investor is to accept uncertainty and investment losses."
+- id: risk-capacity
+  term: "Risk capacity"
+  definition: "How much financial loss a person can absorb without undermining essential needs or important goals."
+- id: stock
+  term: "Stock"
+  definition: "An ownership interest in a company, usually divided into shares. Its value can rise or fall, and distributions to owners are not guaranteed."
+- id: dividend
+  term: "Dividend"
+  definition: "A distribution by a company to its shareholders, commonly in cash. A company may reduce, suspend, or omit dividends."
+- id: bond
+  term: "Bond"
+  definition: "A debt investment under which an issuer promises payments to investors according to stated terms. Payments and repayment are subject to the issuer’s ability to meet its obligations."
+- id: asset-class
+  term: "Asset class"
+  definition: "A broad group of investments with similar characteristics, such as stocks or bonds. Investments within a class can still differ substantially."
+- id: asset-allocation
+  term: "Asset allocation"
+  definition: "How a portfolio is divided among asset classes, commonly expressed as percentages of its value."
+- id: diversification
+  term: "Diversification"
+  definition: "Spreading investments across different holdings and sources of risk to reduce dependence on any one outcome. It does not eliminate the possibility of loss."
+- id: investment-fund
+  term: "Investment fund"
+  definition: "A vehicle that pools investors’ money and invests it according to a stated strategy."
+- id: mutual-fund
+  term: "Mutual fund"
+  definition: "A pooled investment vehicle whose ordinary open-end shares are generally bought or redeemed at the next calculated per-share net asset value, subject to applicable fees and rules."
+- id: exchange-traded-fund
+  term: "Exchange-traded fund (ETF)"
+  definition: "An investment fund with shares traded on an exchange during the trading day. The trading price can differ from the per-share value of the fund’s underlying net assets."
+- id: market-index
+  term: "Market index"
+  definition: "A rules-based measure tracking a selected group of investments. An index is a measurement, not an investment that can be purchased directly."
+- id: index-fund
+  term: "Index fund"
+  definition: "An investment fund that seeks to track a specified market index. Costs and implementation can cause its results to differ from the index."
+- id: passive-investing
+  term: "Passive investing"
+  definition: "Following a stated market index or systematic exposure rather than trying to select investments that outperform it."
+- id: active-investing
+  term: "Active investing"
+  definition: "Selecting or changing investments based on judgments intended to meet an objective, often to outperform a benchmark."
+- id: benchmark
+  term: "Benchmark"
+  definition: "A reference used to evaluate investment performance. A useful comparison reflects the portfolio’s strategy, risks, period, and measurement conventions."
+- id: rebalancing
+  term: "Rebalancing"
+  definition: "Adjusting a portfolio back toward its target allocation after its proportions change. Trades, new contributions, or withdrawals can be used."
+- id: expense-ratio
+  term: "Expense ratio"
+  definition: "A fund’s annual operating expenses expressed as a percentage of its average net assets. It does not include every possible cost to an investor."
+- id: due-diligence
+  term: "Due diligence"
+  definition: "Investigating an investment’s features, risks, costs, and supporting information before deciding whether it fits a goal."
+- id: prospectus
+  term: "Prospectus"
+  definition: "A formal disclosure document describing an investment offering, including information such as its objectives, risks, costs, and terms. Requirements depend on the jurisdiction and product."
+- id: valuation
+  term: "Valuation"
+  definition: "Estimating what an asset or business is worth using assumptions about future benefits, risks, and relevant comparisons."
+- id: behavioral-bias
+  term: "Behavioral bias"
+  definition: "A recurring pattern in judgment that can distort financial decisions, such as favoring evidence that supports an existing belief."
+- id: bank
+  term: "Bank"
+  definition: "A regulated institution that accepts deposits and provides services such as payments and lending. Its permitted activities depend on its charter and jurisdiction."
+- id: credit-union
+  term: "Credit union"
+  definition: "A member-owned financial cooperative offering services such as deposit accounts and loans, subject to membership and local regulatory rules."
+- id: deposit
+  term: "Deposit"
+  definition: "Money held in an account at a deposit-taking institution, representing an amount that institution owes the account holder under the account terms."
+- id: checking-account
+  term: "Checking account"
+  definition: "A deposit account primarily used for receiving money and making everyday payments; often called a current account outside the United States."
+- id: savings-account
+  term: "Savings account"
+  definition: "A deposit account intended for setting money aside, often paying interest and subject to account-specific access rules."
+- id: term-deposit
+  term: "Term deposit"
+  definition: "A deposit held for an agreed period under stated terms; early withdrawal may be restricted or penalized. Common forms include certificates of deposit."
+- id: annual-percentage-yield
+  term: "Annual percentage yield (APY)"
+  definition: "An annualized measure of deposit interest earnings that reflects compounding under stated assumptions. Actual earnings depend on the rate, balance, fees, and account terms."
+- id: overdraft
+  term: "Overdraft"
+  definition: "A situation in which an institution pays a transaction despite insufficient available money in the account, creating an amount owed by the account holder."
+- id: deposit-insurance
+  term: "Deposit insurance"
+  definition: "Protection for eligible deposits if an insured institution fails, subject to the scheme’s limits and conditions. It is not insurance against all financial losses."
+- id: loan
+  term: "Loan"
+  definition: "Money provided by a lender under an agreement requiring repayment, usually with interest or other charges."
+- id: loan-term
+  term: "Loan term"
+  definition: "The agreed length of a loan until its scheduled final repayment. A longer term can lower scheduled payments while increasing total interest."
+- id: installment-loan
+  term: "Installment loan"
+  definition: "A loan repaid through a scheduled series of payments over an agreed period. Payments need not all be the same size."
+- id: revolving-credit
+  term: "Revolving credit"
+  definition: "An arrangement allowing repeated borrowing and repayment up to an agreed limit, subject to the lender’s terms."
+- id: collateral
+  term: "Collateral"
+  definition: "Property pledged to support a borrowing obligation that a lender may be able to seize or sell following default under applicable law."
+- id: secured-loan
+  term: "Secured loan"
+  definition: "A loan backed by specified collateral. The collateral can be at risk if the borrower fails to meet the agreement."
+- id: unsecured-loan
+  term: "Unsecured loan"
+  definition: "A loan not backed by specified collateral. The borrower remains legally obligated to repay, and lenders may pursue remedies allowed by law."
+- id: mortgage
+  term: "Mortgage"
+  definition: "A loan secured by real property, commonly used to purchase a home. Failure to meet its terms can put the property at risk."
+- id: fixed-interest-rate
+  term: "Fixed interest rate"
+  definition: "An interest rate that stays unchanged for a specified period, which may or may not be the full loan term."
+- id: variable-interest-rate
+  term: "Variable interest rate"
+  definition: "An interest rate that can change under the agreement’s rules, often in relation to a reference rate."
+- id: amortization
+  term: "Amortization"
+  definition: "In lending, paying down loan principal over time through scheduled payments. The word also describes cost allocation for certain assets in accounting."
+- id: annual-percentage-rate
+  term: "Annual percentage rate (APR)"
+  definition: "An annualized borrowing-cost measure calculated under applicable disclosure rules. Which fees it includes and how it is calculated depend on the jurisdiction and product."
+- id: underwriting
+  term: "Underwriting"
+  definition: "In lending, evaluating a borrower and proposed loan to decide whether to lend and on what terms."
+- id: credit-risk
+  term: "Credit risk"
+  definition: "The possibility of financial loss because a borrower or other counterparty fails to meet agreed payment obligations."
+- id: debt-to-income-ratio
+  term: "Debt-to-income ratio (DTI)"
+  definition: "Monthly debt payments divided by gross monthly income, usually expressed as a percentage. Included obligations and qualifying limits depend on the lender and product."
+- id: delinquency
+  term: "Delinquency"
+  definition: "Being overdue on a required payment. Reporting and legal consequences depend on the agreement and local rules."
+- id: default
+  term: "Default"
+  definition: "Failure to meet obligations under a borrowing agreement, as defined by the contract and applicable law. It can include missed payments or other breaches."
+- id: refinancing
+  term: "Refinancing"
+  definition: "Replacing an existing debt with a new loan. A lower payment does not necessarily mean a lower total cost."
+- id: debt-restructuring
+  term: "Debt restructuring"
+  definition: "Changing the terms of an existing debt, such as its payment schedule or interest rate, by agreement or through a legal process."
+- id: bankruptcy
+  term: "Bankruptcy"
+  definition: "A legal process for addressing debts that cannot be paid, potentially involving repayment, sale of assets, or relief from some obligations. Rules and outcomes depend on jurisdiction and case."

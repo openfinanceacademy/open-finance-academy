@@ -192,4 +192,4 @@ Use these links to revisit definitions. Each glossary entry has a link back to i
 
 ## Keep learning
 
-Continue with [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) to apply these ideas to a household budget, savings, and borrowing. You can also explore the planned topics in [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}), which will gain lessons over time.
+Continue with [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) to apply these ideas to a household budget, savings, and borrowing. Continue with [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) to compare deposit accounts and work through loan repayments.

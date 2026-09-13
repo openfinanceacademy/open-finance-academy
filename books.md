@@ -4,7 +4,15 @@ title: Books
 permalink: /books/
 ---
 
-Books about finance and open finance will be collected here.
+Explore finance books, reading lists, and free learning resources.
+
+## Finance book lists
+
+- [Financial Times: Banking & Finance books](https://ig.ft.com/sites/business-book-award/categories/banking-and-finance/)
+- [WECU: Ranking the 49 Best Money Books of All Time](https://www.wecu.com/ranking-the-49-best-money-books-of-all-time/)
+- [Harvard Career Services: My Favorite Books About Finance](https://careerservices.fas.harvard.edu/blog/2024/12/13/my-favorite-books-about-finance/)
+- [Goodreads: Finance Books](https://www.goodreads.com/shelf/show/finance)
+- [Five Books: Finance Book Recommendations](https://fivebooks.com/category/economics/finance/)
 
 ## Free and open source
 

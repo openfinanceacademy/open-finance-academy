@@ -225,4 +225,4 @@ These include terms from the fundamentals lesson that we explain again here. Eac
 
 ## Keep learning
 
-Revisit [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) for interest, purchasing power, and comparisons over time. Explore the planned topics in [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) and [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}); those areas will gain lessons over time.
+Revisit [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) for interest, purchasing power, and comparisons over time. Continue with [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) to compare accounts, loan costs, and repayment options. [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}) currently lists planned topics.
