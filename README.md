@@ -45,6 +45,27 @@ See [DOMAIN_SETUP.md](DOMAIN_SETUP.md) for GitHub Pages and custom-domain setup 
 
 ## Contributing
 
+The [Knowledge outline](knowledge.md) links to 18 major areas. Each area has an index at `knowledge/<area>/index.md` containing lessons or planned topics. Add future lessons and resources within that area's folder and link them from its index page.
+
+### Knowledge terms and the global glossary
+
+When adding or editing a lesson or knowledge index:
+
+1. Explain each new finance term on first use, in plain language. Make that first occurrence bold and link it to the glossary: `**[Interest]({{ '/glossary/' | relative_url }}#interest)**`.
+2. Add new definitions to `_data/glossary.yml` with a unique, stable `id`, a readable `term`, and a plain-language `definition`. Reuse existing entries for terms already defined.
+3. Register each term the page explains in its YAML front matter, mapping the glossary ID to the heading anchor where the explanation appears:
+
+   ```yaml
+   glossary_terms:
+     interest: how-interest-works
+     principal: how-interest-works
+   ```
+
+4. The [global glossary](glossary.md) automatically lists terms alphabetically and builds reference links from this metadata. Register existing terms on new pages too, so their references appear. Keep anchors and metadata in sync when changing headings.
+5. Use worked examples, state assumptions, and link authoritative sources beside the explanations they support. Build with `jekyll build` and check that term links and glossary references reach the correct sections.
+
+See [Money and financial fundamentals](knowledge/money-and-financial-fundamentals/index.md) for a complete example, including a term recap generated from the same metadata.
+
 Contributions are welcome. You can help by:
 
 - Improving explanations and examples

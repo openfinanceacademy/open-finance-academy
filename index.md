@@ -15,6 +15,8 @@ Make financial technology easier to understand, more accessible to build with, a
 
 ## Explore
 
+Browse the [Knowledge outline]({{ '/knowledge/' | relative_url }}) for the major areas of finance we will develop into lessons, guides, and practical examples over time.
+
 - **Financial fundamentals**: Build a strong foundation in money, markets, and financial products.
 - **Open banking and open finance**: Understand data portability, consent, and interoperability.
 - **APIs and data standards**: Learn how financial systems connect and exchange information.

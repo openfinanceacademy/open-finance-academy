@@ -1,0 +1,159 @@
+- id: money
+  term: "Money"
+  definition: "Something widely accepted as payment for goods and services and to settle amounts owed. Modern money includes notes, coins, and bank account balances."
+- id: currency
+  term: "Currency"
+  definition: "A particular system of money, such as the US dollar, euro, or Japanese yen."
+- id: medium-of-exchange
+  term: "Medium of exchange"
+  definition: "Something people accept as payment, allowing them to trade without directly swapping goods or services."
+- id: unit-of-account
+  term: "Unit of account"
+  definition: "A shared unit used to state, record, and compare prices and amounts owed."
+- id: store-of-value
+  term: "Store of value"
+  definition: "Something that carries value into the future. Its ability to buy goods and services may still change over time."
+- id: principal
+  term: "Principal"
+  definition: "The starting amount saved, invested, or borrowed, separate from interest. For a loan being repaid, remaining principal means the borrowed amount still unpaid, excluding interest."
+- id: interest
+  term: "Interest"
+  definition: "Money paid for the use of money, such as money earned on savings or charged on borrowing."
+- id: interest-rate
+  term: "Interest rate"
+  definition: "Interest expressed as a percentage of an amount over a stated period, such as 5% per year."
+- id: simple-interest
+  term: "Simple interest"
+  definition: "Interest calculated only on the original principal, without charging or earning interest on earlier interest."
+- id: compound-interest
+  term: "Compound interest"
+  definition: "Interest calculated on both principal and interest previously added to it."
+- id: compounding
+  term: "Compounding"
+  definition: "The process of adding earnings to an amount so those earnings can themselves earn more. It can also increase debt when unpaid interest is added and begins attracting interest."
+- id: inflation
+  term: "Inflation"
+  definition: "An increase in the general level of prices over time, which reduces what an unchanged amount of money can buy."
+- id: purchasing-power
+  term: "Purchasing power"
+  definition: "The quantity of goods and services an amount of money can buy."
+- id: return
+  term: "Return"
+  definition: "The gain or loss from saving or investing over a stated period, including money received and changes in value. It can be expressed as an amount or a percentage."
+- id: nominal-return
+  term: "Nominal return"
+  definition: "A gain or loss over a period measured before adjusting for inflation."
+- id: real-return
+  term: "Real return"
+  definition: "A return adjusted for inflation to measure the change in purchasing power. For the same period, it equals (1 + nominal return) divided by (1 + inflation rate), minus 1, with rates written as decimals."
+- id: time-value-of-money
+  term: "Time value of money"
+  definition: "The idea that the timing of receiving or paying money affects its value because money available now can be used or earn a return before a future date."
+- id: future-value
+  term: "Future value"
+  definition: "The amount that money today would grow to by a future date using an assumed rate of growth."
+- id: present-value
+  term: "Present value"
+  definition: "Today's equivalent of a future amount, calculated using a chosen discount rate."
+- id: discounting
+  term: "Discounting"
+  definition: "Calculating the present value of a future amount by working backward using a discount rate."
+- id: discount-rate
+  term: "Discount rate"
+  definition: "The rate used to convert a future amount into its present value. In other contexts, this phrase may describe a central bank lending rate; here it means the rate used for comparing money at different times."
+- id: risk
+  term: "Risk"
+  definition: "Uncertainty about a financial outcome, including the possibility of losing money or falling short of a financial need or expectation."
+- id: liquidity
+  term: "Liquidity"
+  definition: "How easily and quickly something can be converted into spendable money without a large loss in value."
+- id: opportunity-cost
+  term: "Opportunity cost"
+  definition: "The value of the best alternative given up when making a choice. It can include money, time, experiences, or convenience."
+- id: personal-finance
+  term: "Personal finance"
+  definition: "How a person or household manages money, including spending, saving, borrowing, and planning for the future."
+- id: financial-wellbeing
+  term: "Financial wellbeing"
+  definition: "Being able to manage ongoing money needs, handle financial setbacks, work toward future goals, and make choices that support your life."
+- id: income
+  term: "Income"
+  definition: "Money received over a period, such as pay from work, benefits, or a pension. Borrowed money is not income."
+- id: take-home-pay
+  term: "Take-home pay"
+  definition: "Pay received after taxes and other payroll deductions have been removed."
+- id: expense
+  term: "Expense"
+  definition: "A cost of goods, services, or other obligations. In a household budget, expenses are the costs you plan to cover."
+- id: budget
+  term: "Budget"
+  definition: "A plan for how to use the money available over a stated period, including spending, saving, and debt payments."
+- id: cash-flow
+  term: "Cash flow"
+  definition: "Money moving in and out over a period, including when it arrives and when it leaves. Positive totals do not guarantee enough money on every date."
+- id: emergency-fund
+  term: "Emergency fund"
+  definition: "Money set aside for unexpected costs or a loss of income, kept available for use when needed."
+- id: sinking-fund
+  term: "Sinking fund"
+  definition: "In household budgeting, money gradually set aside for a known future cost, such as an annual bill. The term has other uses in business finance."
+- id: debt
+  term: "Debt"
+  definition: "Money owed that must be repaid, sometimes with interest or fees."
+- id: minimum-payment
+  term: "Minimum payment"
+  definition: "The smallest payment required by a lender for a billing period. Paying it may still leave a balance that attracts interest."
+- id: debt-avalanche
+  term: "Debt avalanche"
+  definition: "A repayment approach that makes required payments on all debts and directs extra money to the debt with the highest interest rate first."
+- id: debt-snowball
+  term: "Debt snowball"
+  definition: "A repayment approach that makes required payments on all debts and directs extra money to the debt with the smallest balance first."
+- id: credit
+  term: "Credit"
+  definition: "An arrangement that lets someone borrow money or obtain goods or services now with an agreement to pay later."
+- id: credit-report
+  term: "Credit report"
+  definition: "A record of borrowing accounts and payment history compiled by a credit reporting organization. Its contents and uses depend on the country."
+- id: credit-score
+  term: "Credit score"
+  definition: "A number produced by a model to estimate borrowing repayment risk, often using information from a credit report. Different models can produce different scores."
+- id: credit-limit
+  term: "Credit limit"
+  definition: "The maximum amount a lender allows someone to borrow on a particular credit account."
+- id: credit-utilization
+  term: "Credit utilization"
+  definition: "The share of available credit being used, commonly calculated for credit cards as reported balances divided by credit limits, expressed as a percentage."
+- id: financial-goal
+  term: "Financial goal"
+  definition: "A desired outcome involving money, made more concrete by specifying an amount and a target date."
+- id: retirement
+  term: "Retirement"
+  definition: "A stage of life when someone reduces or stops paid work and relies more on other sources of money."
+- id: pension
+  term: "Pension"
+  definition: "A retirement arrangement intended to provide money later in life. Its structure and use of the name vary by country and plan."
+- id: contribution
+  term: "Contribution"
+  definition: "Money paid into a savings or retirement plan by a person, employer, or another contributor."
+- id: employer-match
+  term: "Employer match"
+  definition: "Money an employer adds to a retirement plan based on an employee’s contributions, subject to the plan’s rules and limits."
+- id: vesting
+  term: "Vesting"
+  definition: "Earning a non-forfeitable right to a benefit or contribution, often after meeting a retirement plan’s service requirements."
+- id: estate-planning
+  term: "Estate planning"
+  definition: "Preparing arrangements for who will manage your affairs if you cannot and how your money and property will be handled after death."
+- id: will
+  term: "Will"
+  definition: "A legal document directing how certain money and property should be handled after death. Its requirements and effect depend on local law."
+- id: beneficiary
+  term: "Beneficiary"
+  definition: "A person or organization entitled or designated to receive money, property, or benefits under an account, policy, will, or other arrangement."
+- id: inheritance
+  term: "Inheritance"
+  definition: "Money or property received from someone after their death."
+- id: power-of-attorney
+  term: "Power of attorney"
+  definition: "A legal document authorizing someone to act on another person’s behalf. Its scope, when it takes effect, and how long it lasts depend on the document and local law."

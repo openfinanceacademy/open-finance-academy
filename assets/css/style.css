@@ -24,7 +24,7 @@ body {
 .header-inner { align-items: center; display: flex; justify-content: space-between; gap: 1rem; }
 .brand { color: var(--ink); font-size: 1.3rem; font-weight: bold; text-decoration: none; }
 .brand span { color: var(--accent); }
-nav { display: flex; gap: 1.25rem; }
+nav { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; }
 nav a { color: var(--muted); font-family: Arial, sans-serif; font-size: .85rem; text-decoration: none; }
 nav a:hover, nav a:focus { color: var(--accent-dark); }
 
@@ -36,6 +36,9 @@ p { max-width: 680px; }
 .content > p:first-of-type { color: var(--muted); font-size: 1.35rem; max-width: 680px; }
 a { color: var(--accent-dark); }
 li { margin: .45rem 0; max-width: 680px; }
+table { border-collapse: collapse; font-size: .95em; margin: 1.5rem 0; width: 100%; }
+th, td { border-bottom: 1px solid var(--line); padding: .65rem .5rem; text-align: left; vertical-align: top; }
+th { font-family: Arial, sans-serif; font-size: .85em; }
 .post-list { margin-top: 3rem; }
 .post-preview { border-top: 1px solid var(--line); padding: 1.5rem 0 1rem; }
 .post-preview h2 { margin: .25rem 0 .5rem; }

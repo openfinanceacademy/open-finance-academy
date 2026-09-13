@@ -3,3 +3,6 @@ description: Practical, community-driven learning for open finance.
 url: https://openfinance.academy
 baseurl: ""
 markdown: kramdown
+exclude:
+  - AGENTS.md
+  - skills/
