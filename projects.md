@@ -6,7 +6,9 @@ permalink: /projects/
 
 # Projects
 
-These are two project ideas for putting financial education into practice. Both are at the idea stage; neither has launched or is accepting applications, contributions, or investments. The descriptions outline possibilities for further discussion and development.
+The Open Finance Academy is creating a space to incubate projects in financial education and empowerment and sustainable finance.
+
+The project ideas currently listed here are at the idea stage; none has launched or is accepting applications, contributions, or investments. The descriptions outline possibilities for further discussion and development.
 
 <div class="project-grid">
   <div class="project-card">

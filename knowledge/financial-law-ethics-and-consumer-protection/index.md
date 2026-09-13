@@ -2,6 +2,27 @@
 layout: default
 title: Financial law, ethics, and consumer protection
 permalink: /knowledge/financial-law-ethics-and-consumer-protection/
+glossary_terms:
+  financial-regulation: separate-rules-from-ethical-judgment
+  supervision: separate-rules-from-ethical-judgment
+  compliance: separate-rules-from-ethical-judgment
+  financial-ethics: separate-rules-from-ethical-judgment
+  consumer-protection: separate-rules-from-ethical-judgment
+  regulatory-register: check-who-provides-the-service
+  disclosure: read-the-terms-and-calculate-the-cost
+  conflict-of-interest: recognize-conflicts-of-interest
+  commission: recognize-conflicts-of-interest
+  fiduciary-duty: recognize-conflicts-of-interest
+  fraud: spot-deception-and-respond-to-scams
+  phishing: spot-deception-and-respond-to-scams
+  financial-privacy: protect-privacy-and-fair-access
+  personal-data: protect-privacy-and-fair-access
+  consent: protect-privacy-and-fair-access
+  credit-discrimination: protect-privacy-and-fair-access
+  consumer-complaint: document-and-resolve-a-problem
+  redress: document-and-resolve-a-problem
+  ombudsman: document-and-resolve-a-problem
+  dark-patterns: design-services-people-can-use
 ---
 
 # Financial law, ethics, and consumer protection
@@ -54,7 +75,7 @@ A **[regulatory register]({{ '/glossary/' | relative_url }}#regulatory-register)
 
 Use the relevant authority's independently located website. Match the entity name and contact details, check the activity you need, and contact the firm using those independently verified details. A scammer can impersonate a real registered firm.
 
-**United States example:** Investor.gov provides an [investment professional background-check tool](https://www.investor.gov/check-your-investment-professional). Review both the person and firm and any disclosed disciplinary history. Different financial activities may require different registers; an investment registration does not establish permission to provide every financial service.
+**United States example:** Investor.gov provides an [investment professional background-check tool](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional). Review both the person and firm and any disclosed disciplinary history. Different financial activities may require different registers; an investment registration does not establish permission to provide every financial service.
 
 ## Read the terms and calculate the cost
 

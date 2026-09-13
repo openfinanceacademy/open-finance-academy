@@ -1,6 +1,6 @@
 # Open Finance Academy
 
-Open Finance Academy is a community-driven project for learning, building, and sharing practical knowledge about open finance.
+Open Finance Academy provides educational content on finance and financial technology and curates lists of learning resources. This community-driven project brings lessons, guides, books, courses, and videos together in one place to make information easier to find and explore.
 
 The project is also a Markdown-powered static site deployed to GitHub Pages at [openfinance.academy](https://openfinance.academy).
 
@@ -46,6 +46,10 @@ See [DOMAIN_SETUP.md](DOMAIN_SETUP.md) for GitHub Pages and custom-domain setup 
 ## Contributing
 
 The [Knowledge outline](knowledge.md) links to 18 major areas. Each area has an index at `knowledge/<area>/index.md` containing lessons or planned topics. Add future lessons and resources within that area's folder and link them from its index page.
+
+### Video resources
+
+Add video resources to [Videos](videos.md). Use the **Video channels** section for channels and **Individual videos** for specific videos. Include a linked title and a short description of what viewers can learn; include the creator's name for individual videos. Replace a section's empty-state message when adding its first entry.
 
 ### Knowledge terms and the global glossary
 

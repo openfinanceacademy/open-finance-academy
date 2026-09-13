@@ -24,10 +24,10 @@
           </label>
         </div>
         <nav aria-label="Main navigation">
-          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Certifications,Careers,Glossary,Blog,About' | split: ',' %}
+          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Videos,Certifications,Banks,Brokerages,Stock Exchanges,Software,Philanthropy,Careers,Job Board,Glossary,Blog,About,Disclaimer' | split: ',' %}
           {% assign section = page.url | split: '/' | shift | first %}
           {% for item in navigation_items %}
-            {% assign slug = item | downcase %}
+            {% assign slug = item | downcase | replace: ' ', '-' %}
             {% assign target = slug | prepend: '/' | append: '/' %}
             {% if item == 'Home' %}{% assign target = '/' %}{% endif %}
             <a href="{{ target | relative_url }}"{% if page.url == target %} aria-current="page"{% elsif section == slug %} aria-current="location"{% elsif item == 'Blog' and page.date %} aria-current="location"{% endif %}>{{ item }}</a>
@@ -44,7 +44,8 @@
     <footer class="site-footer">
       <div class="container">
         <p>Learn openly. Build responsibly.</p>
-        <p class="footer-disclaimer">Open Finance Academy is not a financial advisor. Content is for education only and is not financial, investment, tax, or legal advice. <a href="{{ '/about/' | relative_url }}#not-financial-advice">Read our full disclaimer</a>.</p>
+        <p class="footer-contact">Questions or feedback? Contact us at <a href="mailto:info@openfinance.academy">info@openfinance.academy</a>.</p>
+        <p class="footer-disclaimer">Open Finance Academy is not a financial advisor or an accredited educational provider. Content is for education only and is not financial, investment, tax, or legal advice. <a href="{{ '/disclaimer/' | relative_url }}">Read our full disclaimer</a>.</p>
       </div>
     </footer>
   </body>

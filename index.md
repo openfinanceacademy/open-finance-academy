@@ -5,7 +5,7 @@ title: Open Finance Academy
 
 # Open Finance Academy
 
-Open Finance Academy is a community-driven project for learning, building, and sharing practical knowledge about open finance.
+Open Finance Academy provides educational content on finance and financial technology and curates lists of learning resources. This community-driven project brings lessons, guides, books, courses, and videos together in one place to make information easier to find and explore.
 
 We believe everyone has the right to pursue financial freedom and access the knowledge and tools needed to protect themselves from financial exploitation and repression. Open finance should expand people’s choices, privacy, and agency, not make it easier to control or profit from them.
 
@@ -29,3 +29,7 @@ Browse the [Knowledge outline]({{ '/knowledge/' | relative_url }}) for the major
 ## Get involved
 
 This project is in its early stages. Suggest a lesson, improve an explanation, share a resource, or build a practical exercise by opening an issue or pull request on [GitHub](https://github.com/).
+
+## Contact us
+
+Questions, feedback, or ideas? Reach out at [info@openfinance.academy](mailto:info@openfinance.academy).

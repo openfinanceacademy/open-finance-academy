@@ -1098,3 +1098,341 @@
 - id: concessional-loan
   term: "Concessional loan"
   definition: "A loan with terms more favorable than comparable market borrowing, such as lower interest or longer repayment periods. It remains debt."
+
+- id: financial-regulation
+  term: "Financial regulation"
+  definition: "The system of rules governing financial activities and firms."
+
+- id: supervision
+  term: "Supervision"
+  definition: "In financial regulation, oversight of firms to assess their behavior, risks, and adherence to applicable rules."
+
+- id: compliance
+  term: "Compliance"
+  definition: "Meeting applicable legal and regulatory requirements."
+
+- id: financial-ethics
+  term: "Financial ethics"
+  definition: "Principles of responsible conduct in financial decisions, including honesty, fairness, and consideration of the people affected."
+
+- id: consumer-protection
+  term: "Consumer protection"
+  definition: "Rules and practices intended to prevent unfair treatment of consumers and provide ways to address harm."
+
+- id: regulatory-register
+  term: "Regulatory register"
+  definition: "An official listing used to check a firm’s or individual’s regulatory status and permitted activities. An entry is not a guarantee of product quality or safety."
+
+- id: disclosure
+  term: "Disclosure"
+  definition: "Information provided about a product, service, or relationship, such as costs, risks, restrictions, and conflicts of interest."
+
+- id: conflict-of-interest
+  term: "Conflict of interest"
+  definition: "A situation in which a person’s or firm’s own interests could influence how they serve someone else’s interests."
+
+- id: commission
+  term: "Commission"
+  definition: "Compensation tied to a sale or transaction; who pays it and how it is calculated depend on the arrangement."
+
+- id: fiduciary-duty
+  term: "Fiduciary duty"
+  definition: "A legal obligation to act for another person’s benefit within a defined relationship, with duties and scope set by applicable law."
+
+- id: phishing
+  term: "Phishing"
+  definition: "An attempt to trick someone into revealing information or taking an action by impersonating a trusted source."
+
+- id: financial-privacy
+  term: "Financial privacy"
+  definition: "How information about a person’s money and financial activity is collected, used, shared, and protected."
+
+- id: personal-data
+  term: "Personal data"
+  definition: "Information relating to an identified or identifiable person."
+
+- id: consent
+  term: "Consent"
+  definition: "In EU data protection, a freely given, specific, informed, and unambiguous indication of agreement to processing personal data. It is one possible legal basis for processing."
+
+- id: credit-discrimination
+  term: "Credit discrimination"
+  definition: "Unequal treatment in credit based on characteristics protected by applicable law. The protected grounds and legal tests depend on jurisdiction."
+
+- id: consumer-complaint
+  term: "Consumer complaint"
+  definition: "A communication expressing dissatisfaction with a product, service, or treatment and seeking a response."
+
+- id: redress
+  term: "Redress"
+  definition: "Action to put a problem right, such as correcting a record or refunding an improper charge. Available remedies depend on the facts and applicable rules."
+
+- id: ombudsman
+  term: "Ombudsman"
+  definition: "An independent body or official that examines complaints within a defined scope. Its powers and the effect of its decisions vary by scheme."
+
+- id: dark-patterns
+  term: "Dark patterns"
+  definition: "Design practices that manipulate or obstruct people’s choices, such as hiding costs or making cancellation difficult."
+- id: open-finance
+  term: "Open finance"
+  definition: "A broader extension of open banking that can include a wider range of financial data, such as investments, pensions, or insurance, shared with a customer's authorization."
+- id: open-banking
+  term: "Open banking"
+  definition: "A framework that lets customers authorize third-party providers to view their bank account information or initiate payments directly from their account, typically through standardized APIs."
+- id: data-portability
+  term: "Data portability"
+  definition: "The ability to move your own data from one provider to another, or to a third party, in a usable format."
+- id: api
+  term: "API"
+  definition: "Application programming interface: a defined way for one piece of software to request data or actions from another, such as a fintech app connecting to a bank's systems."
+- id: data-standard
+  term: "Data standard"
+  definition: "A published, shared specification for how financial data should be formatted and exchanged, so different institutions and applications interpret it consistently."
+- id: interoperability
+  term: "Interoperability"
+  definition: "The ability of different systems, such as banks and third-party apps, to exchange and use data or work together, especially when following a shared data standard."
+- id: sandbox
+  term: "Sandbox"
+  definition: "A controlled testing environment, sometimes provided by a regulator, that lets a new financial product or technology be tested with limits before a wider launch."
+- id: data-aggregator
+  term: "Data aggregator"
+  definition: "A service that collects account information from multiple financial institutions, often to display it together in one app, using either standardized APIs or other access methods."
+- id: screen-scraping
+  term: "Screen scraping"
+  definition: "A method of retrieving account information by automating the same login and web pages a customer would use, rather than through a dedicated API, which can require sharing login credentials with a third party."
+- id: digital-identity
+  term: "Digital identity"
+  definition: "A set of electronic attributes and credentials used to verify who someone is when accessing a service online."
+- id: credential
+  term: "Credential"
+  definition: "Information, such as a password, code, or key, used to prove identity or authorize access to an account or service."
+- id: cybersecurity
+  term: "Cybersecurity"
+  definition: "Practices and technology used to protect systems, networks, and data from unauthorized access, disruption, or damage."
+- id: encryption
+  term: "Encryption"
+  definition: "A process that scrambles data using a mathematical method so that only someone with the correct key can read it."
+- id: data-breach
+  term: "Data breach"
+  definition: "An incident in which protected or sensitive data is accessed, disclosed, or used without authorization."
+- id: robo-advisor
+  term: "Robo-advisor"
+  definition: "An automated service that builds or manages an investment portfolio using an algorithm, typically based on answers to a questionnaire, usually with limited or no ongoing human advisor involvement."
+- id: algorithm
+  term: "Algorithm"
+  definition: "A defined set of steps or rules a computer follows to perform a task, such as selecting investments or flagging a transaction."
+- id: automation
+  term: "Automation"
+  definition: "Using technology to perform a task with reduced or no ongoing human action, following predefined rules or triggers."
+- id: algorithmic-transparency
+  term: "Algorithmic transparency"
+  definition: "The degree to which the factors, data, and logic behind an automated decision can be explained or examined, especially when the decision affects a person's access to money or credit."
+
+- id: blockchain
+  term: "Blockchain"
+  definition: "A shared digital record whose transactions are grouped into blocks linked using cryptographic techniques that make changes detectable."
+
+- id: blockchain-node
+  term: "Blockchain node"
+  definition: "A computer running blockchain network software; its duties depend on the network and node type."
+
+- id: consensus-mechanism
+  term: "Consensus mechanism"
+  definition: "The system network participants use to agree on an accepted transaction history and state."
+
+- id: blockchain-finality
+  term: "Blockchain finality"
+  definition: "When a transaction is treated as settled under a blockchain network’s rules and security assumptions."
+
+- id: proof-of-stake
+  term: "Proof of stake"
+  definition: "A consensus approach in which participants commit network assets to help secure the system, with rewards and penalties under its rules."
+
+- id: crypto-wallet
+  term: "Crypto wallet"
+  definition: "An application or device used to interact with blockchain accounts and authorize actions. Asset records remain on the network."
+
+- id: private-key
+  term: "Private key"
+  definition: "Secret cryptographic information used to authorize actions or perform other cryptographic operations. In a blockchain account, control of the relevant key can enable control of assets."
+
+- id: recovery-phrase
+  term: "Recovery phrase"
+  definition: "A sequence of words that many crypto wallets use to recover private keys. Someone who obtains it may be able to control the associated accounts."
+
+- id: custody
+  term: "Custody"
+  definition: "Holding or controlling assets, or the means of accessing them, either for oneself or on behalf of someone else."
+
+- id: self-custody
+  term: "Self-custody"
+  definition: "An arrangement in which a user controls their own asset keys or authorization methods rather than relying on a custodial provider."
+
+- id: smart-contract
+  term: "Smart contract"
+  definition: "A program deployed on a blockchain that executes according to its code when invoked. The name does not establish legal enforceability or freedom from defects."
+
+- id: decentralized-finance
+  term: "Decentralized finance (DeFi)"
+  definition: "Financial functions such as trading and lending implemented through blockchain-based programs. The degree of decentralized control varies."
+
+- id: defi-protocol
+  term: "DeFi protocol"
+  definition: "The set of program rules and mechanisms through which a decentralized finance service operates."
+
+- id: gas
+  term: "Gas"
+  definition: "On Ethereum, a measure of computational work used by a transaction. The fee depends on gas used and the effective price per gas unit."
+
+- id: crypto-token
+  term: "Token"
+  definition: "A digital unit recorded on a blockchain that may represent access, a claim, voting power, or another function defined by its design."
+
+- id: stablecoin
+  term: "Stablecoin"
+  definition: "A cryptoasset designed to track a reference value, commonly one unit of a currency. Its market value and redemption terms may differ from that target."
+
+- id: tokenization
+  term: "Tokenization"
+  definition: "Representing an asset or claim with a digital token. Enforceable rights and backing depend on the associated legal and operational arrangements."
+
+- id: decentralized-exchange
+  term: "Decentralized exchange"
+  definition: "A trading system using blockchain programs to execute exchanges; its design and degree of decentralized control can vary."
+
+- id: automated-market-maker
+  term: "Automated market maker"
+  definition: "A trading mechanism that prices exchanges using a formula and assets held in pools."
+
+- id: liquidity-pool
+  term: "Liquidity pool"
+  definition: "A shared reserve of assets available for trading or other financial functions under a protocol’s rules."
+
+- id: price-impact
+  term: "Price impact"
+  definition: "The change in execution price caused by a trade’s own effect on available liquidity."
+
+- id: slippage
+  term: "Slippage"
+  definition: "The difference between an expected trade execution result and the actual result, potentially caused by market changes before execution. Trading interfaces may use the term differently."
+
+- id: impermanent-loss
+  term: "Impermanent loss"
+  definition: "A liquidity provider’s shortfall relative to holding deposited assets outside a pool as relative prices change, usually measured before fees. The name does not promise recovery."
+
+- id: liquidation
+  term: "Liquidation"
+  definition: "In collateralized DeFi lending, repayment of some or all of a risky loan in exchange for taking collateral under protocol rules. The word has other meanings in business and investing."
+
+- id: blockchain-oracle
+  term: "Blockchain oracle"
+  definition: "A mechanism supplying outside information, such as prices, to blockchain programs. Its data and operators create additional dependencies."
+
+- id: blockchain-bridge
+  term: "Blockchain bridge"
+  definition: "A system connecting assets or messages across blockchain networks, with its own verification and asset-backing arrangements."
+
+- id: protocol-governance
+  term: "Protocol governance"
+  definition: "The process for deciding changes to a protocol, which may involve voting, delegated powers, or administrators."
+
+- id: smart-contract-security-audit
+  term: "Smart-contract security audit"
+  definition: "A review of smart-contract code for vulnerabilities within a stated scope. It does not guarantee safety or cover every future code change."
+
+- id: quantitative-finance
+  term: "Quantitative finance"
+  definition: "Using mathematical, statistical, and computing methods to investigate financial questions, price instruments, and manage risk."
+
+- id: dataset
+  term: "Dataset"
+  definition: "An organized collection of related values, such as a table of monthly investment returns."
+
+- id: model
+  term: "Model"
+  definition: "A simplified description of a situation used to estimate, explain, or test something. Every model leaves things out, so its results depend on its assumptions."
+
+- id: probability
+  term: "Probability"
+  definition: "A measure of how likely an event is, expressed from 0 (impossible) to 1 (certain), or equivalently as a percentage."
+
+- id: expected-value
+  term: "Expected value"
+  definition: "The probability-weighted average of all possible outcomes of an uncertain situation. It is a long-run average, not a promise about any single outcome."
+
+- id: mean
+  term: "Mean"
+  definition: "The sum of a set of values divided by how many values there are; also called the average. Extreme values can pull it away from the middle of the data."
+
+- id: median
+  term: "Median"
+  definition: "The middle value when a set of values is placed in order; half the values lie at or below it and half at or above it."
+
+- id: variance
+  term: "Variance"
+  definition: "A measure of how spread out values are around their mean, calculated as the average of the squared differences from the mean. Its units are the square of the data's units."
+
+- id: standard-deviation
+  term: "Standard deviation"
+  definition: "A measure of how spread out values are around their mean, equal to the square root of the variance and expressed in the same units as the data. It does not capture every form of risk."
+
+- id: normal-distribution
+  term: "Normal distribution"
+  definition: "A symmetric, bell-shaped pattern of data fully described by its mean and standard deviation. Real financial data often produce extreme outcomes more frequently than this pattern predicts."
+
+- id: correlation
+  term: "Correlation"
+  definition: "A tendency for two measures to move together to some degree. Correlation alone does not show that one causes the other."
+
+- id: correlation-coefficient
+  term: "Correlation coefficient"
+  definition: "A number between −1 and 1 summarizing the strength and direction of a straight-line relationship between two sets of data: 1 is perfect alignment, −1 is perfect opposition, and 0 is no straight-line relationship."
+
+- id: linear-regression
+  term: "Linear regression"
+  definition: "A method that fits a straight line to data to summarize how one measure tends to change with another. The fitted line describes past data and may not hold in the future."
+
+- id: time-series
+  term: "Time series"
+  definition: "A sequence of observations recorded in time order, such as monthly inflation readings or daily prices."
+
+- id: trend
+  term: "Trend"
+  definition: "A persistent general direction of a time series over a period, separate from shorter-term ups and downs."
+
+- id: seasonality
+  term: "Seasonality"
+  definition: "Patterns in a time series that repeat at roughly the same times each year, such as stronger retail sales in certain months."
+
+- id: forecast
+  term: "Forecast"
+  definition: "An estimate of a future or unknown value produced from data and assumptions. How accurate it is becomes clear only later."
+
+- id: overfitting
+  term: "Overfitting"
+  definition: "Building a model that matches past data, including its random noise, so closely that it performs poorly on new data."
+
+- id: data-quality
+  term: "Data quality"
+  definition: "How accurate, complete, consistent, and timely a dataset is for a stated use. Poor data quality undermines any analysis built on it."
+
+- id: survivorship-bias
+  term: "Survivorship bias"
+  definition: "Distortion in results caused when data include only cases that survived or persisted, such as a fund database that omits funds that closed."
+
+- id: look-ahead-bias
+  term: "Look-ahead bias"
+  definition: "Using information in an analysis that would not have been available at the time being simulated, making historical results look better than was actually possible."
+
+- id: reproducibility
+  term: "Reproducibility"
+  definition: "The ability to obtain the same result again from the same data and methods, typically by keeping raw data unchanged and documenting or scripting each step."
+
+- id: backtesting
+  term: "Backtesting"
+  definition: "Evaluating how a strategy or model would have performed using historical data. A strong backtest does not guarantee future performance."
+
+- id: model-risk
+  term: "Model risk"
+  definition: "The possibility of loss or poor decisions arising from a model that is wrong, built on flawed data, or used for a purpose it does not suit."

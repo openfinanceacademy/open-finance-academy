@@ -151,7 +151,7 @@ An introductory lesson is available: convert currencies, calculate overseas inve
 
 ## [Financial law, ethics, and consumer protection]({{ '/knowledge/financial-law-ethics-and-consumer-protection/' | relative_url }})
 
-The rules and responsibilities that shape financial services. Future guides will identify the jurisdictions they cover.
+An introductory lesson is available: compare fees, recognize conflicts and scams, examine privacy and fair access, and document complaints. Legal examples identify their jurisdiction and review date.
 
 - Financial regulation, supervision, and compliance
 - Consumer rights, disclosures, and dispute resolution
@@ -160,7 +160,7 @@ The rules and responsibilities that shape financial services. Future guides will
 
 ## [Financial technology and open finance]({{ '/knowledge/financial-technology-and-open-finance/' | relative_url }})
 
-Building financial tools that support access, privacy, and individual agency.
+An introductory lesson is available: connect accounts through open banking, compare data-access methods, and weigh automated tools like robo-advisors.
 
 - Open banking, data portability, and consent
 - APIs, financial data standards, and interoperability
@@ -169,7 +169,7 @@ Building financial tools that support access, privacy, and individual agency.
 
 ## [Blockchain and decentralized finance]({{ '/knowledge/blockchain-and-decentralized-finance/' | relative_url }})
 
-Exploring digital assets and decentralized infrastructure, including their risks and tradeoffs.
+An introductory lesson is available: follow blockchain transactions, distinguish wallets and custody, calculate pool trades and collateral thresholds, and examine token returns and protocol risks.
 
 - Blockchains, wallets, custody, and smart contracts
 - Digital assets, stablecoins, and tokenization
@@ -178,7 +178,7 @@ Exploring digital assets and decentralized infrastructure, including their risks
 
 ## [Quantitative finance and financial data]({{ '/knowledge/quantitative-finance-and-financial-data/' | relative_url }})
 
-Using mathematics, statistics, and software to investigate financial questions.
+An introductory lesson is available: estimate uncertain outcomes, summarize returns, examine correlation, build simple forecasts, check data quality, and backtest a strategy honestly.
 
 - Probability, statistics, and financial modeling
 - Time series, econometrics, and forecasting
