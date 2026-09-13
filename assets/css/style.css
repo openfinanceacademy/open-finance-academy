@@ -36,6 +36,11 @@ p { max-width: 680px; }
 .content > p:first-of-type { color: var(--muted); font-size: 1.35rem; max-width: 680px; }
 a { color: var(--accent-dark); }
 li { margin: .45rem 0; max-width: 680px; }
+.post-list { margin-top: 3rem; }
+.post-preview { border-top: 1px solid var(--line); padding: 1.5rem 0 1rem; }
+.post-preview h2 { margin: .25rem 0 .5rem; }
+.post-date { color: var(--muted); font-family: Arial, sans-serif; font-size: .75rem; letter-spacing: .08em; margin: 0; text-transform: uppercase; }
+.post-meta { color: var(--muted); font-family: Arial, sans-serif; font-size: .8rem; }
 
 .site-footer { border-top: 1px solid var(--line); color: var(--muted); font-family: Arial, sans-serif; font-size: .8rem; padding: 1rem 0; }
 

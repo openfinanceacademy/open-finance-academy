@@ -6,7 +6,11 @@ The project is also a Markdown-powered static site deployed to GitHub Pages at [
 
 ## Vision
 
-Make financial technology easier to understand, more accessible to build with, and more open to everyone.
+We believe everyone has the right to pursue financial freedom and access the knowledge and tools needed to protect themselves from financial exploitation and repression. Open Finance Academy makes financial technology easier to understand, more accessible to build with, and more open to everyone.
+
+We want open finance to expand people’s choices, privacy, and agency, not make it easier to control or profit from them.
+
+Too much financial education is locked behind paywalls, putting essential knowledge out of reach for people with lower incomes and for historically underrepresented communities. We are building an open alternative: practical, high-quality resources that anyone can access and contribute to.
 
 ## What You’ll Find Here
 
