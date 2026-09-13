@@ -24,7 +24,7 @@
           </label>
         </div>
         <nav aria-label="Main navigation">
-          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Videos,Certifications,Banks,Brokerages,Stock Exchanges,Software,Philanthropy,Careers,Job Board,Glossary,Blog,About,Disclaimer' | split: ',' %}
+          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Videos,Certifications,Institutions,Banks,Brokerages,Stock Exchanges,Software,Philanthropy,Careers,Job Board,Glossary,Blog,About,Disclaimer' | split: ',' %}
           {% assign section = page.url | split: '/' | shift | first %}
           {% for item in navigation_items %}
             {% assign slug = item | downcase | replace: ' ', '-' %}

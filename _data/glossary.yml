@@ -1436,3 +1436,51 @@
 - id: model-risk
   term: "Model risk"
   definition: "The possibility of loss or poor decisions arising from a model that is wrong, built on flawed data, or used for a purpose it does not suit."
+
+- id: public-finance
+  term: "Public finance"
+  definition: "The study of how public authorities raise money, spend it, provide services, make transfers, and borrow."
+
+- id: public-budget
+  term: "Public budget"
+  definition: "A plan for a public authority's revenue and expenditure over a stated period."
+
+- id: public-revenue
+  term: "Public revenue"
+  definition: "Money received by a public authority, including taxes, fees, fines, and some income from public assets."
+
+- id: public-expenditure
+  term: "Public expenditure"
+  definition: "Money spent by a public authority on services, infrastructure, transfers, wages, interest, and other obligations."
+
+- id: tax
+  term: "Tax"
+  definition: "A compulsory payment to a public authority, usually used to fund public purposes."
+
+- id: tax-base
+  term: "Tax base"
+  definition: "The income, spending, property value, transaction, or other measure to which a tax rate applies."
+
+- id: progressive-tax
+  term: "Progressive tax"
+  definition: "A tax whose rate or average share generally increases as the tax base increases."
+
+- id: consumption-tax
+  term: "Consumption tax"
+  definition: "A tax charged on the purchase or use of goods and services."
+
+- id: public-good
+  term: "Public good"
+  definition: "A service or benefit that can be difficult to restrict to paying users and where one person's use may not substantially reduce what is available to others."
+
+- id: budget-deficit
+  term: "Budget deficit"
+  definition: "The amount by which expenditure exceeds revenue during a stated budget period."
+
+- id: public-debt
+  term: "Public debt"
+  definition: "The accumulated amount a public authority owes to lenders."
+
+- id: social-insurance
+  term: "Social insurance"
+  definition: "A public program that collects contributions or taxes to provide defined support when people face risks such as old age, disability, unemployment, or illness."

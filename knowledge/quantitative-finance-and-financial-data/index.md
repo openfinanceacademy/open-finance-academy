@@ -38,8 +38,6 @@ glossary_terms:
 
 # Quantitative finance and financial data
 
-Open Finance Academy is not a financial advisor or an accredited educational provider. This site offers general educational information, not personalized financial advice or accredited courses and qualifications.
-
 Learn how numbers, probability, and simple models help answer financial questions, how to summarize and question data, and where the answers stop being trustworthy.
 
 [← All knowledge areas]({{ '/knowledge/' | relative_url }}) · [Glossary]({{ '/glossary/' | relative_url }})

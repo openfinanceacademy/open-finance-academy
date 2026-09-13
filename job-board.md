@@ -6,7 +6,17 @@ permalink: /job-board/
 
 # Job Board
 
-Explore remote job opportunities. Follow a job title to view the full posting and application details.
+Explore finance job boards and individual job opportunities.
+
+## Finance job boards
+
+- [80,000 Hours — Finance search](https://jobs.80000hours.org/?query=Finance)
+- [We Work Remotely — Finance search](https://weworkremotely.com/remote-jobs/search?term=finance)
+- [eFinancialCareers](https://www.efinancialcareers.com/)
+
+## Job listings
+
+Follow a job title to view the full posting and application details.
 
 Last checked: September 13, 2026. Availability and location requirements may change; check each posting for current details.
 
