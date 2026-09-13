@@ -5,4 +5,7 @@ baseurl: ""
 markdown: kramdown
 exclude:
   - AGENTS.md
+  - DOMAIN_SETUP.md
+  - README.md
+  - justfile
   - skills/
