@@ -4,6 +4,8 @@ title: Books
 permalink: /books/
 ---
 
+# Books
+
 Explore finance books, reading lists, and free learning resources.
 
 ## Finance book lists

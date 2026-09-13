@@ -3,6 +3,8 @@ layout: default
 title: Open Finance Academy
 ---
 
+# Open Finance Academy
+
 Open Finance Academy is a community-driven project for learning, building, and sharing practical knowledge about open finance.
 
 We believe everyone has the right to pursue financial freedom and access the knowledge and tools needed to protect themselves from financial exploitation and repression. Open finance should expand people’s choices, privacy, and agency, not make it easier to control or profit from them.

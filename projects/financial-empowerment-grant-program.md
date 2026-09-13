@@ -6,9 +6,9 @@ permalink: /projects/financial-empowerment-grant-program/
 
 # Financial Empowerment Grant Program
 
-<span class="project-status">Starting up</span>
-
 The Financial Empowerment Grant Program provides matched-savings grants to individuals building financial literacy through Open Finance Academy's curriculum, helping them start an emergency fund or a first investment account.
+
+<span class="project-status">Starting up</span>
 
 ## How it works
 

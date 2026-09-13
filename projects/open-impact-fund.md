@@ -6,9 +6,9 @@ permalink: /projects/open-impact-fund/
 
 # Open Impact Fund
 
-<span class="project-status">Exploratory</span>
-
 The Open Impact Fund is a proposed structure for pooling contributions from donors and mission-aligned partners into a single, professionally-indexed growth-and-value portfolio, screened with a published ESG and defensive-factor rubric — collaborative investing whose entire purpose is to fund Open Finance Academy's grant and education programs, not private return.
+
+<span class="project-status">Exploratory</span>
 
 Openness is the point, not an afterthought: every holding, every allocation decision, and the reasoning behind it are published for anyone to read, in keeping with Open Finance Academy's commitment to open financial education.
 

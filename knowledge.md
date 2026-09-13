@@ -6,9 +6,9 @@ permalink: /knowledge/
 
 # Knowledge
 
-A growing map of finance: how money works, how financial decisions are made, and how the systems around them are built.
+Explore a continually evolving collection of lessons, guides, examples, and planned topics covering how money works, how financial decisions are made, and how financial systems are built. The collection may contain errors; if you find a problem, please [open an issue on GitHub](https://github.com/openfinanceacademy/open-finance-academy/issues).
 
-Start with [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) and [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}); no prior finance knowledge is required. Continue with [Accounting and financial analysis]({{ "/knowledge/accounting-and-financial-analysis/" | relative_url }}) to read a small business's financial statements and connect profit with cash. [Investing and portfolio management]({{ "/knowledge/investing-and-portfolio-management/" | relative_url }}) introduces portfolio choices, funds, returns, and fees. [Banking, credit, and lending]({{ "/knowledge/banking-credit-and-lending/" | relative_url }}) covers deposit accounts, borrowing costs, and repayment decisions. [Payments and money movement]({{ "/knowledge/payments-and-money-movement/" | relative_url }}) follows a payment from payer to payee and compares the cost of moving money, including abroad. [Financial markets and instruments]({{ "/knowledge/financial-markets-and-instruments/" | relative_url }}) explains traded products, quotes, orders, and derivative risks. The remaining areas outline planned coverage and will gain lessons, guides, examples, and exercises over time. Look up new terms in the [Glossary]({{ '/glossary/' | relative_url }}), where each definition links back to its lesson references.
+Look up terms in the [Glossary]({{ '/glossary/' | relative_url }}), where definitions link back to their lesson references.
 
 ## Explore the areas
 
@@ -105,7 +105,7 @@ An introductory lesson is available: compare instruments, interpret bond yields 
 
 ## [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }})
 
-How organizations fund operations, invest, and allocate capital.
+Learn how businesses forecast cash, compare debt and equity, evaluate projects, and allocate capital. Includes worked examples of ownership dilution, cost of capital, project value, and cash runway.
 
 - Capital budgeting, forecasting, and project evaluation
 - Cost of capital, capital structure, and debt versus equity

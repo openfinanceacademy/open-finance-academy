@@ -256,7 +256,7 @@ Follow these definitions to revisit their meaning and return to the explanations
 
 Revisit [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) for interest and compounding. [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) connects debt payments with budgets and financial goals. [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) distinguishes investment decisions from holding money in deposit accounts.
 
-[Payments and money movement]({{ '/knowledge/payments-and-money-movement/' | relative_url }}) and [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }}) currently list planned topics.
+[Payments and money movement]({{ '/knowledge/payments-and-money-movement/' | relative_url }}) follows money between accounts and across payment systems. [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }}) compares business funding choices and connects borrowing to cash forecasts and investment decisions.
 
 ### Planned follow-up lessons
 

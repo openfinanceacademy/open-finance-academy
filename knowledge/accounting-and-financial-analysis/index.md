@@ -272,7 +272,7 @@ Use these links to revisit definitions and return to their explanations above.
 
 Revisit [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) for interest, time, and risk. [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) applies cash timing to household decisions.
 
-Continue with [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) to connect investment research with portfolio decisions. [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }}) currently lists planned topics. For further reading, explore the open textbooks and reading lists on [Books]({{ '/books/' | relative_url }}).
+Continue with [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) to connect investment research with portfolio decisions. [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }}) applies cash forecasts and financial analysis to funding choices and project evaluation. For further reading, explore the open textbooks and reading lists on [Books]({{ '/books/' | relative_url }}).
 
 ### Planned follow-up lessons
 

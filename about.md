@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 Open Finance Academy is for anyone interested in finance and seeking financial freedom. It makes financial technology easier to understand and helps people learn how to use and build it responsibly.
 
 We believe everyone has the right to pursue financial freedom and to have the tools to avoid financial exploitation and repression. That means sharing knowledge openly, examining the systems that shape financial lives, and building technology that protects people’s choices, privacy, and agency.

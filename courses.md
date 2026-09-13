@@ -4,6 +4,8 @@ title: Courses
 permalink: /courses/
 ---
 
+# Courses
+
 Courses and learning paths will be collected here.
 
 ## Open and free courses
