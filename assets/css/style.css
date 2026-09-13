@@ -98,6 +98,11 @@ tbody tr:nth-child(even) { background: var(--surface); }
 .project-card p { margin: 0 0 .75rem; max-width: none; }
 .project-status { display: inline-block; font-family: Arial, sans-serif; font-size: .8rem; font-weight: bold; letter-spacing: .03em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--line); border-radius: 1rem; padding: .15rem .6rem; margin-bottom: .75rem; }
 
+.career-grid { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); margin: 2rem 0; }
+.career-card { background: var(--surface); border: 1px solid var(--line); border-radius: .5rem; padding: 1.25rem 1.5rem; }
+.career-card h2 { font-size: 1.25rem; font-weight: bold; margin: 0 0 .75rem; }
+.career-card p { margin: 0; max-width: none; }
+
 @media (max-width: 600px) {
   .container { padding-left: 1rem; padding-right: 1rem; }
   .content { padding-top: 2rem; }

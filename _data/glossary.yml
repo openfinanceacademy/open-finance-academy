@@ -758,3 +758,343 @@
 - id: synergy
   term: "Synergy"
   definition: "An expected benefit from combining businesses beyond what they could achieve separately, such as lower duplicated costs."
+
+- id: risk-management
+  term: "Risk management"
+  definition: "Identifying, assessing, responding to, and monitoring uncertainty and its potential consequences."
+
+- id: risk-exposure
+  term: "Risk exposure"
+  definition: "Something that could suffer loss or create a financial obligation, such as property, earnings, or responsibility for harm to others."
+
+- id: risk-retention
+  term: "Risk retention"
+  definition: "Keeping responsibility for some or all of the financial consequences of a risk."
+
+- id: risk-transfer
+  term: "Risk transfer"
+  definition: "Shifting specified financial consequences of a risk to another party through a contract or other arrangement."
+
+- id: insurance
+  term: "Insurance"
+  definition: "A contract under which an insurer agrees to provide specified payments or services when covered events occur, in exchange for a price."
+
+- id: risk-pooling
+  term: "Risk pooling"
+  definition: "Combining many exposures so that resources collected across a group can support losses suffered by some members."
+
+- id: insurance-premium
+  term: "Insurance premium"
+  definition: "The price paid for insurance coverage over a stated period."
+
+- id: insurance-policy
+  term: "Insurance policy"
+  definition: "The contract specifying who and what is insured, covered events, exclusions, conditions, and payment terms."
+
+- id: insurance-underwriting
+  term: "Insurance underwriting"
+  definition: "Evaluating an exposure to decide whether to offer insurance and on what terms."
+
+- id: actuary
+  term: "Actuary"
+  definition: "A professional who uses mathematics, statistics, and financial methods to assess uncertain future costs and help price and fund financial promises."
+
+- id: expected-loss
+  term: "Expected loss"
+  definition: "The probability-weighted average loss across possible outcomes for a stated period or exposure; actual loss can differ substantially."
+
+- id: reinsurance
+  term: "Reinsurance"
+  definition: "Insurance purchased by an insurer to transfer specified portions of its insurance risk to another insurer."
+
+- id: life-insurance
+  term: "Life insurance"
+  definition: "Coverage that pays an agreed death benefit if the insured person dies while qualifying coverage is in force."
+
+- id: term-life-insurance
+  term: "Term life insurance"
+  definition: "Life insurance providing coverage for a stated period, subject to the policy terms."
+
+- id: permanent-life-insurance
+  term: "Permanent life insurance"
+  definition: "Life insurance designed to provide continuing lifetime coverage if policy requirements are met, generally including a cash-value component."
+
+- id: health-insurance
+  term: "Health insurance"
+  definition: "Coverage that helps pay for covered healthcare services under a plan’s rules."
+
+- id: disability-income-insurance
+  term: "Disability income insurance"
+  definition: "Coverage that replaces part of earnings when a qualifying disability prevents work under the policy definition and conditions."
+
+- id: property-insurance
+  term: "Property insurance"
+  definition: "Coverage for specified damage to or loss of insured property."
+
+- id: liability-insurance
+  term: "Liability insurance"
+  definition: "Coverage for specified legal liabilities to others, which may also include legal defense costs under the policy terms."
+
+- id: business-interruption-insurance
+  term: "Business interruption insurance"
+  definition: "Coverage for specified business income losses and sometimes additional expenses following a qualifying interruption, often requiring covered physical damage."
+
+- id: insurance-exclusion
+  term: "Insurance exclusion"
+  definition: "A policy provision removing specified events, property, activities, or circumstances from coverage."
+
+- id: coverage-limit
+  term: "Coverage limit"
+  definition: "The maximum an insurer will pay under a stated part of a policy, which may apply per item, event, or period."
+
+- id: insurance-deductible
+  term: "Insurance deductible"
+  definition: "The portion of covered costs the insured must bear before specified insurer payments apply, calculated as the policy defines."
+
+- id: insurance-endorsement
+  term: "Insurance endorsement"
+  definition: "An amendment to an insurance policy, also called a rider, that adds, restricts, or otherwise changes coverage or terms."
+
+- id: insurance-claim
+  term: "Insurance claim"
+  definition: "A request for payment or services under an insurance policy."
+
+- id: replacement-cost
+  term: "Replacement cost"
+  definition: "The cost to replace covered property with comparable new property, subject to the insurance contract’s conditions and limits."
+
+- id: actual-cash-value
+  term: "Actual cash value"
+  definition: "An insurance valuation basis generally reflecting replacement cost less an allowance for age and wear; the precise method depends on the policy and applicable law."
+
+- id: copayment
+  term: "Copayment"
+  definition: "A fixed amount a health-plan member pays for a covered service under the plan’s rules."
+
+- id: health-insurance-coinsurance
+  term: "Health-insurance coinsurance"
+  definition: "The percentage of a covered service’s allowed cost paid by a health-plan member under the plan’s cost-sharing rules."
+
+- id: out-of-pocket-maximum
+  term: "Out-of-pocket maximum"
+  definition: "A health plan’s limit on qualifying member cost sharing during a plan year; premiums and other excluded costs do not count toward the limit."
+
+- id: market-risk
+  term: "Market risk"
+  definition: "The possibility of financial loss from changes in market prices or rates."
+
+- id: liquidity-risk
+  term: "Liquidity risk"
+  definition: "The risk of being unable to meet payments when due without unacceptable losses, including difficulty raising cash or selling assets."
+
+- id: operational-risk
+  term: "Operational risk"
+  definition: "The risk of loss from inadequate or failed processes, people, systems, or external events."
+
+- id: stress-testing
+  term: "Stress testing"
+  definition: "Examining potential outcomes under severe adverse assumptions to assess resilience, rather than predict a specific event."
+
+- id: alternative-investment
+  term: "Alternative investment"
+  definition: "An investment outside conventional holdings of publicly traded stocks, bonds, and cash, or one using a nontraditional strategy; the category’s boundaries vary."
+
+- id: real-estate
+  term: "Real estate"
+  definition: "Land and the buildings or improvements attached to it."
+
+- id: investment-vehicle
+  term: "Investment vehicle"
+  definition: "The legal or financial structure through which an investment is held, such as a fund or company."
+
+- id: rental-income
+  term: "Rental income"
+  definition: "Money earned by allowing others to use property under a rental agreement."
+
+- id: vacancy-allowance
+  term: "Vacancy allowance"
+  definition: "An estimate of rental revenue lost because space is unoccupied; unpaid rent may require a separate or explicitly combined allowance."
+
+- id: net-operating-income
+  term: "Net operating income (NOI)"
+  definition: "Property income after operating expenses, before financing costs, income taxes, depreciation, and generally major capital expenditure; reserve conventions can vary."
+
+- id: capital-expenditure
+  term: "Capital expenditure"
+  definition: "Spending to acquire, improve, or replace a long-lived asset, rather than cover ordinary day-to-day operations."
+
+- id: debt-service
+  term: "Debt service"
+  definition: "Principal and interest payments due on borrowing over a stated period."
+
+- id: cash-on-cash-return
+  term: "Cash-on-cash return"
+  definition: "Annual cash available to an investment’s owner divided by the owner’s cash invested, using explicitly stated cost and reserve conventions; it is not total return."
+
+- id: capitalization-rate
+  term: "Capitalization rate"
+  definition: "Annual property net operating income divided by property value or purchase price, before financing costs; often called a cap rate."
+
+- id: appraisal
+  term: "Appraisal"
+  definition: "A supported professional opinion of value at a stated date for a stated purpose, rather than a guaranteed sale price."
+
+- id: loan-to-value-ratio
+  term: "Loan-to-value ratio (LTV)"
+  definition: "A loan amount divided by the value of the property securing it, using a stated valuation basis."
+
+- id: property-equity
+  term: "Property equity"
+  definition: "A property’s estimated market value minus debt secured against it, before selling costs."
+
+- id: debt-service-coverage-ratio
+  term: "Debt-service coverage ratio (DSCR)"
+  definition: "Income available for debt payments divided by principal and interest due over the same period; property lending commonly uses adjusted net operating income."
+
+- id: real-estate-investment-trust
+  term: "Real estate investment trust (REIT)"
+  definition: "A company organized under applicable REIT rules that owns or finances income-producing real estate."
+
+- id: non-traded-reit
+  term: "Non-traded REIT"
+  definition: "A real estate investment trust whose shares are not listed on a public exchange; resale or repurchase opportunities may be limited."
+
+- id: return-of-capital
+  term: "Return of capital"
+  definition: "A distribution representing repayment of invested capital rather than investment earnings."
+
+- id: private-equity
+  term: "Private equity"
+  definition: "Ownership investments outside public stock markets, including investments that take publicly traded businesses private."
+
+- id: private-credit
+  term: "Private credit"
+  definition: "Privately negotiated lending, often provided by nonbank lenders or investment funds rather than through publicly traded debt markets."
+
+- id: hedge-fund
+  term: "Hedge fund"
+  definition: "A private pooled investment fund using strategies that may include leverage, derivatives, or positions designed to profit from falling prices; the name does not imply protection from loss."
+
+- id: infrastructure-investment
+  term: "Infrastructure investment"
+  definition: "Ownership or financing of systems and facilities such as energy networks, transport assets, or communications infrastructure."
+
+- id: collectible
+  term: "Collectible"
+  definition: "An item valued for rarity, desirability, or similar characteristics, such as art or coins, whose investment return usually depends on resale proceeds after costs."
+
+- id: capital-commitment
+  term: "Capital commitment"
+  definition: "An agreement to provide investment money under specified terms, potentially through payments requested over time."
+
+- id: capital-call
+  term: "Capital call"
+  definition: "A request for an investor to provide a portion of previously committed investment money when due under the agreement."
+
+- id: lock-up-period
+  term: "Lock-up period"
+  definition: "A specified period during which withdrawals or transfers of an investment are restricted."
+
+- id: redemption
+  term: "Redemption"
+  definition: "Repurchase or repayment of an investment by its fund or issuer under applicable terms; in a fund, investors may request repurchase subject to its rules."
+
+- id: redemption-gate
+  term: "Redemption gate"
+  definition: "A restriction limiting how much investors can withdraw from a fund during a stated period."
+
+- id: interval-fund
+  term: "Interval fund"
+  definition: "A U.S. closed-end investment fund offering periodic repurchases of a limited portion of its outstanding shares rather than daily redemptions."
+
+- id: management-fee
+  term: "Management fee"
+  definition: "A charge for managing investments, calculated using the base and timing specified in the investment agreement."
+
+- id: performance-fee
+  term: "Performance fee"
+  definition: "Compensation to an investment manager based on performance under agreed calculation rules and conditions."
+
+- id: foreign-exchange
+  term: "Foreign exchange"
+  definition: "Exchanging one currency for another, or the markets where those exchanges take place."
+
+- id: currency-appreciation
+  term: "Currency appreciation"
+  definition: "An increase in the value of one currency relative to another currency."
+
+- id: currency-depreciation
+  term: "Currency depreciation"
+  definition: "A decrease in the value of one currency relative to another currency; distinct from depreciation in accounting."
+
+- id: floating-exchange-rate
+  term: "Floating exchange rate"
+  definition: "An exchange-rate arrangement in which a currency’s price is mainly determined in markets."
+
+- id: fixed-exchange-rate
+  term: "Fixed exchange rate"
+  definition: "An arrangement in which authorities commit to maintaining a currency’s stated value against another currency or reference, sometimes within a band. The arrangement can change."
+
+- id: currency-risk
+  term: "Currency risk"
+  definition: "The possibility that exchange-rate changes alter the value of an investment, payment, or obligation measured in the currency being used."
+
+- id: exports
+  term: "Exports"
+  definition: "Goods and services sold by residents of an economy to nonresidents."
+
+- id: imports
+  term: "Imports"
+  definition: "Goods and services bought by residents of an economy from nonresidents."
+
+- id: balance-of-payments
+  term: "Balance of payments"
+  definition: "A record of an economy’s transactions with the rest of the world over a stated period, covering current, capital, and financial accounts."
+
+- id: current-account
+  term: "Current account"
+  definition: "In the balance of payments, the account recording trade in goods and services, primary income, and current transfers. This differs from a bank account with the same name."
+
+- id: capital-account
+  term: "Capital account"
+  definition: "In the balance of payments, the account recording capital transfers and transactions in non-produced, nonfinancial assets. It is distinct from the financial account."
+
+- id: financial-account
+  term: "Financial account"
+  definition: "In the balance of payments, the account recording transactions in financial assets and liabilities between residents and nonresidents."
+
+- id: trade-balance
+  term: "Trade balance"
+  definition: "Exports minus imports over a stated period. Specify whether the measure covers goods alone or both goods and services."
+
+- id: foreign-direct-investment
+  term: "Foreign direct investment"
+  definition: "Cross-border investment involving a lasting interest and significant influence in an enterprise in another economy."
+
+- id: portfolio-investment
+  term: "Portfolio investment"
+  definition: "In international accounts, cross-border holdings and transactions in shares and debt securities outside direct investment and reserve assets."
+
+- id: sovereign-risk
+  term: "Sovereign risk"
+  definition: "The risk that a government will fail to meet its debt obligations as agreed."
+
+- id: capital-controls
+  term: "Capital controls"
+  definition: "Rules restricting or conditioning cross-border financial transactions, potentially affecting the movement of investment money into or out of an economy."
+
+- id: emerging-markets
+  term: "Emerging markets"
+  definition: "A classification commonly used for economies with developing financial markets and growing international integration. Definitions and country lists vary."
+
+- id: development-finance
+  term: "Development finance"
+  definition: "Funding intended to support economic and social development, potentially involving public institutions, private investors, and international organizations."
+
+- id: grant
+  term: "Grant"
+  definition: "Funding that generally does not need to be repaid if its conditions are met."
+
+- id: concessional-loan
+  term: "Concessional loan"
+  definition: "A loan with terms more favorable than comparable market borrowing, such as lower interest or longer repayment periods. It remains debt."

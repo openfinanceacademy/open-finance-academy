@@ -114,16 +114,17 @@ Learn how businesses forecast cash, compare debt and equity, evaluate projects, 
 
 ## [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }})
 
-Understanding financial exposures and ways to manage them.
+Learn to identify financial risks, compare insurance coverage, and calculate retained costs. Includes worked examples of property claims, health-plan cost sharing, deductible choices, and business stress testing.
 
 - Life, health, property, and liability insurance
 - Premiums, deductibles, exclusions, and claims
 - Credit, market, liquidity, and operational risk
-- Hedging, stress testing, actuarial concepts, and reinsurance
+- A worked household stress test
+- Planned deeper lessons: hedging, actuarial methods, and reinsurance
 
 ## [Real estate and alternative investments]({{ '/knowledge/real-estate-and-alternative-investments/' | relative_url }})
 
-Assets beyond traditional publicly traded stocks and bonds.
+Learn how property and alternative investments generate returns, and compare borrowing, fees, valuation, and withdrawal terms. Includes worked rental-property examples and explained exercises.
 
 - Property valuation, rental income, and real estate financing
 - Real estate investment trusts and infrastructure
@@ -141,7 +142,7 @@ How governments raise, spend, and borrow money.
 
 ## [International finance]({{ '/knowledge/international-finance/' | relative_url }})
 
-How money, investment, and financial risk cross borders.
+An introductory lesson is available: convert currencies, calculate overseas investment results, connect trade and financial flows, and examine sovereign risk and development finance.
 
 - Exchange rates and currency markets
 - Balance of payments, trade, and international capital flows

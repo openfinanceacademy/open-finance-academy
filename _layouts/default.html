@@ -24,7 +24,7 @@
           </label>
         </div>
         <nav aria-label="Main navigation">
-          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Certifications,Glossary,Blog,About' | split: ',' %}
+          {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Certifications,Careers,Glossary,Blog,About' | split: ',' %}
           {% assign section = page.url | split: '/' | shift | first %}
           {% for item in navigation_items %}
             {% assign slug = item | downcase %}
