@@ -236,7 +236,7 @@ Follow a definition to revisit its meaning and find links back to the sections a
 
 Use [Accounting and financial analysis]({{ '/knowledge/accounting-and-financial-analysis/' | relative_url }}) to practice reading financial statements, or [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) to connect investing with household cash needs and goals.
 
-[Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }}) currently lists planned topics for exploring investment products further. Find reading resources on [Books]({{ '/books/' | relative_url }}) and professional study pathways on [Certifications]({{ '/certifications/' | relative_url }}).
+[Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }}) explains investment products, market quotes, order types, and derivative risks. Find reading resources on [Books]({{ '/books/' | relative_url }}) and professional study pathways on [Certifications]({{ '/certifications/' | relative_url }}).
 
 ### Planned follow-up lessons
 

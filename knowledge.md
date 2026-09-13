@@ -8,7 +8,7 @@ permalink: /knowledge/
 
 A growing map of finance: how money works, how financial decisions are made, and how the systems around them are built.
 
-Start with [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) and [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}); no prior finance knowledge is required. Continue with [Accounting and financial analysis]({{ "/knowledge/accounting-and-financial-analysis/" | relative_url }}) to read a small business's financial statements and connect profit with cash. [Investing and portfolio management]({{ "/knowledge/investing-and-portfolio-management/" | relative_url }}) introduces portfolio choices, funds, returns, and fees. [Banking, credit, and lending]({{ "/knowledge/banking-credit-and-lending/" | relative_url }}) covers deposit accounts, borrowing costs, and repayment decisions. The remaining areas outline planned coverage and will gain lessons, guides, examples, and exercises over time. Look up new terms in the [Glossary]({{ '/glossary/' | relative_url }}), where each definition links back to its lesson references.
+Start with [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) and [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}); no prior finance knowledge is required. Continue with [Accounting and financial analysis]({{ "/knowledge/accounting-and-financial-analysis/" | relative_url }}) to read a small business's financial statements and connect profit with cash. [Investing and portfolio management]({{ "/knowledge/investing-and-portfolio-management/" | relative_url }}) introduces portfolio choices, funds, returns, and fees. [Banking, credit, and lending]({{ "/knowledge/banking-credit-and-lending/" | relative_url }}) covers deposit accounts, borrowing costs, and repayment decisions. [Payments and money movement]({{ "/knowledge/payments-and-money-movement/" | relative_url }}) follows a payment from payer to payee and compares the cost of moving money, including abroad. [Financial markets and instruments]({{ "/knowledge/financial-markets-and-instruments/" | relative_url }}) explains traded products, quotes, orders, and derivative risks. The remaining areas outline planned coverage and will gain lessons, guides, examples, and exercises over time. Look up new terms in the [Glossary]({{ '/glossary/' | relative_url }}), where each definition links back to its lesson references.
 
 ## Explore the areas
 
@@ -78,7 +78,7 @@ An introductory lesson is available: compare accounts, follow loan repayments, a
 
 ## [Payments and money movement]({{ '/knowledge/payments-and-money-movement/' | relative_url }})
 
-The infrastructure that moves value between people and organizations.
+An introductory lesson is available: follow a payment from payer to payee, compare card fees, and calculate the true cost of sending money abroad.
 
 - Cards, bank transfers, direct debits, and instant payments
 - Payment processing, clearing, and settlement
@@ -96,7 +96,7 @@ An introductory lesson is available: connect investments to goals, compare funds
 
 ## [Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }})
 
-The products traded in markets and the mechanisms behind their prices.
+An introductory lesson is available: compare instruments, interpret bond yields and trading quotes, and work through orders, derivatives, and leverage.
 
 - Stocks, bonds, money markets, and commodities
 - Futures, forwards, options, and swaps

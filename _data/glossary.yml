@@ -406,3 +406,243 @@
 - id: bankruptcy
   term: "Bankruptcy"
   definition: "A legal process for addressing debts that cannot be paid, potentially involving repayment, sale of assets, or relief from some obligations. Rules and outcomes depend on jurisdiction and case."
+- id: supply
+  term: "Supply"
+  definition: "The quantity of a good or service that sellers are willing to offer at a given price over a stated period."
+- id: demand
+  term: "Demand"
+  definition: "The quantity of a good or service that buyers are willing to purchase at a given price over a stated period."
+- id: market
+  term: "Market"
+  definition: "An arrangement, physical or online, in which buyers and sellers exchange goods, services, or assets, often coordinated through prices."
+- id: incentive
+  term: "Incentive"
+  definition: "Something, such as a price, cost, reward, or penalty, that encourages a particular choice or behavior."
+- id: business-cycle
+  term: "Business cycle"
+  definition: "The recurring, irregular pattern of economic expansion and contraction in a country or region over time."
+- id: economic-expansion
+  term: "Economic expansion"
+  definition: "A period during which overall economic activity, such as production and employment, is generally increasing."
+- id: recession
+  term: "Recession"
+  definition: "A period during which overall economic activity is generally declining. Exact definitions and dating methods vary by country and institution."
+- id: central-bank
+  term: "Central bank"
+  definition: "A public institution responsible for a country or region's currency and monetary policy, and often for bank supervision and financial stability."
+- id: monetary-policy
+  term: "Monetary policy"
+  definition: "Actions a central bank takes to influence the availability and cost of money and credit, commonly to pursue goals such as stable prices and full employment."
+- id: policy-rate
+  term: "Policy rate"
+  definition: "A short-term interest rate set or targeted by a central bank, used as its main tool to influence borrowing costs and economic activity."
+- id: fiscal-policy
+  term: "Fiscal policy"
+  definition: "Government decisions about spending and taxation used to influence economic activity, separate from a central bank's monetary policy."
+- id: money-supply
+  term: "Money supply"
+  definition: "The total amount of money circulating in an economy at a given time, measured using different definitions that include varying combinations of cash and bank deposits."
+- id: gross-domestic-product
+  term: "Gross domestic product (GDP)"
+  definition: "The total monetary value of goods and services produced within a country over a stated period, commonly used to measure the size and growth of an economy."
+- id: unemployment-rate
+  term: "Unemployment rate"
+  definition: "The share of people in the labor force who do not have a job but are available for and actively seeking work, according to a given country's definition."
+- id: economic-indicator
+  term: "Economic indicator"
+  definition: "A statistic, such as GDP, the unemployment rate, or an inflation measure, used to assess the condition or direction of an economy."
+- id: financial-institution
+  term: "Financial institution"
+  definition: "An organization, such as a bank, credit union, insurer, or investment firm, that provides financial services like accepting deposits, lending, or managing investments."
+- id: systemic-risk
+  term: "Systemic risk"
+  definition: "The possibility that the failure or distress of one financial institution or market spreads to others, threatening the stability of the wider financial system."
+- id: financial-crisis
+  term: "Financial crisis"
+  definition: "A period of severe disruption to financial institutions or markets, often involving sharp asset price declines, credit shortages, or institution failures."
+- id: payment
+  term: "Payment"
+  definition: "The transfer of money from a payer to a payee, whether to buy something, repay a debt, or move money for another purpose."
+- id: payer
+  term: "Payer"
+  definition: "The person or organization sending money in a payment."
+- id: payee
+  term: "Payee"
+  definition: "The person or organization receiving money in a payment."
+- id: payment-instrument
+  term: "Payment instrument"
+  definition: "A method used to start a payment, such as a card, bank transfer, or direct debit."
+- id: card-network
+  term: "Card network"
+  definition: "A system, such as Visa or Mastercard, that sets rules for card payments and routes transactions between the card issuer and the acquirer."
+- id: card-issuer
+  term: "Card issuer"
+  definition: "The bank or financial institution that provides a payment card to a cardholder and decides whether to approve or decline transactions on it."
+- id: acquirer
+  term: "Acquirer"
+  definition: "The bank or payment provider that enables a merchant to accept card payments and receives the funds from a card sale on the merchant's behalf."
+- id: authorization
+  term: "Authorization"
+  definition: "A card issuer's approval that a specific transaction can proceed, based on available funds or credit and other checks, before the money actually moves."
+- id: interchange-fee
+  term: "Interchange fee"
+  definition: "A fee the acquirer pays the card issuer for each card transaction, which is normally built into what merchants pay to accept card payments."
+- id: bank-transfer
+  term: "Bank transfer"
+  definition: "An instruction to move money directly from one bank account to another, also called a credit transfer."
+- id: direct-debit
+  term: "Direct debit"
+  definition: "An arrangement letting a payee collect money directly from a payer's bank account, usually for recurring payments, under the payer's advance authorization."
+- id: instant-payment
+  term: "Instant payment"
+  definition: "A bank transfer that is processed and made available to the payee within seconds, at any time, rather than only during business hours or after a delay of hours or days."
+- id: payment-processor
+  term: "Payment processor"
+  definition: "A company that handles the technical steps of accepting, checking, and routing a payment on behalf of a merchant or a bank."
+- id: clearing
+  term: "Clearing"
+  definition: "The exchange and checking of transaction details and calculation of obligations before settlement. In payment systems, this establishes what participating institutions owe; in securities markets, it also covers obligations to deliver securities."
+- id: settlement
+  term: "Settlement"
+  definition: "The completion of a transaction through the required transfers. In payment systems, it is the final transfer of funds fulfilling payment obligations; in securities markets, it also involves delivery of the securities."
+- id: payment-rail
+  term: "Payment rail"
+  definition: "The underlying network and infrastructure used to move money for a particular type of payment, such as a card network or a bank transfer system."
+- id: remittance
+  term: "Remittance"
+  definition: "A transfer of money, often sent by a person working in one country to family or others in another country."
+- id: cross-border-payment
+  term: "Cross-border payment"
+  definition: "A payment sent from a payer in one country to a payee in another, usually involving a currency conversion."
+- id: correspondent-bank
+  term: "Correspondent bank"
+  definition: "A bank that provides services, such as processing payments, to another bank, often in a different country, helping money move across borders."
+- id: wire-transfer
+  term: "Wire transfer"
+  definition: "A direct, typically same-day transfer of funds between banks, often used for large payments or international payments."
+- id: exchange-rate
+  term: "Exchange rate"
+  definition: "The price of one currency stated in terms of another, used to convert an amount from one currency into another."
+- id: foreign-exchange-margin
+  term: "Foreign-exchange margin"
+  definition: "The difference between the exchange rate a provider applies to a customer's payment and the market's reference exchange rate, which functions as an extra, often less visible, cost."
+- id: authentication
+  term: "Authentication"
+  definition: "The process of confirming that someone attempting a payment or accessing an account is who they claim to be."
+- id: strong-customer-authentication
+  term: "Strong customer authentication"
+  definition: "A requirement, used in some jurisdictions, that a payment be confirmed using at least two independent forms of identity verification, such as something the payer knows and something they possess."
+- id: fraud
+  term: "Fraud"
+  definition: "Intentional deception carried out to obtain money or property unlawfully, including using someone else's payment details without permission."
+- id: dispute
+  term: "Dispute"
+  definition: "A payer's formal challenge to a transaction, such as a claim that it was unauthorized, incorrect, or for goods or services never received."
+- id: chargeback
+  term: "Chargeback"
+  definition: "A reversal of a card payment, initiated through the card network after a successful dispute, that returns funds from the merchant to the cardholder."
+- id: financial-market
+  term: "Financial market"
+  definition: "A system in which participants issue or trade financial claims and contracts. It may operate through exchanges or networks of dealers."
+- id: financial-instrument
+  term: "Financial instrument"
+  definition: "A financial claim or contract with specified rights or obligations, such as a share, bond, or derivative."
+- id: primary-market
+  term: "Primary market"
+  definition: "The market in which newly issued financial instruments are sold, typically to raise funds for their issuer."
+- id: secondary-market
+  term: "Secondary market"
+  definition: "The market in which existing financial instruments are traded between holders, rather than newly issued by the issuer."
+- id: face-value
+  term: "Face value"
+  definition: "The stated principal amount of a debt instrument, used to calculate payments such as a bond’s coupon and normally due at maturity under its terms."
+- id: coupon
+  term: "Coupon"
+  definition: "A bond’s contractual interest payment. A fixed coupon rate is applied to face value, not the current market price."
+- id: maturity
+  term: "Maturity"
+  definition: "The scheduled date on which a debt instrument’s principal becomes due under its terms."
+- id: money-market
+  term: "Money market"
+  definition: "Markets for short-term borrowing and lending, commonly involving debt due within a year."
+- id: treasury-bill
+  term: "Treasury bill"
+  definition: "A short-term government debt instrument. U.S. Treasury bills pay face value at maturity and are sold at a discount or at face value."
+- id: commercial-paper
+  term: "Commercial paper"
+  definition: "Short-term debt issued by companies, commonly unsecured, to meet financing needs."
+- id: commodity
+  term: "Commodity"
+  definition: "A basic physical good, such as wheat, oil, or a metal, traded in physical markets or referenced by financial contracts."
+- id: current-yield
+  term: "Current yield"
+  definition: "For a bond, annual coupon payments divided by its current market price. It excludes changes in price and gains or losses on repayment of principal."
+- id: exchange
+  term: "Exchange"
+  definition: "An organized trading venue operating under rules for bringing buyers and sellers together."
+- id: broker
+  term: "Broker"
+  definition: "A person or firm arranging or executing financial transactions for customers. A firm may also act as a dealer trading for its own account."
+- id: market-maker
+  term: "Market maker"
+  definition: "A firm that stands ready to buy and sell an instrument at quoted prices for stated quantities, subject to market rules and conditions."
+- id: bid-price
+  term: "Bid price"
+  definition: "A quoted price at which a buyer is willing to buy a stated quantity of an instrument."
+- id: ask-price
+  term: "Ask price"
+  definition: "A quoted price at which a seller is willing to sell a stated quantity of an instrument; also called the offer price."
+- id: bid-ask-spread
+  term: "Bid–ask spread"
+  definition: "The difference between the quoted ask price and bid price for an instrument. It is one component of trading cost."
+- id: price-discovery
+  term: "Price discovery"
+  definition: "The process through which orders, trades, and information help establish market prices. It does not ensure that prices equal an asset’s true value."
+- id: market-order
+  term: "Market order"
+  definition: "An instruction to buy or sell at the best available prices when executed, without guaranteeing a particular price."
+- id: limit-order
+  term: "Limit order"
+  definition: "An instruction to buy at a specified price or lower, or sell at a specified price or higher. Execution is not guaranteed."
+- id: stop-order
+  term: "Stop order"
+  definition: "An order that becomes a market order after its specified stop condition is triggered. The eventual execution price can differ from the stop price."
+- id: derivative
+  term: "Derivative"
+  definition: "A contract whose value or payments depend on a referenced asset, rate, index, or other measure."
+- id: forward-contract
+  term: "Forward contract"
+  definition: "An agreement between parties to buy or sell an asset at a price agreed today for a future date, often customized and privately negotiated."
+- id: futures-contract
+  term: "Futures contract"
+  definition: "A standardized exchange-traded agreement referencing an asset or measure for future delivery or cash settlement, with gains and losses generally settled daily."
+- id: option
+  term: "Option"
+  definition: "A contract giving its buyer a right, rather than an obligation, to buy or sell a referenced asset at specified terms within a stated time. The seller takes on the corresponding obligation if exercised."
+- id: swap
+  term: "Swap"
+  definition: "A contract to exchange payments determined by agreed formulas, such as fixed-rate payments for variable-rate payments."
+- id: hedging
+  term: "Hedging"
+  definition: "Taking a position intended to offset a particular risk in another exposure. A hedge can involve costs, imperfect offsets, and new risks."
+- id: call-option
+  term: "Call option"
+  definition: "An option giving its buyer the right to buy the referenced asset at the strike price under the contract’s timing and other terms."
+- id: put-option
+  term: "Put option"
+  definition: "An option giving its buyer the right to sell the referenced asset at the strike price under the contract’s timing and other terms."
+- id: strike-price
+  term: "Strike price"
+  definition: "The agreed purchase or sale price used when an option is exercised."
+- id: option-premium
+  term: "Option premium"
+  definition: "The price paid by an option buyer to acquire the contract and received by its seller."
+- id: leverage
+  term: "Leverage"
+  definition: "Using borrowing or contracts to obtain exposure larger than the money initially committed, magnifying gains and losses relative to that amount."
+- id: margin
+  term: "Margin"
+  definition: "Money or eligible assets required to support a trading position. In securities borrowing it supports a loan; in futures it supports performance of the contract rather than purchasing the underlying asset."
+- id: margin-call
+  term: "Margin call"
+  definition: "A demand for additional money or eligible assets when an account no longer meets applicable margin requirements. Positions may be closed without waiting for the investor to respond."
