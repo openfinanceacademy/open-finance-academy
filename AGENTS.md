@@ -1,24 +1,21 @@
-# Repository instructions
+# Open Finance Academy
 
-Open Finance Academy is a Markdown and Jekyll site for accessible financial education.
+This is a Markdown/Jekyll static site deployed to GitHub Pages. Source files are built into `_site/`; edit source, never generated output.
 
-## Lessons and knowledge content
+## Commands
 
-Before creating or editing any lesson, knowledge area index, or glossary entry, read and follow [the finance lesson skill](skills/finance-lessons/SKILL.md). Apply it to every lesson, including lessons added inside an existing area's folder.
+- Install the pinned Pagefind dependency with `npm ci` (Node.js 22+ is expected).
+- `just build` runs `jekyll build` and then `npm run search:index`.
+- `just check` builds, runs `python3 scripts/check_site.py`, and runs `git diff --check`.
+- `just serve` builds the site and serves `_site` on port 4000. Plain `jekyll serve` does not build the Pagefind index.
+- For a subpath build, pass the same base path to Jekyll and the checker: `jekyll build --baseurl /your-path` and `python3 scripts/check_site.py --baseurl /your-path`.
 
-Use `knowledge/money-and-financial-fundamentals/index.md` as the worked example. The shared conventions are plain-language explanations, clearly introduced terms, worked examples, practice questions with explained answers, and glossary links in both directions. Scale the depth to the topic; preserve the structure when making focused edits.
+## Content rules
 
-## Site structure
+- Before editing a lesson, knowledge index, or glossary entry, read `skills/finance-lessons/SKILL.md`; use `knowledge/money-and-financial-fundamentals/index.md` as the structural example.
+- Keep knowledge area indexes at `knowledge/<area>/index.md`; put additional lessons in that area folder and link them from its index and, when appropriate, `knowledge.md`.
+- Preserve stable permalinks and glossary IDs. New or explained terms need a matching `_data/glossary.yml` definition, first-use glossary link, and `glossary_terms` front-matter mapping to the real section anchor.
+- Keep planned topics clearly labeled as planned. Use `relative_url` for internal Markdown/Liquid links.
+- Published pages need unique, accurate `description` front-matter; preserve heading anchors or update every inbound link and glossary reference when changing headings.
 
-- `knowledge.md` is the overview of the 18 major finance areas.
-- `knowledge/<area>/index.md` is each area's landing page, containing a lesson or planned topics and links to lessons.
-- Additional lessons belong inside the relevant `knowledge/<area>/` folder.
-- `_data/glossary.yml` contains shared definitions; `glossary.md` renders the alphabetical glossary and references from page metadata.
-- `_layouts/default.html` contains the shared navigation, including Knowledge and Glossary.
-- `assets/css/style.css` contains shared styles.
-
-Preserve stable page URLs and glossary IDs. Update inbound links and reference metadata when a heading anchor changes. Keep planned content clearly distinguished from published lessons.
-
-## Validation
-
-Run `jekyll build` after content changes. Check rendered local links and heading anchors, glossary references, and example arithmetic. Run `git diff --check`. Edit source files rather than generated `_site/` output.
+Run `just check` after site changes, and inspect rendered links, anchors, glossary references, and worked-example arithmetic. The GitHub Pages workflow also builds the search index and runs `scripts/check_site.py` with its configured base path.
