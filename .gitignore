@@ -3,5 +3,6 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+node_modules/
 Gemfile.lock
 .DS_Store

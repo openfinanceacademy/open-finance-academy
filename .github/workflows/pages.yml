@@ -44,6 +44,17 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Build search index
+        run: |
+          npm ci
+          npm run search:index
+
       - name: Check metadata, sitemap, and local links
         env:
           PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}

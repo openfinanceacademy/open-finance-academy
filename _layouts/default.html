@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include seo.html %}
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+    {% if page.search %}
+    <link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}">
+    <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
@@ -13,14 +18,21 @@
       <div class="container header-inner">
         <div class="header-top">
           <a class="brand" href="{{ '/' | relative_url }}">Open Finance <span>Academy</span></a>
-          <label class="theme-control" hidden>
-            Theme
-            <select id="theme-preference">
-              <option value="system">System</option>
-              <option value="light">Light</option>
-              <option value="dark">Dark</option>
-            </select>
-          </label>
+          <div class="header-controls">
+            <form class="header-search" action="{{ '/search/' | relative_url }}" method="get" role="search">
+              <label class="visually-hidden" for="site-search">Search Open Finance Academy</label>
+              <input id="site-search" name="q" type="search" placeholder="Search" autocomplete="off">
+              <button type="submit">Search</button>
+            </form>
+            <label class="theme-control" hidden>
+              Theme
+              <select id="theme-preference">
+                <option value="system">System</option>
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+              </select>
+            </label>
+          </div>
         </div>
         <nav aria-label="Main navigation">
           {% assign navigation_items = 'Home,Knowledge,Projects,Books,Courses,Videos,Certifications,Institutions,Banks,Brokerages,Stock Exchanges,Software,Philanthropy,Careers,Job Board,Glossary,Blog,About,Disclaimer' | split: ',' %}
@@ -35,7 +47,7 @@
       </div>
     </header>
 
-    <main id="main-content" class="container content" tabindex="-1">
+    <main id="main-content" class="container content" tabindex="-1"{% unless page.search or page.search_exclude %} data-pagefind-body{% endunless %}>
       {% if page.date %}<h1>{{ page.title | escape }}</h1>{% endif %}
       {% if page.date %}<p class="post-date">Published <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>{% endif %}
       {{ content }}

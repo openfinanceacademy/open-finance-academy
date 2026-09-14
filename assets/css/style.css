@@ -56,6 +56,10 @@ body {
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); padding: 1.25rem 0; }
 .header-inner { align-items: flex-start; display: flex; flex-direction: column; gap: 1rem; }
 .header-top { align-items: center; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; width: 100%; }
+.header-controls { align-items: center; display: flex; flex-wrap: wrap; gap: 1rem; }
+.header-search { display: flex; font-family: Arial, sans-serif; }
+.header-search input { background: var(--paper); border: 1px solid var(--line); border-radius: .25rem 0 0 .25rem; color: var(--ink); font: inherit; min-height: 44px; min-width: min(15rem, 52vw); padding: .45rem .65rem; }
+.header-search button { background: var(--accent); border: 1px solid var(--accent); border-radius: 0 .25rem .25rem 0; color: var(--paper); cursor: pointer; font: inherit; font-weight: bold; min-height: 44px; padding: .45rem .75rem; }
 .theme-control { color: var(--ink); font-family: Arial, sans-serif; font-size: 1rem; }
 .theme-control select { background: var(--paper); border: 1px solid var(--line); border-radius: .25rem; color: var(--ink); font: inherit; margin-left: .35rem; min-height: 44px; padding: .4rem .5rem; }
 .brand { color: var(--ink); font-size: 1.3rem; font-weight: bold; text-decoration: none; }
@@ -78,6 +82,7 @@ a { color: var(--accent); text-decoration: underline; text-underline-offset: .18
 [id] { scroll-margin-top: 1.5rem; }
 .skip-link { background: var(--paper); color: var(--accent); font-family: Arial, sans-serif; left: 1rem; padding: .75rem 1rem; position: absolute; top: 1rem; transform: translateY(-200%); z-index: 10; }
 .skip-link:focus { transform: translateY(0); }
+.visually-hidden { clip: rect(0 0 0 0); clip-path: inset(50%); height: 1px; overflow: hidden; position: absolute; white-space: nowrap; width: 1px; }
 ::selection { background: var(--accent-dark); color: var(--paper); }
 li { margin: .45rem 0; max-width: 80ch; }
 table { border-collapse: collapse; font-size: .95em; margin: 1.5rem 0; width: 100%; }
@@ -108,3 +113,16 @@ tbody tr:nth-child(even) { background: var(--surface); }
   .content { padding-top: 2rem; }
   th, td { padding: .5rem .35rem; }
 }
+
+#search {
+  --pagefind-ui-primary: var(--accent);
+  --pagefind-ui-text: var(--ink);
+  --pagefind-ui-background: var(--paper);
+  --pagefind-ui-border: var(--line);
+  --pagefind-ui-tag: var(--surface);
+  --pagefind-ui-font: Arial, sans-serif;
+  --pagefind-ui-border-radius: .25rem;
+}
+
+#search mark { background: var(--surface); color: var(--ink); font-weight: bold; }
+#search :focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }

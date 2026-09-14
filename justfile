@@ -1,11 +1,12 @@
 default:
     @just --list
 
-serve:
-    jekyll serve --livereload
+serve: build
+    python3 -m http.server 4000 --directory _site
 
 build:
     jekyll build
+    npm run search:index
 
 check: build
     python3 scripts/check_site.py

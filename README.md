@@ -35,11 +35,24 @@ The curriculum will grow over time and may include:
 
 This project is in its early stages. Start by exploring the available lessons and examples, or open an issue with a topic you would like to see covered. Site content lives in Markdown files and is built with Jekyll.
 
-To preview the site locally with Jekyll installed:
+To preview the site locally with Jekyll, Node.js 22 or newer, and npm installed:
 
 ```sh
-jekyll serve
+npm ci
+just serve
 ```
+
+This builds Jekyll and the Pagefind search index, then serves the site at
+http://localhost:4000. Re-run after editing content to refresh both pages and search.
+Without `just`, run `jekyll build`, `npm run search:index`, then
+`python3 -m http.server 4000 --directory _site`.
+
+Search uses [Pagefind](https://pagefind.app/) to index rendered main content,
+including glossary definitions and heading links. Navigation, footers, and the
+search page are excluded. Set `search_exclude: true` in a page’s front matter to
+exclude it from site search. Search assets are self-hosted and generated during
+each GitHub Pages deployment. Plain `jekyll serve` does not generate the index;
+use the build-and-serve commands above when testing search.
 
 See [DOMAIN_SETUP.md](DOMAIN_SETUP.md) for GitHub Pages and custom-domain setup instructions.
 
@@ -53,7 +66,7 @@ The shared layout generates canonical URLs, Open Graph and Twitter metadata, bre
 
 `sitemap.xml` automatically includes pages using the default layout and published posts. `robots.txt` advertises it. Both use `url` and `baseurl` from `_config.yml`, as do canonical and structured-data URLs. No extra Jekyll plugins are required.
 
-Run `just check`, or run `jekyll build`, `python3 scripts/check_site.py`, and `git diff --check`. The checker validates unique titles and descriptions, structured data, sitemap coverage, internal links, and heading anchors (including glossary references). GitHub Actions runs it before uploading the site. For a subpath build, pass the same path to Jekyll and the checker with `--baseurl /your-path`.
+Run `just check`, or run `jekyll build`, `npm run search:index`, `python3 scripts/check_site.py`, and `git diff --check` (after `npm ci`). The checker validates unique titles and descriptions, structured data, sitemap coverage, internal links, and heading anchors (including glossary references). GitHub Actions runs it before uploading the site. For a subpath build, pass the same path to Jekyll and the checker with `--baseurl /your-path`.
 
 After deployment, verify ownership in [Google Search Console](https://search.google.com/search-console) and submit `https://openfinance.academy/sitemap.xml`. Use URL Inspection to confirm indexing and monitor search performance and Core Web Vitals. Search metadata helps discovery and presentation; it does not guarantee rankings.
 
