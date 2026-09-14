@@ -27,6 +27,7 @@ glossary_terms:
   development-finance: understand-development-finance
   grant: understand-development-finance
   concessional-loan: understand-development-finance
+description: "Learn to convert currencies, measure overseas investment returns, and understand trade, capital flows, and sovereign risk through worked examples."
 ---
 
 # International finance

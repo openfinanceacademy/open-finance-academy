@@ -1,5 +1,6 @@
 title: Open Finance Academy
-description: Practical, community-driven learning for open finance.
+description: Free, open financial education. Learn money skills, investing, and financial technology with plain-language lessons, worked examples, and curated resources.
+lang: en
 url: https://openfinance.academy
 baseurl: ""
 markdown: kramdown
@@ -9,3 +10,4 @@ exclude:
   - README.md
   - justfile
   - skills/
+  - scripts/

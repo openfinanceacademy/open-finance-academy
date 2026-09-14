@@ -1437,6 +1437,74 @@
   term: "Model risk"
   definition: "The possibility of loss or poor decisions arising from a model that is wrong, built on flawed data, or used for a purpose it does not suit."
 
+- id: sustainable-finance
+  term: "Sustainable finance"
+  definition: "Financial activity that takes environmental and social effects into account alongside financial returns. What counts as sustainable varies by framework and provider."
+
+- id: financial-inclusion
+  term: "Financial inclusion"
+  definition: "The extent to which people and businesses can access and use affordable financial services that meet their needs, such as accounts, payments, credit, and insurance."
+
+- id: financial-exclusion
+  term: "Financial exclusion"
+  definition: "Being unable to access or use affordable financial services that meet basic needs, whether because of cost, documentation, location, or other barriers."
+
+- id: unbanked
+  term: "Unbanked"
+  definition: "Describes a person or household without an account at a bank or similar institution. Exact definitions vary by survey."
+
+- id: underbanked
+  term: "Underbanked"
+  definition: "Describes a person or household that has an account but still relies on services outside the banking system, such as check cashing or high-cost short-term credit, for some needs."
+
+- id: payday-loan
+  term: "Payday loan"
+  definition: "A small, short-term loan typically due in full on the borrower's next payday, with fees that imply a high annualized cost. Rules, costs, and availability vary by jurisdiction."
+
+- id: cooperative
+  term: "Cooperative"
+  definition: "An organization owned and controlled by the members who use its services rather than by outside shareholders, with profits typically returned to members or reinvested."
+
+- id: microfinance
+  term: "Microfinance"
+  definition: "Providing small-scale financial services, such as small loans and savings, to people excluded from conventional banking, often to support very small businesses."
+
+- id: climate-risk
+  term: "Climate risk"
+  definition: "The possibility of financial loss arising from climate change, whether through damage from weather events and long-term shifts or through economic changes as the economy responds."
+
+- id: physical-risk
+  term: "Physical risk"
+  definition: "Financial risk from climate-related events and trends themselves, such as floods, storms, heat, or rising sea levels damaging property or disrupting activity."
+
+- id: transition-risk
+  term: "Transition risk"
+  definition: "Financial risk from changes in policy, technology, or markets as the economy shifts away from emissions-intensive activity, which can reduce the value of some assets and businesses."
+
+- id: sustainable-investing
+  term: "Sustainable investing"
+  definition: "Investing that considers environmental or social effects alongside financial return, using approaches such as screening, selection, or engagement. Labels and methods vary widely."
+
+- id: esg
+  term: "Environmental, social, and governance (ESG)"
+  definition: "A set of non-financial factors — environmental impact, treatment of people, and how an organization is run — used by some investors to evaluate companies or funds. Ratings and methods differ between providers."
+
+- id: green-bond
+  term: "Green bond"
+  definition: "A bond whose proceeds are committed to specified environmental projects, with reporting expected on how the money is used. The strength of the label depends on the framework and verification behind it."
+
+- id: impact-investing
+  term: "Impact investing"
+  definition: "Investing with the intention of generating a measurable social or environmental benefit alongside a financial return."
+
+- id: greenwashing
+  term: "Greenwashing"
+  definition: "Making a product, fund, or company appear more environmentally or socially beneficial than the evidence supports, through naming, marketing, or selective disclosure."
+
+- id: poverty-premium
+  term: "Poverty premium"
+  definition: "The higher relative cost that people with low incomes can pay for the same basic services, such as payments, credit, or insurance, compared with wealthier households."
+
 - id: public-finance
   term: "Public finance"
   definition: "The study of how public authorities raise money, spend it, provide services, make transfers, and borrow."
@@ -1484,3 +1552,15 @@
 - id: social-insurance
   term: "Social insurance"
   definition: "A public program that collects contributions or taxes to provide defined support when people face risks such as old age, disability, unemployment, or illness."
+
+- id: philanthropy
+  term: "Philanthropy"
+  definition: "Voluntary contributions of money, time, skills, or other resources to help others and support the common good."
+
+- id: philanthropist
+  term: "Philanthropist"
+  definition: "Someone who contributes money, time, skills, or other resources to help others. Taking part does not require wealth or fame."
+
+- id: giving-circle
+  term: "Giving circle"
+  definition: "A group that combines its members' contributions and jointly chooses the causes or organizations to support."

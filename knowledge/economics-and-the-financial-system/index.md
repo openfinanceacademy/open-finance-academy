@@ -23,6 +23,7 @@ glossary_terms:
   financial-institution: financial-institutions-and-systemic-risk
   systemic-risk: financial-institutions-and-systemic-risk
   financial-crisis: financial-institutions-and-systemic-risk
+description: "Learn how supply and demand, central banks, government policy, economic indicators, and financial crises connect households, businesses, and institutions."
 ---
 
 # Economics and the financial system

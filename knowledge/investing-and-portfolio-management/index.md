@@ -35,6 +35,7 @@ glossary_terms:
   real-return: understand-fees-and-taxes
   present-value: research-before-committing-money
   discount-rate: research-before-committing-money
+description: "Learn to connect investments to goals, diversify, compare funds, measure returns, and rebalance a portfolio with worked examples and explained exercises."
 ---
 
 # Investing and portfolio management

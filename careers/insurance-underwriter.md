@@ -2,6 +2,8 @@
 layout: default
 title: Insurance Underwriter
 permalink: /careers/insurance-underwriter/
+description: "Evaluates insurance applications and determines coverage terms and pricing."
+seo_title: "Insurance Underwriter Career"
 ---
 
 # Insurance Underwriter

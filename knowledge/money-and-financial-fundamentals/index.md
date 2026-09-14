@@ -27,6 +27,7 @@ glossary_terms:
   risk: weighing-risk-and-access
   liquidity: weighing-risk-and-access
   opportunity-cost: what-you-give-up
+description: "Learn how money, interest, compounding, inflation, risk, and opportunity cost work through simple examples and practice questions with explained answers."
 ---
 
 # Money and financial fundamentals

@@ -2,6 +2,8 @@
 layout: default
 title: Courses
 permalink: /courses/
+description: "Explore curated finance courses and learning paths in accounting, markets, investing, probability, and financial technology from external providers."
+seo_title: "Finance Courses and Learning Paths"
 ---
 
 # Courses

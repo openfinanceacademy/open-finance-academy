@@ -2,6 +2,8 @@
 layout: default
 title: Portfolio Manager
 permalink: /careers/portfolio-manager/
+description: "Selects and monitors a collection of investments based on a client's or organization's goals, time horizon, and tolerance for risk."
+seo_title: "Portfolio Manager Career"
 ---
 
 # Portfolio Manager

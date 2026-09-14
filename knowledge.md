@@ -2,6 +2,8 @@
 layout: default
 title: Knowledge
 permalink: /knowledge/
+description: "Explore 18 finance areas with free lessons, worked examples, and planned topics covering money, investing, banking, economics, and financial technology."
+seo_title: "Finance Lessons and Learning Topics"
 ---
 
 # Knowledge
@@ -187,7 +189,7 @@ An introductory lesson is available: estimate uncertain outcomes, summarize retu
 
 ## [Sustainable finance and financial inclusion]({{ '/knowledge/sustainable-finance-and-financial-inclusion/' | relative_url }})
 
-Examining who financial systems serve and their wider effects.
+An introductory lesson is available: calculate the cost of exclusion, compare small loans, explore community finance and microfinance, and examine climate risk, sustainable-investing labels, and accountability.
 
 - Access to banking, credit, and affordable financial services
 - Community finance, cooperatives, and microfinance

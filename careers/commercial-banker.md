@@ -2,6 +2,8 @@
 layout: default
 title: Commercial Banker
 permalink: /careers/commercial-banker/
+description: "Works with businesses to provide loans, accounts, and other banking services."
+seo_title: "Commercial Banker Career"
 ---
 
 # Commercial Banker

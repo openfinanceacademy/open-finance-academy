@@ -2,6 +2,8 @@
 layout: default
 title: About
 permalink: /about/
+description: "Learn about our community-driven mission to make financial education freely accessible and help people understand money and financial technology."
+seo_title: "About Open Finance Academy"
 ---
 
 # About

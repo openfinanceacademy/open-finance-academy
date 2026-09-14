@@ -2,6 +2,7 @@
 layout: default
 title: "US Inflation on September 12, 2026: Still Above Target, With a Divided Outlook"
 date: 2026-09-12
+description: "Explore a September 2026 discussion of US inflation, competing forecasts, and the economic indicators that shape the outlook for households and interest rates."
 ---
 
 As of September 12, 2026, the latest official US inflation data covers August. The Bureau of Labor Statistics released that report on September 11, because the September CPI report is not scheduled until October 14.

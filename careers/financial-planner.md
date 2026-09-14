@@ -2,6 +2,8 @@
 layout: default
 title: Financial Planner
 permalink: /careers/financial-planner/
+description: "Helps individuals and families build plans for saving, managing debt, investing, and working toward long-term financial goals."
+seo_title: "Financial Planner Career"
 ---
 
 # Financial Planner

@@ -23,6 +23,7 @@ glossary_terms:
   redress: document-and-resolve-a-problem
   ombudsman: document-and-resolve-a-problem
   dark-patterns: design-services-people-can-use
+description: "Learn to compare financial disclosures, recognize conflicts and scams, protect privacy, and document complaints through examples and consumer-protection resources."
 ---
 
 # Financial law, ethics, and consumer protection

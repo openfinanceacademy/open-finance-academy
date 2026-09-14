@@ -2,6 +2,8 @@
 layout: default
 title: Quantitative Analyst
 permalink: /careers/quantitative-analyst/
+description: "Uses mathematics, statistics, and programming to model investments and financial risks."
+seo_title: "Quantitative Analyst Career"
 ---
 
 # Quantitative Analyst

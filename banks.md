@@ -2,6 +2,8 @@
 layout: default
 title: Banks
 permalink: /banks/
+description: "Browse a selected directory of major banks by country and region, with links to official websites and context about international banking groups."
+seo_title: "Banks Around the World"
 ---
 
 # Banks

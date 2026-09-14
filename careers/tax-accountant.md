@@ -2,6 +2,8 @@
 layout: default
 title: Tax Accountant
 permalink: /careers/tax-accountant/
+description: "Prepares tax filings and helps people and organizations understand their tax obligations."
+seo_title: "Tax Accountant Career"
 ---
 
 # Tax Accountant

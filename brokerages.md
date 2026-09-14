@@ -2,6 +2,8 @@
 layout: default
 title: Brokerages
 permalink: /brokerages/
+description: "Explore major brokerages and investment platforms by region, with official links and context on location, account availability, and provider differences."
+seo_title: "Global Brokerages and Investment Platforms"
 ---
 
 # Brokerages

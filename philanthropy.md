@@ -7,6 +7,8 @@ glossary_terms:
   philanthropist: what-philanthropy-means
   giving-circle: ways-to-contribute
   budget: a-worked-giving-plan
+description: "Learn how philanthropy works, explore ways to contribute at different scales, and build a thoughtful giving plan with plain-language explanations."
+seo_title: "Philanthropy and Thoughtful Giving"
 ---
 
 # Philanthropy

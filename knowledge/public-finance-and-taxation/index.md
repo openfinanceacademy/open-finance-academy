@@ -17,6 +17,7 @@ glossary_terms:
   public-debt: connect-deficits-and-debt
   social-insurance: understand-pensions-and-social-insurance
   pension: understand-pensions-and-social-insurance
+description: "Learn how governments raise, spend, and borrow money, and explore budgets, taxation, public debt, and the effects of fiscal choices through worked examples."
 ---
 
 # Public finance and taxation

@@ -44,6 +44,7 @@ glossary_terms:
   liquidity: understand-quotes-and-trading-costs
   clearing: choose-what-an-order-controls
   settlement: choose-what-an-order-controls
+description: "Learn how stocks, bonds, trading orders, and derivatives work. Explore yields, market prices, and leverage through worked examples and practice questions."
 ---
 
 # Financial markets and instruments

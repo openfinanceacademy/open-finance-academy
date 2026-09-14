@@ -43,6 +43,7 @@ glossary_terms:
   synergy: consider-acquisitions-and-capital-allocation
   due-diligence: consider-acquisitions-and-capital-allocation
   dividend: consider-acquisitions-and-capital-allocation
+description: "Learn how businesses manage cash, compare debt and equity, and evaluate investments with examples of dilution, project value, funding costs, and runway."
 ---
 
 # Corporate finance and business funding

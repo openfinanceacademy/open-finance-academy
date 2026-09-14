@@ -41,6 +41,7 @@ glossary_terms:
   management-fee: understand-commitments-withdrawals-and-fees
   performance-fee: understand-commitments-withdrawals-and-fees
   due-diligence: investigate-before-committing
+description: "Learn how property and alternative investments generate returns. Explore rental income, borrowing, fees, valuation, and access to your money with examples."
 ---
 
 # Real estate and alternative investments

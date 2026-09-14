@@ -2,6 +2,7 @@
 layout: default
 title: "Is AI a Bubble? Four Likely Paths From Late 2026 Into 2027"
 date: 2026-09-13
+description: "Explore the debate over an AI investment bubble, including infrastructure spending, financing risks, business returns, and possible outcomes for 2026 and 2027."
 ---
 
 Few questions matter more to investors, workers, and household budgets right now than whether the artificial intelligence boom is a durable technology shift, a financial bubble, or some combination of both. This post looks at the numbers behind that debate and lays out the most likely directions the industry could take between now and the end of 2027.

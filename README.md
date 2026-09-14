@@ -45,6 +45,18 @@ See [DOMAIN_SETUP.md](DOMAIN_SETUP.md) for GitHub Pages and custom-domain setup 
 
 ## Contributing
 
+### Search metadata and validation
+
+Give every published page a unique `description` in YAML front matter that accurately summarizes its content. Describe planned material as planned. Use `seo_title` when a short navigation title (such as “Books”) needs more context in search results; the layout adds the site name. Keep permalinks stable.
+
+The shared layout generates canonical URLs, Open Graph and Twitter metadata, breadcrumbs, and JSON-LD for the organization, website, pages, and blog posts. Optional `image` (an asset path or HTTPS URL) and `image_alt` fields enable image previews. Blog posts use their actual `date`; add `last_modified_at` only for a substantive update, never merely to refresh a search date.
+
+`sitemap.xml` automatically includes pages using the default layout and published posts. `robots.txt` advertises it. Both use `url` and `baseurl` from `_config.yml`, as do canonical and structured-data URLs. No extra Jekyll plugins are required.
+
+Run `just check`, or run `jekyll build`, `python3 scripts/check_site.py`, and `git diff --check`. The checker validates unique titles and descriptions, structured data, sitemap coverage, internal links, and heading anchors (including glossary references). GitHub Actions runs it before uploading the site. For a subpath build, pass the same path to Jekyll and the checker with `--baseurl /your-path`.
+
+After deployment, verify ownership in [Google Search Console](https://search.google.com/search-console) and submit `https://openfinance.academy/sitemap.xml`. Use URL Inspection to confirm indexing and monitor search performance and Core Web Vitals. Search metadata helps discovery and presentation; it does not guarantee rankings.
+
 The [Knowledge outline](knowledge.md) links to 18 major areas. Each area has an index at `knowledge/<area>/index.md` containing lessons or planned topics. Add future lessons and resources within that area's folder and link them from its index page.
 
 ### Video resources

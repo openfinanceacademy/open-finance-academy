@@ -2,6 +2,7 @@
 layout: default
 title: Hello, world!
 date: 2026-09-12
+description: "Meet the Open Finance Academy blog, a community space for financial learning, open-source projects, and ideas about more accessible financial systems."
 ---
 
 Welcome to the Open Finance Academy blog.

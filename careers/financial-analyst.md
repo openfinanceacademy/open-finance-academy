@@ -2,6 +2,8 @@
 layout: default
 title: Financial Analyst
 permalink: /careers/financial-analyst/
+description: "Studies financial data, prepares forecasts, and helps organizations make decisions about spending, funding, and growth."
+seo_title: "Financial Analyst Career"
 ---
 
 # Financial Analyst

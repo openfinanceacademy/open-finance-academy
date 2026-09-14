@@ -35,6 +35,7 @@ glossary_terms:
   beneficiary: plan-for-help-and-major-life-changes
   inheritance: plan-for-help-and-major-life-changes
   power-of-attorney: plan-for-help-and-major-life-changes
+description: "Learn to budget, save for emergencies, manage debt, and connect daily money decisions to long-term goals with worked examples and practice questions."
 ---
 
 # Personal finance and financial wellbeing

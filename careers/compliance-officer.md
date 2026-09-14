@@ -2,6 +2,8 @@
 layout: default
 title: Compliance Officer
 permalink: /careers/compliance-officer/
+description: "Helps a financial organization follow applicable rules and internal policies by reviewing its activities and guiding staff."
+seo_title: "Compliance Officer Career"
 ---
 
 # Compliance Officer

@@ -2,6 +2,8 @@
 layout: default
 title: Careers
 permalink: /careers/
+description: "Explore finance careers in accounting, banking, investing, financial education, and technology. Learn what different roles involve and follow career resources."
+seo_title: "Finance Careers and Job Roles"
 ---
 
 # Careers

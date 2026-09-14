@@ -24,6 +24,7 @@ glossary_terms:
   algorithm: financial-applications-automation-and-responsible-ai
   automation: financial-applications-automation-and-responsible-ai
   algorithmic-transparency: financial-applications-automation-and-responsible-ai
+description: "Learn how open banking, financial APIs, account connections, and automated tools work, including consent, privacy, security, and practical tradeoffs."
 ---
 
 # Financial technology and open finance

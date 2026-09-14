@@ -2,6 +2,8 @@
 layout: default
 title: Credit Analyst
 permalink: /careers/credit-analyst/
+description: "Reviews a borrower's finances and ability to repay debt to help lenders assess loan applications and lending risks."
+seo_title: "Credit Analyst Career"
 ---
 
 # Credit Analyst

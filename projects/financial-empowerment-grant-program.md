@@ -2,6 +2,7 @@
 layout: default
 title: Financial Empowerment Grant Program
 permalink: /projects/financial-empowerment-grant-program/
+description: "Explore an early-stage idea for matched-savings grants tied to financial learning. The proposed program has not launched and is not accepting applications."
 ---
 
 # Financial Empowerment Grant Program

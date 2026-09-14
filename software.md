@@ -2,6 +2,8 @@
 layout: default
 title: Software
 permalink: /software/
+description: "Explore financial software, open source projects, and developer platforms for payments, banking, accounting, market research, and financial data."
+seo_title: "Financial Software and Fintech Tools"
 ---
 
 # Software

@@ -2,6 +2,8 @@
 layout: default
 title: Treasury Analyst
 permalink: /careers/treasury-analyst/
+description: "Tracks an organization's cash, plans for upcoming payments, and helps ensure money is available when it is needed."
+seo_title: "Treasury Analyst Career"
 ---
 
 # Treasury Analyst

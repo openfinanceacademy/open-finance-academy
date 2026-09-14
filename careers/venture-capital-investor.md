@@ -2,6 +2,8 @@
 layout: default
 title: Venture Capital Investor
 permalink: /careers/venture-capital-investor/
+description: "Evaluates young companies and invests in businesses with potential for substantial growth."
+seo_title: "Venture Capital Investor Career"
 ---
 
 # Venture Capital Investor

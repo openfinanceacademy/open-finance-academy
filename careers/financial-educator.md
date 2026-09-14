@@ -2,6 +2,8 @@
 layout: default
 title: Financial Educator
 permalink: /careers/financial-educator/
+description: "Teaches people how money works and creates learning materials on topics such as budgeting, credit, and investing."
+seo_title: "Financial Educator Career"
 ---
 
 # Financial Educator

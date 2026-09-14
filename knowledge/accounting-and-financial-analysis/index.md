@@ -34,6 +34,7 @@ glossary_terms:
   audit: reading-beyond-the-totals
   expense: when-to-record-sales-and-costs
   cash-flow: where-did-the-cash-go
+description: "Learn to read financial statements, distinguish profit from cash, and assess business performance with a small-shop example and explained exercises."
 ---
 
 # Accounting and financial analysis

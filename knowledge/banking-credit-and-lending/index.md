@@ -42,6 +42,7 @@ glossary_terms:
   credit-report: how-lenders-assess-an-application
   credit-score: how-lenders-assess-an-application
   cash-flow: borrowing-for-a-business
+description: "Learn how bank accounts, loans, interest costs, and credit decisions work. Compare borrowing options and explore repayment problems with worked examples."
 ---
 
 # Banking, credit, and lending

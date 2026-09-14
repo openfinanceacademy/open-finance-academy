@@ -2,6 +2,8 @@
 layout: default
 title: Financial Operations Specialist
 permalink: /careers/financial-operations-specialist/
+description: "Processes transactions, checks records, and helps ensure payments and trades are completed correctly."
+seo_title: "Financial Operations Specialist Career"
 ---
 
 # Financial Operations Specialist

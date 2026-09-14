@@ -2,6 +2,8 @@
 layout: default
 title: Accountant
 permalink: /careers/accountant/
+description: "Prepares and reviews financial records so people and organizations can understand their income, expenses, and financial position."
+seo_title: "Accountant Career"
 ---
 
 # Accountant

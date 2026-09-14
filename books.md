@@ -2,6 +2,8 @@
 layout: default
 title: Books
 permalink: /books/
+description: "Find finance books, reading lists, and free learning resources covering personal finance, investing, economics, and financial technology."
+seo_title: "Finance Books and Reading Resources"
 ---
 
 # Books

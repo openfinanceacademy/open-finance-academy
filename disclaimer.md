@@ -2,6 +2,8 @@
 layout: default
 title: Disclaimer
 permalink: /disclaimer/
+description: "Understand the limits of Open Finance Academy content, including its educational purpose and lack of personalized financial advice or accredited qualifications."
+seo_title: "Educational Content Disclaimer"
 ---
 
 # Disclaimer

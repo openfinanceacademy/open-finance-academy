@@ -2,6 +2,8 @@
 layout: default
 title: Investment Analyst
 permalink: /careers/investment-analyst/
+description: "Researches companies, markets, and investments to assess potential returns and risks and support investment decisions."
+seo_title: "Investment Analyst Career"
 ---
 
 # Investment Analyst

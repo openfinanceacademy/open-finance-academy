@@ -2,6 +2,8 @@
 layout: default
 title: Actuary
 permalink: /careers/actuary/
+description: "Uses mathematics and statistics to estimate the likelihood and cost of future events, often for insurance and retirement plans."
+seo_title: "Actuary Career"
 ---
 
 # Actuary

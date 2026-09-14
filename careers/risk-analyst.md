@@ -2,6 +2,8 @@
 layout: default
 title: Risk Analyst
 permalink: /careers/risk-analyst/
+description: "Identifies potential financial losses, estimates their impact, and helps organizations prepare for uncertainty."
+seo_title: "Risk Analyst Career"
 ---
 
 # Risk Analyst

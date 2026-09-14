@@ -2,6 +2,8 @@
 layout: default
 title: Real Estate Financial Analyst
 permalink: /careers/real-estate-financial-analyst/
+description: "Evaluates property income, expenses, and financing to assess potential investments."
+seo_title: "Real Estate Financial Analyst Career"
 ---
 
 # Real Estate Financial Analyst

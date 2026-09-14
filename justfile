@@ -7,6 +7,10 @@ serve:
 build:
     jekyll build
 
+check: build
+    python3 scripts/check_site.py
+    git diff --check
+
 clean:
     rm -rf _site .jekyll-cache
 

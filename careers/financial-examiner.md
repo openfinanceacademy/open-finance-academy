@@ -2,6 +2,8 @@
 layout: default
 title: Financial Examiner
 permalink: /careers/financial-examiner/
+description: "Examines financial institutions to assess compliance and financial soundness."
+seo_title: "Financial Examiner Career"
 ---
 
 # Financial Examiner

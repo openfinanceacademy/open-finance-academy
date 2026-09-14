@@ -2,6 +2,8 @@
 layout: default
 title: Projects
 permalink: /projects/
+description: "Explore early-stage project ideas for financial education, empowerment, and sustainable finance. No projects have launched or are accepting funds or applications."
+seo_title: "Financial Education and Empowerment Projects"
 ---
 
 # Projects

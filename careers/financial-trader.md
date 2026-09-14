@@ -2,6 +2,8 @@
 layout: default
 title: Financial Trader
 permalink: /careers/financial-trader/
+description: "Buys and sells financial instruments, such as stocks, bonds, and currencies."
+seo_title: "Financial Trader Career"
 ---
 
 # Financial Trader

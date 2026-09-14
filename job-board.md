@@ -2,6 +2,8 @@
 layout: default
 title: Job Board
 permalink: /job-board/
+description: "Find finance job boards and career opportunities, including links to specialist finance recruiters and remote job searches."
+seo_title: "Finance Job Boards and Opportunities"
 ---
 
 # Job Board

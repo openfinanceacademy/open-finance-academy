@@ -1,11 +1,15 @@
 ---
 layout: default
 title: Open Finance Academy
+description: "Learn finance for free with plain-language lessons, worked examples, and a shared glossary. Explore money skills, investing, and financial technology."
+seo_title: "Free Financial Education and Money Skills"
 ---
 
 # Open Finance Academy
 
 Open Finance Academy provides educational content on finance and financial technology and curates lists of learning resources. This community-driven project brings lessons, guides, books, courses, and videos together in one place to make information easier to find and explore.
+
+**Open Finance Academy is not a financial advisor and does not provide financial advice.** Our content is for educational purposes only. [Read our full disclaimer]({{ '/disclaimer/' | relative_url }}).
 
 We believe everyone has the right to pursue financial freedom and access the knowledge and tools needed to protect themselves from financial exploitation and repression. Open finance should expand people’s choices, privacy, and agency, not make it easier to control or profit from them.
 
@@ -28,7 +32,7 @@ Browse the [Knowledge outline]({{ '/knowledge/' | relative_url }}) for the major
 
 ## Get involved
 
-This project is in its early stages. Suggest a lesson, improve an explanation, share a resource, or build a practical exercise by opening an issue or pull request on [GitHub](https://github.com/).
+This project is in its early stages. Suggest a lesson, improve an explanation, share a resource, or propose a practical exercise by opening an issue on [GitHub](https://github.com/openfinanceacademy/open-finance-academy/issues).
 
 ## Contact us
 

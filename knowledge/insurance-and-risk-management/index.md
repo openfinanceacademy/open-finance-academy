@@ -29,6 +29,7 @@ glossary_terms:
   liquidity-risk: risks-beyond-insurance
   operational-risk: risks-beyond-insurance
   stress-testing: try-a-difficult-scenario
+description: "Learn to identify financial risks, understand insurance contracts, compare coverage costs, and work through claims, deductibles, and stress tests."
 ---
 
 # Insurance and risk management

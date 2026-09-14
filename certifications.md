@@ -2,6 +2,8 @@
 layout: default
 title: Certifications
 permalink: /certifications/
+description: "Explore professional credentials in financial planning, counseling, investing, accounting, and trading, with links to official qualification providers."
+seo_title: "Finance Certifications and Professional Credentials"
 ---
 
 # Certifications

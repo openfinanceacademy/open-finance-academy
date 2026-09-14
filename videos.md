@@ -2,6 +2,8 @@
 layout: default
 title: Videos
 permalink: /videos/
+description: "Discover video channels about finance, economics, and financial technology, with space for community-contributed learning videos."
+seo_title: "Finance Videos and Learning Channels"
 ---
 
 # Videos
@@ -12,6 +14,7 @@ Discover finance video channels and individual videos to support your learning. 
 
 Channels with ongoing videos about finance, economics, and financial technology.
 
+- [Bloomberg Television](https://www.youtube.com/@markets) - Videos on financial markets, business, and the global economy.
 - [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/videos) - Videos on business, finance, and the global economy.
 - [Investing Simplified](https://www.youtube.com/@NolanGouveia) - Investing videos by Nolan Gouveia.
 

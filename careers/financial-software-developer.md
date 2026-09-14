@@ -2,6 +2,8 @@
 layout: default
 title: Financial Software Developer
 permalink: /careers/financial-software-developer/
+description: "Builds and maintains software for services such as payments, banking, budgeting, and investing."
+seo_title: "Financial Software Developer Career"
 ---
 
 # Financial Software Developer

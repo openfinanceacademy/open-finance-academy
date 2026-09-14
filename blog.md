@@ -2,6 +2,8 @@
 layout: default
 title: Blog
 permalink: /blog/
+description: "Read community posts about finance, financial technology, economic developments, and the ideas shaping more accessible financial systems."
+seo_title: "Finance and Financial Technology Blog"
 ---
 
 # Blog

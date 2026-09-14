@@ -34,6 +34,7 @@ glossary_terms:
   model-risk: testing-models-and-knowing-their-limits
   benchmark: testing-models-and-knowing-their-limits
   stress-testing: testing-models-and-knowing-their-limits
+description: "Learn probability, financial statistics, forecasting, data quality, and backtesting through worked examples that explain uncertainty and model limitations."
 ---
 
 # Quantitative finance and financial data

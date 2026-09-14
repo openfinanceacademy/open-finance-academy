@@ -2,6 +2,8 @@
 layout: default
 title: Glossary
 permalink: /glossary/
+description: "Understand financial terms with plain-language definitions and links to lessons that explain each concept through worked examples."
+seo_title: "Finance Glossary: Plain-Language Definitions"
 ---
 
 # Glossary

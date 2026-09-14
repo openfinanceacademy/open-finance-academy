@@ -2,6 +2,8 @@
 layout: default
 title: Institutions
 permalink: /institutions/
+description: "Explore central banks, finance ministries, development banks, and international financial institutions, grouped by role with links to official sources."
+seo_title: "Global Financial Institutions and Public Agencies"
 ---
 
 # Institutions

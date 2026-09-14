@@ -2,6 +2,8 @@
 layout: default
 title: Public-Sector Budget Analyst
 permalink: /careers/public-sector-budget-analyst/
+description: "Helps government agencies plan budgets, evaluate funding requests, and track spending on public services."
+seo_title: "Public-Sector Budget Analyst Career"
 ---
 
 # Public-Sector Budget Analyst

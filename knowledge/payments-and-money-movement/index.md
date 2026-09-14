@@ -30,6 +30,7 @@ glossary_terms:
   fraud: fraud-prevention-disputes-and-payment-security
   dispute: fraud-prevention-disputes-and-payment-security
   chargeback: fraud-prevention-disputes-and-payment-security
+description: "Follow payments from payer to payee, compare card and transfer costs, and learn about cross-border fees, settlement, disputes, and payment fraud."
 ---
 
 # Payments and money movement

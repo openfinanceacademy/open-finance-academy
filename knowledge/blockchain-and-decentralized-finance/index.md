@@ -32,6 +32,7 @@ glossary_terms:
   blockchain-bridge: find-the-remaining-dependencies
   protocol-governance: find-the-remaining-dependencies
   smart-contract-security-audit: find-the-remaining-dependencies
+description: "Learn how blockchains, wallets, smart contracts, and decentralized trading and lending work, with examples of transactions, collateral, returns, and risks."
 ---
 
 # Blockchain and decentralized finance

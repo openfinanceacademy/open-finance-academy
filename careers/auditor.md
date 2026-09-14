@@ -2,6 +2,8 @@
 layout: default
 title: Auditor
 permalink: /careers/auditor/
+description: "Learn what financial auditors do, how they examine evidence and controls, and which skills, career paths, and professional resources support the work."
+seo_title: "Auditor Career"
 ---
 
 # Auditor

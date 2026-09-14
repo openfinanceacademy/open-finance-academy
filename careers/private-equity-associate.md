@@ -2,6 +2,8 @@
 layout: default
 title: Private Equity Associate
 permalink: /careers/private-equity-associate/
+description: "Evaluates investments in privately owned businesses and supports companies after an investment."
+seo_title: "Private Equity Associate Career"
 ---
 
 # Private Equity Associate

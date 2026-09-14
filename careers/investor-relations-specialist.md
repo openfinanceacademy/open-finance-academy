@@ -2,6 +2,8 @@
 layout: default
 title: Investor Relations Specialist
 permalink: /careers/investor-relations-specialist/
+description: "Explains a company's financial performance and strategy to investors and analysts through reports, presentations, and meetings."
+seo_title: "Investor Relations Specialist Career"
 ---
 
 # Investor Relations Specialist

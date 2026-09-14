@@ -2,6 +2,7 @@
 layout: default
 title: Open Impact Fund
 permalink: /projects/open-impact-fund/
+description: "Explore an early-stage proposal for an investment fund to support financial education and grants. The fund has not launched and is not accepting contributions."
 ---
 
 # Open Impact Fund

@@ -2,6 +2,8 @@
 layout: default
 title: Financial Technology Product Manager
 permalink: /careers/financial-technology-product-manager/
+description: "Guides the development of financial apps and services by understanding customer needs and coordinating design, engineering, and business teams."
+seo_title: "Financial Technology Product Manager Career"
 ---
 
 # Financial Technology Product Manager

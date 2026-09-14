@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign sitemap_pages = site.pages | sort: 'url' %}
+  {% for entry in sitemap_pages %}{% if entry.layout == 'default' and entry.sitemap != false %}
+  <url>
+    <loc>{{ entry.url | replace: '/index.html', '/' | absolute_url | xml_escape }}</loc>
+    {% if entry.last_modified_at %}<lastmod>{{ entry.last_modified_at | date_to_xmlschema }}</lastmod>{% endif %}
+  </url>
+  {% endif %}{% endfor %}
+  {% for entry in site.posts %}{% if entry.sitemap != false %}
+  <url>
+    <loc>{{ entry.url | absolute_url | xml_escape }}</loc>
+    <lastmod>{{ entry.last_modified_at | default: entry.date | date_to_xmlschema }}</lastmod>
+  </url>
+  {% endif %}{% endfor %}
+</urlset>

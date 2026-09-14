@@ -2,6 +2,8 @@
 layout: default
 title: Stock Exchanges
 permalink: /stock-exchanges/
+description: "Explore major stock exchanges around the world, with official links for information about listed companies, markets, and trading calendars."
+seo_title: "Stock Exchanges Around the World"
 ---
 
 # Stock Exchanges

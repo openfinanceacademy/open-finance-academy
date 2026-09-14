@@ -44,6 +44,11 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Check metadata, sitemap, and local links
+        env:
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: python3 scripts/check_site.py --baseurl "$PAGES_BASE_PATH"
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
 

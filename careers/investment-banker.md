@@ -2,6 +2,8 @@
 layout: default
 title: Investment Banker
 permalink: /careers/investment-banker/
+description: "Helps companies raise money and advises on buying, selling, or combining businesses."
+seo_title: "Investment Banker Career"
 ---
 
 # Investment Banker

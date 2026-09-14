@@ -2,6 +2,8 @@
 layout: default
 title: Financial Counselor
 permalink: /careers/financial-counselor/
+description: "Helps people manage everyday money challenges, including budgeting, debt, and saving."
+seo_title: "Financial Counselor Career"
 ---
 
 # Financial Counselor
