@@ -32,6 +32,8 @@ How households, businesses, institutions, and policy interact.
 
 [← All knowledge areas]({{ '/knowledge/' | relative_url }}) · [Glossary]({{ '/glossary/' | relative_url }})
 
+See the [Economic Calendar]({{ '/knowledge/economics-and-the-financial-system/economic-calendar/' | relative_url }}) for external calendar resources and the planned Open Finance Academy curated calendar.
+
 No prior finance knowledge is needed, though this lesson builds on the terms introduced in [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}), especially interest and inflation. Each new finance term is **bold**, explained on first use, and linked to its glossary definition. The glossary links back to the section where you can see it in context.
 
 The prices, rates, and figures below are invented teaching examples chosen to make the ideas concrete, not forecasts or current data. Where real institutions and events are mentioned by name, that is noted in the text.
