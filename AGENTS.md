@@ -2,6 +2,17 @@
 
 This is a Markdown/Jekyll static site deployed to GitHub Pages. Source files are built into `_site/`; edit source, never generated output.
 
+## Quality and reasoning standards
+
+- Apply critical thinking to every change: identify assumptions, distinguish facts from interpretation, consider counterexamples and edge cases, and do not accept an attractive or plausible answer without checking it.
+- Write for human understanding and learning. Use clear, plain language, define unfamiliar terms at first use, explain the reasoning behind conclusions, and organize material so a learner can follow it independently.
+- Prioritize correctness over speed. Re-check calculations, claims, examples, code, configuration, and rendered output. When evidence is incomplete or uncertain, say so explicitly rather than guessing.
+- Write inclusively and respectfully. Avoid stereotypes, unnecessary jargon, exclusionary assumptions, and language that treats one experience as universal. Prefer examples and wording that represent varied backgrounds, abilities, identities, and financial circumstances.
+- Treat accessibility as a requirement, not an enhancement. Use meaningful headings, descriptive link text, sufficient contrast, readable structure, accessible tables and images, useful alternative text, and content that remains understandable without relying on color, layout, audio, or hover behavior.
+- Double-check every source before relying on it. Fetch the source, confirm that it is authoritative and current enough for the claim, verify that the cited passage actually supports the statement, and preserve the relevant citation in the required format.
+- Confirm that every link introduced or changed is reachable and resolves to the intended page. Check internal links against the built site and check external links directly when possible.
+- If a source or link cannot be reached by the agent, do not assume it works or cite it as verified. Escalate to a human and ask them to confirm whether they can view it in a browser; record the uncertainty and human confirmation before treating it as verified.
+
 ## Commands
 
 - Install the pinned Pagefind dependency with `npm ci` (Node.js 22+ is expected).
