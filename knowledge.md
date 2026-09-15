@@ -64,8 +64,6 @@ An introductory lesson is available: follow a small shop through its first month
 
 An introductory lesson is available: connect supply and demand, central banks, and economic indicators to the financial system households and businesses use.
 
-Find external resources in the [Economic Calendar]({{ '/knowledge/economics-and-the-financial-system/economic-calendar/' | relative_url }}).
-
 - Supply and demand, incentives, and business cycles
 - Central banks, monetary policy, and money creation
 - Employment, growth, inflation, and economic indicators
