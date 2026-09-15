@@ -1228,6 +1228,9 @@
 - id: algorithmic-transparency
   term: "Algorithmic transparency"
   definition: "The degree to which the factors, data, and logic behind an automated decision can be explained or examined, especially when the decision affects a person's access to money or credit."
+- id: generative-ai
+  term: "Generative AI"
+  definition: "Technology that produces new text, code, tables, or other content from patterns learned from data and instructions."
 
 - id: blockchain
   term: "Blockchain"
