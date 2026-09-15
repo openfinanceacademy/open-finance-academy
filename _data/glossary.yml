@@ -444,7 +444,7 @@
   definition: "The total amount of money circulating in an economy at a given time, measured using different definitions that include varying combinations of cash and bank deposits."
 - id: gross-domestic-product
   term: "Gross domestic product (GDP)"
-  definition: "The total monetary value of goods and services produced within a country over a stated period, commonly used to measure the size and growth of an economy."
+  definition: "The total monetary value of final goods and services produced within a country over a stated period, commonly used to measure the size and growth of an economy. Counting only final goods avoids double-counting the intermediate goods used to make them."
 - id: unemployment-rate
   term: "Unemployment rate"
   definition: "The share of people in the labor force who do not have a job but are available for and actively seeking work, according to a given country's definition."

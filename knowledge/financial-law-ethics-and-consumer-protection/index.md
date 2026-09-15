@@ -36,7 +36,7 @@ No prior finance knowledge is needed. New finance terms are **bold**, explained 
 
 The examples use invented amounts and situations. Fee comparisons cover one year, assume unchanged prices and usage, and exclude interest, taxes, and charges not stated. They illustrate decisions, not a finding that a particular business has broken the law.
 
-Legal examples below identify the United States, United Kingdom, or European Union and were checked against official sources on **13 September 2026**. Rights, deadlines, and available remedies depend on the product, provider, location, and facts. This is an introduction to finding and understanding the relevant rules, not advice on a particular legal case.
+Legal examples below identify the United States, United Kingdom, or European Union and were checked against official sources on **14 September 2026**. Numbered references are listed at the end of the page. Rights, deadlines, and available remedies depend on the product, provider, location, and facts. This is an introduction to finding and understanding the relevant rules, not advice on a particular legal case.
 
 ## In this lesson
 
@@ -66,7 +66,7 @@ Imagine an account advertises “no monthly fee,” but charges for every transf
 
 Ethical judgment can identify a problem even before anyone establishes a legal breach. Conversely, calling conduct ethical does not excuse ignoring a rule.
 
-**United Kingdom example:** For retail business within its scope, the Financial Conduct Authority's Consumer Duty addresses products and services, price and value, consumer understanding, and consumer support. Its focus extends beyond whether a document was handed over. See the [FCA's explanation of the Consumer Duty](https://www.fca.org.uk/firms/consumer-duty/about).
+**United Kingdom example:** For retail business within its scope, the Financial Conduct Authority's Consumer Duty addresses products and services, price and value, consumer understanding, and consumer support. Its focus extends beyond whether a document was handed over.[^1]
 
 ## Check who provides the service
 
@@ -76,7 +76,7 @@ A **[regulatory register]({{ '/glossary/' | relative_url }}#regulatory-register)
 
 Use the relevant authority's independently located website. Match the entity name and contact details, check the activity you need, and contact the firm using those independently verified details. A scammer can impersonate a real registered firm.
 
-**United States example:** Investor.gov provides an [investment professional background-check tool](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/check-out-your-investment-professional). Review both the person and firm and any disclosed disciplinary history. Different financial activities may require different registers; an investment registration does not establish permission to provide every financial service.
+**United States example:** FINRA's free BrokerCheck tool reports the registration status and disciplinary history of brokerage firms and their representatives, and the SEC's Investor.gov offers a similar background check for investment professionals.[^2] Review both the person and firm and any disclosed disciplinary history. Different financial activities may require different registers; an investment registration does not establish permission to provide every financial service.
 
 ## Read the terms and calculate the cost
 
@@ -98,7 +98,7 @@ For Account B: $6 × 12 = **$72 per year**. It costs **$48 less** under this usa
 
 At one transfer per month, Account A instead costs 1 × $2 × 12 = **$24 per year**, which is $48 less than Account B. At three transfers per month, both cost **$72 per year**. “No monthly fee” can be literally true while leaving important usage costs to examine.
 
-**United States example:** The relationship summary called Form CRS helps retail investors compare covered investment firms' services, fees, conflicts, and standards of conduct. See [Investor.gov's guide to relationship summaries](https://www.investor.gov/CRS). Disclosing a cost does not automatically make a service good value or resolve every legal obligation.
+**United States example:** The relationship summary called Form CRS helps retail investors compare covered investment firms' services, fees, conflicts, and standards of conduct.[^3] Disclosing a cost does not automatically make a service good value or resolve every legal obligation.
 
 ## Recognize conflicts of interest
 
@@ -114,7 +114,7 @@ That difference creates an incentive to sell B. It does not, by itself, prove B 
 
 **[Fiduciary duty]({{ '/glossary/' | relative_url }}#fiduciary-duty)** is a legal obligation to act for another person's benefit within a defined relationship, with duties and scope set by applicable law. The label does not guarantee performance or mean every financial salesperson has the same obligations.
 
-**United States example:** Investment advisers have fiduciary duties to clients; brokers have a different regulatory framework, and a firm may act in both capacities. Establish the capacity in which the professional is acting and the agreed service. See [Investor.gov's explanation of investment advisers](https://www.investor.gov/introduction-investing/getting-started/working-investment-professional/investment-advisers).
+**United States example:** Investment advisers have fiduciary duties to clients;[^4] brokers have a different regulatory framework, and a firm may act in both capacities.[^3] Establish the capacity in which the professional is acting and the agreed service.
 
 From an ethical perspective, disclosing an incentive is a starting point. A firm may also need to change compensation, restrict recommendations, use independent review, or remove a conflict, depending on the circumstances and applicable obligations.
 
@@ -126,7 +126,7 @@ A message saying “your account is unsafe; transfer everything to this safe acc
 
 Pressure to act immediately, requests for login codes, and promises of large guaranteed gains are warning signs. High prices alone do not establish fraud; deliberate deception, misleading claims, and coercive selling require attention even when a product looks professional.
 
-If money has already moved, contact the payment provider promptly, explain accurately whether you made the payment or someone acted without your permission, and ask whether it can be stopped, recalled, or disputed. Preserve messages and transaction references. Secure compromised accounts and report through the relevant local fraud channel. Recovery depends on the payment method, facts, and law; a refund is not automatic. The [U.S. Federal Trade Commission explains steps after a scam](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed).
+If money has already moved, contact the payment provider promptly, explain accurately whether you made the payment or someone acted without your permission, and ask whether it can be stopped, recalled, or disputed. Preserve messages and transaction references. Secure compromised accounts and report through the relevant local fraud channel. Recovery depends on the payment method, facts, and law; a refund is not automatic. The U.S. Federal Trade Commission explains steps to take after a scam.[^5]
 
 ## Protect privacy and fair access
 
@@ -134,11 +134,11 @@ If money has already moved, contact the payment provider promptly, explain accur
 
 A budgeting app may need transaction records to categorize spending. That does not explain why it would need your contacts or permission to use spending data for unrelated advertising. Ask what data is necessary, who receives it, how long it is kept, and how to disconnect access.
 
-**European Union example:** Where the General Data Protection Regulation applies, individuals have rights including access and correction, and erasure in specified circumstances. **[Consent]({{ '/glossary/' | relative_url }}#consent)** in this context is a freely given, specific, informed, and unambiguous indication of agreement. It is one possible legal basis for processing, not the only one. Withdrawing consent does not necessarily require deletion of records the firm must retain on another lawful basis. See the [European Commission's guide for individuals](https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en).
+**European Union example:** Where the General Data Protection Regulation applies, individuals have rights including access and correction, and erasure in specified circumstances. **[Consent]({{ '/glossary/' | relative_url }}#consent)** in this context is a freely given, specific, informed, and unambiguous indication of agreement. It is one possible legal basis for processing, not the only one. Withdrawing consent does not necessarily require deletion of records the firm must retain on another lawful basis.[^6]
 
 Fair access also requires examining how decisions are made. **[Credit discrimination]({{ '/glossary/' | relative_url }}#credit-discrimination)** is unequal treatment in credit based on characteristics protected by applicable law. Different offers are not automatically unlawful: relevant financial circumstances can differ.
 
-**United States example:** The Equal Credit Opportunity Act prohibits discrimination on specified grounds, including race, religion, and national origin. If you suspect discrimination, preserve the application, communications, and decision notice, and check the relevant complaint route. See the [CFPB's explanation of credit discrimination](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/credit-discrimination-is-illegal/).
+**United States example:** The Equal Credit Opportunity Act prohibits discrimination on specified grounds, including race, religion, and national origin. If you suspect discrimination, preserve the application, communications, and decision notice, and check the relevant complaint route.[^7]
 
 ## Document and resolve a problem
 
@@ -160,14 +160,14 @@ If unresolved, identify the body responsible for that product and jurisdiction. 
 
 | Jurisdiction example | Possible next step | Important limit |
 | --- | --- | --- |
-| United States | The [Consumer Financial Protection Bureau complaint service](https://www.consumerfinance.gov/complaint/) routes complaints about covered consumer financial products to companies or appropriate agencies. | It is not a court judgment or a guarantee of compensation; other products may need another authority. |
-| United Kingdom | The [Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/expect/time-limits) may review eligible unresolved financial complaints after the business has had the required opportunity to respond. | Response and referral deadlines depend on the complaint; check the linked rules and final response promptly. |
+| United States | The Consumer Financial Protection Bureau complaint service routes complaints about covered consumer financial products to companies or appropriate agencies.[^8] | It is not a court judgment or a guarantee of compensation; other products may need another authority. |
+| United Kingdom | The Financial Ombudsman Service may review eligible unresolved financial complaints after the business has had the required opportunity to respond.[^9] | Response and referral deadlines depend on the complaint — for example, referral within six months of the firm's final response — so check the applicable rules and the final response promptly. |
 
 Do not assume that an informal conversation, complaint filing, or continued negotiation pauses a legal deadline. If a deadline or substantial legal claim is involved, obtain advice specific to the jurisdiction and facts.
 
 ## Design services people can use
 
-**[Dark patterns]({{ '/glossary/' | relative_url }}#dark-patterns)** are design practices that manipulate or obstruct people's choices, such as making cancellation hard to find while making purchase immediate. The [FTC describes dark patterns and their consumer harms](https://www.ftc.gov/reports/bringing-dark-patterns-light).
+**[Dark patterns]({{ '/glossary/' | relative_url }}#dark-patterns)** are design practices that manipulate or obstruct people's choices, such as making cancellation hard to find while making purchase immediate. The FTC describes dark patterns and their consumer harms in a 2022 staff report.[^10]
 
 Consider a service that lets customers subscribe online in two minutes but requires cancellation through a phone line open only during work hours. An ethical review asks whether the obstacle serves the customer, whether costs are understandable, and who is excluded by the process. Whether it breaches a rule needs a separate legal assessment.
 
@@ -207,3 +207,16 @@ Each definition links back to its explanation above.
 Continue with [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) to examine borrowing terms, [Payments and money movement]({{ '/knowledge/payments-and-money-movement/' | relative_url }}) to understand payment disputes, and [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}) to read coverage and claim conditions.
 
 Further lessons are planned on jurisdiction-specific consumer rights and deadlines, investment conduct standards, financial data sharing, and ethical case studies.
+
+## References
+
+[^1]: Financial Conduct Authority, "Consumer Duty" — <https://www.fca.org.uk/firms/consumer-duty/about>
+[^2]: FINRA, "BrokerCheck" — <https://brokercheck.finra.org/>
+[^3]: U.S. Securities and Exchange Commission, "Form CRS Relationship Summary; Amendments to Form ADV — Small Entity Compliance Guide" — <https://www.sec.gov/info/smallbus/secg/form-crs-relationship-summary>
+[^4]: U.S. Securities and Exchange Commission, "Commission Interpretation Regarding Standard of Conduct for Investment Advisers" (Release No. IA-5248, 2019) — <https://www.sec.gov/rules/interp/2019/ia-5248.pdf>
+[^5]: Federal Trade Commission, "What To Do if You Were Scammed" — <https://consumer.ftc.gov/articles/what-do-if-you-were-scammed>
+[^6]: European Commission, "Data protection: information for individuals" — <https://commission.europa.eu/law/law-topic/data-protection/information-individuals_en>
+[^7]: Consumer Financial Protection Bureau, "Credit discrimination is illegal" — <https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/credit-discrimination-is-illegal/>
+[^8]: Consumer Financial Protection Bureau, "Submit a complaint" — <https://www.consumerfinance.gov/complaint/>
+[^9]: Financial Conduct Authority, "How to complain" — <https://www.fca.org.uk/consumers/how-complain>
+[^10]: Federal Trade Commission, "Bringing Dark Patterns to Light" (staff report, September 2022) — <https://www.ftc.gov/reports/bringing-dark-patterns-light>

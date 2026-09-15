@@ -36,7 +36,7 @@ No prior finance knowledge is needed, though [Money and financial fundamentals](
 
 ### Example assumptions
 
-All amounts, fees, rates, and premiums below are invented teaching examples, not quotes for any real product or place. Unless a section says otherwise, ignore taxes and round displayed results to the precision shown. Rules for accounts, loans, and product labels differ by country and change over time; check the current rules where you live.
+All amounts, fees, rates, and premiums below are invented teaching examples, not quotes for any real product or place. Unless a section says otherwise, ignore taxes and round displayed results to the precision shown. Rules for accounts, loans, and product labels differ by country and change over time; check the current rules where you live. Sources were checked September 14, 2026; numbered references are listed at the end of the page.
 
 ## In this lesson
 
@@ -54,13 +54,13 @@ All amounts, fees, rates, and premiums below are invented teaching examples, not
 
 A payment account, a loan, an insurance policy, an investment fund: each can be examined twice over. First, who can actually get it, on what terms? Second, what does the money do once it moves — what activities does it support or discourage?
 
-**[Financial inclusion]({{ '/glossary/' | relative_url }}#financial-inclusion)** is the extent to which people and businesses can access and use affordable financial services that meet their needs. **[Sustainable finance]({{ '/glossary/' | relative_url }}#sustainable-finance)** describes financial activity that takes environmental and social effects into account alongside financial returns.
+**[Financial inclusion]({{ '/glossary/' | relative_url }}#financial-inclusion)** is the extent to which people and businesses can access and use affordable financial services that meet their needs.[^1] **[Sustainable finance]({{ '/glossary/' | relative_url }}#sustainable-finance)** describes financial activity that takes environmental and social effects into account alongside financial returns.[^2]
 
 The two questions meet in practice. A cheaper loan only matters to people allowed to borrow it; a green fund only matters if its label means something. This lesson moves between them: sections 2 to 4 follow the access question, sections 5 to 7 the effects question, and section 8 joins them.
 
 ## Access to basic services
 
-**[Financial exclusion]({{ '/glossary/' | relative_url }}#financial-exclusion)** means being unable to access or use affordable services that meet basic needs. Someone is **[unbanked]({{ '/glossary/' | relative_url }}#unbanked)** when they have no account at a **[bank]({{ '/glossary/' | relative_url }}#bank)** or similar institution at all, and **[underbanked]({{ '/glossary/' | relative_url }}#underbanked)** when they have an account but still depend on services outside the banking system, such as check-cashing shops, for some needs. Common barriers include minimum-balance requirements, monthly fees, documentation rules, distance to branches, and past account problems. In the United States, the [FDIC's household survey](https://www.fdic.gov/household-survey) measures how many households face these situations.
+**[Financial exclusion]({{ '/glossary/' | relative_url }}#financial-exclusion)** means being unable to access or use affordable services that meet basic needs. Someone is **[unbanked]({{ '/glossary/' | relative_url }}#unbanked)** when they have no account at a **[bank]({{ '/glossary/' | relative_url }}#bank)** or similar institution at all, and **[underbanked]({{ '/glossary/' | relative_url }}#underbanked)** when they have an account but still depend on services outside the banking system, such as check-cashing shops, for some needs. Common barriers include minimum-balance requirements, monthly fees, documentation rules, distance to branches, and past account problems. In the United States, the FDIC's biennial household survey measures how many households face these situations.[^3]
 
 What does exclusion cost? Invented example: Sam is paid $1,200 a month and pays a check-cashing fee of 2% because he has no account:
 
@@ -82,7 +82,7 @@ Exclusion gets more expensive when borrowing enters the picture. A **[payday loa
 | Cost if repaid over 12 weeks | 6 × $60 = **$360 in fees**, plus the $400 still owed | About $400 × 0.18 × 3 ÷ 12 = **$18 interest** (approximation) |
 | Total repaid | **$760** | About **$418** |
 
-The payday-style fee sounds small — $60 at a time — but renewing because the full amount is unaffordable is how the cost multiplies. The annualized rate implied by $60 per two weeks on $400 is roughly 390%, which is why flat fees should always be converted to an annual rate before comparing. For official explanations of these loans and their risks, see the [Consumer Financial Protection Bureau's payday loan pages](https://www.consumerfinance.gov/consumer-tools/payday-loans/).
+The payday-style fee sounds small — $60 at a time — but renewing because the full amount is unaffordable is how the cost multiplies. The annualized rate implied by $60 per two weeks on $400 is roughly 390%, which is why flat fees should always be converted to an annual rate before comparing.[^4]
 
 The point is not that one product is always best; it is that the *same need* can cost $18 or $360 depending on which door is open to the borrower.
 
@@ -90,7 +90,7 @@ The point is not that one product is always best; it is that the *same need* can
 
 Where mainstream providers will not serve a community profitably, communities have built their own providers. A **[cooperative]({{ '/glossary/' | relative_url }}#cooperative)** is owned and controlled by the members who use its services rather than by outside shareholders. A **[credit union]({{ '/glossary/' | relative_url }}#credit-union)** applies that model to banking: deposits and loans among members, with profits returned to members or reinvested.
 
-**[Microfinance]({{ '/glossary/' | relative_url }}#microfinance)** extends very small financial services — small loans, savings, sometimes insurance — to people excluded from conventional banking, often to support very small businesses. Invented example: five market traders each borrow $200 for three months and repay $210, meeting weekly so each member's progress supports the others.
+**[Microfinance]({{ '/glossary/' | relative_url }}#microfinance)** extends very small financial services — small loans, savings, sometimes insurance — to people excluded from conventional banking, often to support very small businesses.[^5] Invented example: five market traders each borrow $200 for three months and repay $210, meeting weekly so each member's progress supports the others.
 
 - Interest per loan: $210 − $200 = **$10**
 - One trader spends the $200 on inventory and sells it for $260: a $60 gross gain, against $10 of interest.
@@ -103,7 +103,7 @@ The effects question starts with risk that is already arriving on balance sheets
 
 **[Physical risk]({{ '/glossary/' | relative_url }}#physical-risk)** comes from events and trends themselves: floods, storms, heat, rising seas. Invented example: after new flood maps, a homeowner's annual **[insurance premium]({{ '/glossary/' | relative_url }}#insurance-premium)** rises from $900 to $1,600. That is $700 more per year, about a 78% increase ($700 ÷ $900 ≈ 0.78), affecting affordability now and the property's resale value later. Lenders reprice too: a mortgage secured by a house at risk of flooding is a riskier loan.
 
-**[Transition risk]({{ '/glossary/' | relative_url }}#transition-risk)** comes from the response: new policies, technologies, and market shifts as the economy moves away from emissions-intensive activity. A business whose equipment or product line becomes restricted or obsolete can lose value even if no storm ever touches it. Central banks and supervisors now study both channels; see the [Network for Greening the Financial System](https://www.ngfs.net/), a group of central banks working on exactly this.
+**[Transition risk]({{ '/glossary/' | relative_url }}#transition-risk)** comes from the response: new policies, technologies, and market shifts as the economy moves away from emissions-intensive activity. A business whose equipment or product line becomes restricted or obsolete can lose value even if no storm ever touches it. Central banks and supervisors now study both channels through bodies such as the Network for Greening the Financial System, a voluntary group of central banks and supervisors working on exactly this.[^6]
 
 The two risks push in opposite directions — act too slowly and physical damage grows; move too abruptly and some assets reprice sharply — which is why the debate is about pace and fairness, not just totals.
 
@@ -117,13 +117,13 @@ On the investing side, **[sustainable investing]({{ '/glossary/' | relative_url 
 | **[Green bond]({{ '/glossary/' | relative_url }}#green-bond)** | The bond's proceeds fund specified environmental projects. | Is there a public use-of-proceeds report, and is it independently checked? |
 | **[Impact investing]({{ '/glossary/' | relative_url }}#impact-investing)** | The investment intends a measurable benefit alongside a financial return. | Measurable how — what number will exist at the end that would not exist without this money? |
 
-An invented green bond example makes the checking concrete. A city issues a $50 million green bond and publishes an allocation report a year later: $30 million to a wind farm, $15 million to rooftop solar, $5 million to grid upgrades. The label gains meaning from that report — an investor can see where the money went. Widely used voluntary rules for this reporting are the [ICMA Green Bond Principles](https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/).
+An invented green bond example makes the checking concrete. A city issues a $50 million green bond and publishes an allocation report a year later: $30 million to a wind farm, $15 million to rooftop solar, $5 million to grid upgrades. The label gains meaning from that report — an investor can see where the money went. Widely used voluntary rules for this reporting are the ICMA Green Bond Principles.[^7]
 
 A label tells you a provider's intention. The documents tell you whether anything followed.
 
 ## When claims do not match reality
 
-**[Greenwashing]({{ '/glossary/' | relative_url }}#greenwashing)** is making a product, fund, or company appear more environmentally or socially beneficial than the evidence supports — through its name, its marketing, or selective disclosure. It matters because labels move real money.
+**[Greenwashing]({{ '/glossary/' | relative_url }}#greenwashing)** is making a product, fund, or company appear more environmentally or socially beneficial than the evidence supports — through its name, its marketing, or selective disclosure. It matters because labels move real money. Regulators have started to police fund names specifically: in the United States, the Securities and Exchange Commission amended its fund "Names Rule" in September 2023 so that a fund whose name suggests a focus such as ESG must invest at least 80% of its assets consistently with that name.[^8]
 
 Red flags, any of which justifies asking harder questions:
 
@@ -140,7 +140,7 @@ The two questions of this lesson converge in outcomes. Add up the invented costs
 
 $288 + $72 + $240 = **$600 a year**
 
-That total is the **[poverty premium]({{ '/glossary/' | relative_url }}#poverty-premium)**: the higher relative cost people with low incomes can pay for the same basic services. $600 might equal a week or two of groceries — real money extracted by the structure of services, not by any single bad decision. Averages hide this: a national "average fee" describes no one's actual bill.
+That total is the **[poverty premium]({{ '/glossary/' | relative_url }}#poverty-premium)**: the higher relative cost people with low incomes can pay for the same basic services, a pattern documented in UK research on essentials such as energy, credit, and insurance.[^9] $600 might equal a week or two of groceries — real money extracted by the structure of services, not by any single bad decision. Averages hide this: a national "average fee" describes no one's actual bill.
 
 When you evaluate a product, a policy, or a claim about inclusion or sustainability, the habits from this lesson are the whole toolkit: add up a full year of costs, convert fees to annual rates, ask who is excluded and why, find the document behind the label, and look for the number that would exist at the end if the claim were true.
 
@@ -176,3 +176,15 @@ Use these links to revisit definitions. Each glossary entry has a link back to i
 Follow the insurance side of climate risk in [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}), and the consumer-protection side of fair access in [Financial law, ethics, and consumer protection]({{ '/knowledge/financial-law-ethics-and-consumer-protection/' | relative_url }}). To compare borrowing costs in more depth, see [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}).
 
 Planned deeper lessons for this area include impact measurement methods, community development finance institutions, and climate scenario analysis. They are not published yet.
+
+## References
+
+[^1]: World Bank, "Financial Inclusion Overview" — <https://www.worldbank.org/en/topic/financialinclusion/overview>
+[^2]: European Commission, "Overview of sustainable finance" — <https://finance.ec.europa.eu/sustainable-finance/overview-sustainable-finance_en>
+[^3]: Federal Deposit Insurance Corporation, "FDIC National Survey of Unbanked and Underbanked Households" — <https://www.fdic.gov/household-survey>
+[^4]: Consumer Financial Protection Bureau, "Payday Loans" — <https://www.consumerfinance.gov/consumer-tools/payday-loans/>
+[^5]: CGAP (Consultative Group to Assist the Poor), "About CGAP" — <https://www.cgap.org/about>
+[^6]: Network for Greening the Financial System — <https://www.ngfs.net/>
+[^7]: International Capital Market Association, "The Principles, Guidelines and Handbooks" (Green Bond Principles) — <https://www.icmagroup.org/sustainable-finance/the-principles-guidelines-and-handbooks/>
+[^8]: U.S. Securities and Exchange Commission, "SEC Adopts Rule Enhancements to Prevent Misleading or Deceptive Fund Names" — <https://www.sec.gov/newsroom/press-releases/2023-188>
+[^9]: University of Bristol, Personal Finance Research Centre, "The poverty premium in 2022" — <https://www.bristol.ac.uk/geography/research/pfrc/themes/financial-exclusion-poverty/poverty-premium-2022/>

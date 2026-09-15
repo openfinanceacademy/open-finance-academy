@@ -10,6 +10,7 @@ build:
 
 check: build
     python3 scripts/check_site.py
+    python3 scripts/check_math.py
     git diff --check
 
 clean:

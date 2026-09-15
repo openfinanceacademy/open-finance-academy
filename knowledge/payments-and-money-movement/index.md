@@ -45,7 +45,7 @@ No prior payments experience is needed. [Banking, credit, and lending]({{ '/know
 
 The dollar amounts, fees, and exchange rates are invented teaching examples, not current pricing from any provider. Each example is independent. Unless stated otherwise, assume no taxes and no failed or reversed transactions beyond those described.
 
-General explanations are intended to be useful across countries, but the specific institutions, timing, and consumer protections in a payment depend heavily on the country, the payment method, and the provider. U.S.-specific examples are labeled and use official sources checked September 13, 2026.
+General explanations are intended to be useful across countries, but the specific institutions, timing, and consumer protections in a payment depend heavily on the country, the payment method, and the provider. U.S.-specific examples are labeled and use official sources checked September 14, 2026.
 
 ## In this lesson
 
@@ -62,7 +62,7 @@ General explanations are intended to be useful across countries, but the specifi
 
 Noor runs a small shop: customers pay by card, a supplier is paid by bank transfer, and part of each month's profit is sent to family in another country. Each of these is a **[payment]({{ '/glossary/' | relative_url }}#payment)**: a transfer of money from a **[payer]({{ '/glossary/' | relative_url }}#payer)** to a **[payee]({{ '/glossary/' | relative_url }}#payee)**.
 
-A **[payment instrument]({{ '/glossary/' | relative_url }}#payment-instrument)** is the method used to start a payment — a card, a bank transfer, a direct debit, or cash. The instrument a payer chooses affects how quickly the payee is paid, what it costs, what information each side shares, and what protections apply if something goes wrong. The rest of this lesson follows several instruments from the moment a payment starts to the moment money actually lands in the payee's account.
+A **[payment instrument]({{ '/glossary/' | relative_url }}#payment-instrument)** is the method used to start a payment — a card, a bank transfer, a direct debit, or cash.[^1] The instrument a payer chooses affects how quickly the payee is paid, what it costs, what information each side shares, and what protections apply if something goes wrong. The rest of this lesson follows several instruments from the moment a payment starts to the moment money actually lands in the payee's account.
 
 ## Cards and card networks
 
@@ -76,7 +76,7 @@ Card acceptance is not free. An **[interchange fee]({{ '/glossary/' | relative_u
 - Total fee: $1.16 + $0.30 = **$1.46**.
 - Amount Noor actually receives: $40 − $1.46 = **$38.54**.
 
-The customer's statement shows $40; Noor's deposit is smaller. Rates, structures, and who bears the fee vary by provider, card type, and country. See the [BIS glossary of payment and settlement terms](https://www.bis.org/cpmi/publ/d00b.htm) for standard definitions used across the industry.
+The customer's statement shows $40; Noor's deposit is smaller. Rates, structures, and who bears the fee vary by provider, card type, and country.[^1]
 
 ## Bank transfers, direct debits, and instant payments
 
@@ -84,7 +84,7 @@ A **[bank transfer]({{ '/glossary/' | relative_url }}#bank-transfer)** is an ins
 
 A **[direct debit]({{ '/glossary/' | relative_url }}#direct-debit)** works the other way: the payee pulls money from the payer's account, under an authorization the payer set up in advance. Noor's landlord uses a direct debit to collect $1,200 rent on the first of each month without Noor initiating a transfer each time. Because the payee initiates it, a direct debit usually comes with cancellation and reversal rights so a payer is not left unprotected.
 
-Ordinary bank transfers can take from same-day to a few business days to reach the payee, depending on the payment rail and country. An **[instant payment]({{ '/glossary/' | relative_url }}#instant-payment)** is a bank transfer processed and made available to the payee within seconds, at any time, including nights, weekends, and holidays. In the United States, the Federal Reserve operates the [FedNow instant payment service](https://www.frbservices.org/financial-services/fednow) for banks and credit unions; other countries operate their own instant-payment systems. Not every bank or payment participates, so instant availability depends on both the payer's and the payee's institutions.
+Ordinary bank transfers can take from same-day to a few business days to reach the payee, depending on the payment rail and country. An **[instant payment]({{ '/glossary/' | relative_url }}#instant-payment)** is a bank transfer processed and made available to the payee within seconds, at any time, including nights, weekends, and holidays. In the United States, the Federal Reserve operates the FedNow instant payment service for banks and credit unions; other countries operate their own instant-payment systems.[^2] Not every bank or payment participates, so instant availability depends on both the payer's and the payee's institutions.
 
 ## Payment processing, clearing, and settlement
 
@@ -92,7 +92,7 @@ A **[payment processor]({{ '/glossary/' | relative_url }}#payment-processor)** h
 
 Two steps happen after a payment is authorized but before money truly arrives. **[Clearing]({{ '/glossary/' | relative_url }}#clearing)** is the exchange of payment instructions between institutions and the calculation of what each owes the others; it does not move money by itself. **[Settlement]({{ '/glossary/' | relative_url }}#settlement)** is the actual, final transfer of funds between institutions that fulfills the obligations calculated during clearing.
 
-This is why a card sale can be authorized in seconds on Monday, but the funds may not settle into Noor's account until Wednesday: authorization confirms the transaction can proceed; settlement is when Noor's bank actually receives the money. The [BIS glossary](https://www.bis.org/cpmi/publ/d00b.htm) defines clearing and settlement in more technical detail.
+This is why a card sale can be authorized in seconds on Monday, but the funds may not settle into Noor's account until Wednesday: authorization confirms the transaction can proceed; settlement is when Noor's bank actually receives the money.[^1]
 
 Different types of payments travel over different infrastructure. A **[payment rail]({{ '/glossary/' | relative_url }}#payment-rail)** is the underlying network used to move money for a particular payment type — a card network, a same-day bank-transfer system, or an instant-payment system are all different rails, each with its own timing, cost, and rules.
 
@@ -102,7 +102,7 @@ A **[remittance]({{ '/glossary/' | relative_url }}#remittance)** is a transfer o
 
 Cross-border payments often rely on a **[correspondent bank]({{ '/glossary/' | relative_url }}#correspondent-bank)**: a bank that provides services, such as processing payments, to another bank, often in a different country, so money can move between banking systems that are not directly connected. A **[wire transfer]({{ '/glossary/' | relative_url }}#wire-transfer)** is a direct, typically same-day transfer between banks, commonly used for large or international payments, though not the only way to send money abroad. Dedicated remittance and money-transfer companies offer another route, sometimes faster or cheaper than a bank wire for smaller amounts, with their own fees and timing.
 
-In the United States, sending money abroad through most providers is covered by Regulation E's remittance transfer rules, which require upfront disclosure of fees, the exchange rate, and the amount the recipient should receive, along with a short cancellation window and error-resolution rights. See the [CFPB's Regulation E rules](https://www.consumerfinance.gov/rules-policy/regulations/1005/) and its [guidance on problems sending money to another country](https://www.consumerfinance.gov/consumer-tools/sending-money/). Protections outside the United States depend on local rules.
+In the United States, sending money abroad through most providers is covered by Regulation E's remittance transfer rules, which require upfront disclosure of fees, the exchange rate, and the amount the recipient should receive, along with a short cancellation window and error-resolution rights.[^3][^4] Protections outside the United States depend on local rules.
 
 ## Compare the cost of moving money abroad
 
@@ -117,13 +117,13 @@ Suppose Noor sends **$500** to family abroad, and the mid-market reference rate 
 
 Provider B advertises no fee, but its rate is **3% below** the market rate: (0.90 − 0.873) ÷ 0.90 = 3%. Despite the fee, Provider A delivers **€445.50 − €436.50 = €9.00 more** to the recipient. Comparing only the headline fee, and ignoring the exchange rate applied, would have favored the more expensive option.
 
-To compare cross-border payment options, check the fee, the exact exchange rate offered against a published market rate, how long the transfer takes, and what happens if it fails or is delayed. Required disclosures — where they apply — should make this comparison possible without independently researching the market rate yourself.
+To compare cross-border payment options, check the fee, the exact exchange rate offered against a published market rate, how long the transfer takes, and what happens if it fails or is delayed. Required disclosures — where they apply — should make this comparison possible without independently researching the market rate yourself.[^4]
 
 ## Fraud prevention, disputes, and payment security
 
 **[Authentication]({{ '/glossary/' | relative_url }}#authentication)** confirms that someone attempting a payment or accessing an account is who they claim to be — a PIN, a card chip, a one-time code, or a fingerprint are all authentication methods. **[Strong customer authentication]({{ '/glossary/' | relative_url }}#strong-customer-authentication)**, required in some jurisdictions for many online payments, combines at least two independent factors, such as something the payer knows (a password) and something they possess (a phone). Requirements differ by country and payment type.
 
-**[Fraud]({{ '/glossary/' | relative_url }}#fraud)** is intentional deception to obtain money or property unlawfully, including using someone else's card or account details without permission. The [FTC's consumer alerts](https://consumer.ftc.gov/consumer-alerts) and the [Investor.gov fraud red-flags checklist](https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist) both describe common pressure tactics — urgency, secrecy, and requests to pay by unusual methods — that apply beyond investment fraud to everyday payment scams.
+**[Fraud]({{ '/glossary/' | relative_url }}#fraud)** is intentional deception to obtain money or property unlawfully, including using someone else's card or account details without permission. The FTC's consumer alerts and the Investor.gov fraud red-flags checklist both describe common pressure tactics — urgency, secrecy, and requests to pay by unusual methods — that apply beyond investment fraud to everyday payment scams.[^5][^6]
 
 If a customer believes a card charge is wrong or unauthorized, they can raise a **[dispute]({{ '/glossary/' | relative_url }}#dispute)**: a formal challenge that a transaction was unauthorized, incorrect, or for goods or services never received. A successful dispute on a card payment can lead to a **[chargeback]({{ '/glossary/' | relative_url }}#chargeback)**: a reversal, initiated through the card network, that returns funds from the merchant to the cardholder. Suppose a customer disputes a $75 charge at Noor's shop as unauthorized, and the card network rules in the customer's favor: Noor's account is debited $75 and the customer's issuer credits it back, sometimes along with a chargeback fee to the merchant. This is why merchants keep transaction and delivery records — to respond to disputes, not only to make the original sale.
 
@@ -174,3 +174,12 @@ Revisit [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending
 - Reading a remittance disclosure and calculating the true cost of a transfer
 - Business payment reconciliation and handling chargebacks
 - Payment security practices for small merchants and online sellers
+
+## References
+
+[^1]: Bank for International Settlements, Committee on Payments and Market Infrastructures, "Glossary of payments and market infrastructure terminology" — <https://www.bis.org/cpmi/publ/d00b.htm>
+[^2]: Federal Reserve Financial Services, "FedNow Service" — <https://www.frbservices.org/financial-services/fednow>
+[^3]: Consumer Financial Protection Bureau, "12 CFR Part 1005 — Electronic Fund Transfers (Regulation E)" — <https://www.consumerfinance.gov/rules-policy/regulations/1005/>
+[^4]: Consumer Financial Protection Bureau, "Problems sending money to another country?" — <https://www.consumerfinance.gov/consumer-tools/sending-money/>
+[^5]: Federal Trade Commission, "Consumer Alerts" — <https://consumer.ftc.gov/consumer-alerts>
+[^6]: Investor.gov (U.S. Securities and Exchange Commission), "Red Flags of Investment Fraud Checklist" — <https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist>

@@ -1,0 +1,44 @@
+name: Check site
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Take ownership of generated site
+        run: sudo chown -R "$(id -u):$(id -g)" _site
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Build search index
+        run: |
+          npm ci
+          npm run search:index
+
+      - name: Check metadata, sitemap, and local links
+        run: python3 scripts/check_site.py
+
+      - name: Check worked-example arithmetic
+        run: python3 scripts/check_math.py
+
+      - name: Check for whitespace errors
+        run: git diff --check

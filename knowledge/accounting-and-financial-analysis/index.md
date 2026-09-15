@@ -95,7 +95,7 @@ At that moment: **$10,000 = $0 + $10,000**. Maya's investment increases equity; 
 
 A **[balance sheet]({{ '/glossary/' | relative_url }}#balance-sheet)** reports these three categories at a particular date. **[Inventory]({{ '/glossary/' | relative_url }}#inventory)** means goods held for sale, or materials and unfinished goods that will become products. Buying $4,000 of stationery moves $4,000 from cash into inventory. Total assets initially stay the same.
 
-The [SEC's introductory guide](https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide) explains the balance sheet and accounting equation.
+The SEC's introductory guide to financial statements explains the balance sheet and accounting equation.[^1]
 
 ## When to record sales and costs
 
@@ -103,7 +103,7 @@ The shop delivers $6,000 of stationery in September but receives only $4,500 imm
 
 **[Revenue]({{ '/glossary/' | relative_url }}#revenue)** is the amount earned from ordinary business activities before subtracting costs. An **[expense]({{ '/glossary/' | relative_url }}#expense)** is a cost; in these business accounts it is recognized in the period when resources are consumed or the obligation arises, which may differ from the payment date.
 
-Under **[accrual accounting]({{ '/glossary/' | relative_url }}#accrual-accounting)**, revenue is recorded when earned and expenses when incurred, rather than only when money changes hands. Here, the completed sales generate $6,000 of September revenue. **[Cash basis accounting]({{ '/glossary/' | relative_url }}#cash-basis-accounting)** generally records revenue on receipt and expenses on payment; tax rules can require exceptions. See [OpenStax on accounting timing](https://openstax.org/books/principles-financial-accounting/pages/4-1-explain-the-concepts-and-guidelines-affecting-adjusting-entries).
+Under **[accrual accounting]({{ '/glossary/' | relative_url }}#accrual-accounting)**, revenue is recorded when earned and expenses when incurred, rather than only when money changes hands. Here, the completed sales generate $6,000 of September revenue. **[Cash basis accounting]({{ '/glossary/' | relative_url }}#cash-basis-accounting)** generally records revenue on receipt and expenses on payment; tax rules can require exceptions.[^2]
 
 The unpaid $1,500 is **[accounts receivable]({{ '/glossary/' | relative_url }}#accounts-receivable)**: amounts customers owe for goods or services already provided. It is an asset, but cannot yet pay the shop's bills. Collecting it in October exchanges a receivable for cash; it does not create another sale.
 
@@ -113,7 +113,7 @@ The unpaid $300 utility bill is **[accounts payable]({{ '/glossary/' | relative_
 
 **Ending inventory = $0 starting inventory + $4,000 purchases − $2,500 cost of goods sold = $1,500.**
 
-The remaining $1,500 is still an asset. Charging all $4,000 as September's cost of goods sold would incorrectly include unsold stock. [OpenStax's merchandising introduction](https://openstax.org/books/principles-financial-accounting/pages/6-1-compare-and-contrast-merchandising-versus-service-activities-and-transactions) explains inventory and the cost of sales.
+The remaining $1,500 is still an asset. Charging all $4,000 as September's cost of goods sold would incorrectly include unsold stock.[^3]
 
 ## Spreading the cost of equipment
 
@@ -125,7 +125,7 @@ The $2,400 equipment purchase uses cash immediately, but the equipment will help
 
 September includes $100 of expense. The equipment's **[carrying amount]({{ '/glossary/' | relative_url }}#carrying-amount)**, meaning its amount in the accounts after adjustments, falls to **$2,400 − $100 = $2,300**.
 
-There is no extra $100 cash payment when depreciation is recorded. Nor does it mean the equipment's resale price has fallen by exactly $100. The useful life and expected end value are estimates. See [OpenStax's explanation of depreciation](https://openstax.org/books/principles-financial-accounting/pages/11-3-explain-and-apply-depreciation-methods-to-allocate-capitalized-costs).
+There is no extra $100 cash payment when depreciation is recorded. Nor does it mean the equipment's resale price has fallen by exactly $100. The useful life and expected end value are estimates.[^4]
 
 ## Did the shop make a profit?
 
@@ -146,11 +146,11 @@ An **[income statement]({{ '/glossary/' | relative_url }}#income-statement)** sh
 
 The remaining expenses total $1,000 + $1,200 + $300 + $100 = **$2,600**. Therefore, $3,500 − $2,600 = **$900 profit**. Taxes and financing costs are absent only because of our assumptions.
 
-The shop earned $900 under these assumptions, but it has not received all sales money. Use the income statement alongside the other statements, as explained in [OpenStax's financial statement overview](https://openstax.org/books/principles-financial-accounting/pages/2-1-describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate).
+The shop earned $900 under these assumptions, but it has not received all sales money. Use the income statement alongside the other statements.[^5]
 
 ## Where did the cash go?
 
-**[Cash flow]({{ '/glossary/' | relative_url }}#cash-flow)** means money moving in and out over a period. A **[cash flow statement]({{ '/glossary/' | relative_url }}#cash-flow-statement)** explains the change in cash, separating everyday operations, investment in longer-lived resources, and funding from owners or lenders. Actual statements also include qualifying cash equivalents, which this example does not use.
+**[Cash flow]({{ '/glossary/' | relative_url }}#cash-flow)** means money moving in and out over a period. A **[cash flow statement]({{ '/glossary/' | relative_url }}#cash-flow-statement)** explains the change in cash, separating everyday operations, investment in longer-lived resources, and funding from owners or lenders.[^6] Actual statements also include qualifying cash equivalents, which this example does not use.
 
 ### Shop cash flow statement — September
 
@@ -161,7 +161,7 @@ The shop earned $900 under these assumptions, but it has not received all sales 
 | Financing activities: obtaining or returning funding | Maya's investment | **+$10,000** |
 | **Total change in cash** | −$1,700 − $2,400 + $10,000 | **+$5,900** |
 
-Beginning cash was zero, so ending cash is **$0 + $5,900 = $5,900**. These categories are described in [OpenStax's guide to cash flow activities](https://openstax.org/books/principles-financial-accounting/pages/16-2-differentiate-between-operating-investing-and-financing-activities).
+Beginning cash was zero, so ending cash is **$0 + $5,900 = $5,900**.
 
 We can also reconcile profit to operating cash:
 
@@ -196,26 +196,26 @@ A **[statement of changes in equity]({{ '/glossary/' | relative_url }}#statement
 
 **$0 beginning equity + $10,000 owner investment + $900 profit − $0 owner withdrawals = $10,900 ending equity.**
 
-The income statement's $900 profit increases equity, the cash flow statement's $5,900 ending cash appears as an asset, and the $100 depreciation reduces equipment. Statements for a period explain changes between balance sheet dates. A balanced equation is a consistency check, not proof that every sale, estimate, or classification is correct.
+The income statement's $900 profit increases equity, the cash flow statement's $5,900 ending cash appears as an asset, and the $100 depreciation reduces equipment. Statements for a period explain changes between balance sheet dates.[^5] A balanced equation is a consistency check, not proof that every sale, estimate, or classification is correct.
 
 ## Using ratios to ask better questions
 
 A **[financial ratio]({{ '/glossary/' | relative_url }}#financial-ratio)** divides one financial amount by another to make a comparison. Match the periods, units, and definitions before comparing businesses.
 
-**[Gross profit margin]({{ '/glossary/' | relative_url }}#gross-profit-margin)** is gross profit divided by sales revenue. **[Net profit margin]({{ '/glossary/' | relative_url }}#net-profit-margin)** is net profit divided by revenue. Multiplying a decimal by 100 expresses it as a percentage.
+**[Gross profit margin]({{ '/glossary/' | relative_url }}#gross-profit-margin)** is gross profit divided by sales revenue. **[Net profit margin]({{ '/glossary/' | relative_url }}#net-profit-margin)** is net profit divided by revenue.[^7] Multiplying a decimal by 100 expresses it as a percentage.
 
 | September measure | Calculation | Meaning |
 | --- | --- | --- |
 | Gross profit margin | $3,500 ÷ $6,000 × 100 = **58.33%** | About 58 cents per sales dollar remain after the goods' cost, before other expenses. |
 | Net profit margin | $900 ÷ $6,000 × 100 = **15%** | Fifteen cents per sales dollar remain after all expenses in this example. |
 
-See [OpenStax on profitability ratios](https://openstax.org/books/principles-finance-2e/pages/6-6-profitability-ratios-and-the-dupont-method). A larger sales total need not produce a larger profit: if next month's sales are $7,000 but net profit is $700, the margin is $700 ÷ $7,000 × 100 = **10%**. Investigate prices, goods costs, and other expenses before explaining the decline.
+A larger sales total need not produce a larger profit: if next month's sales are $7,000 but net profit is $700, the margin is $700 ÷ $7,000 × 100 = **10%**. Investigate prices, goods costs, and other expenses before explaining the decline.
 
 **[Current assets]({{ '/glossary/' | relative_url }}#current-asset)** are short-term resources, generally including cash and items expected to be sold, used, or collected within the normal operating cycle or twelve months. **[Current liabilities]({{ '/glossary/' | relative_url }}#current-liability)** are short-term obligations, generally due within that cycle or twelve months. Detailed classification depends on the reporting framework. Assume the shop's cycle is shorter than a year.
 
 The shop's current assets are $5,900 cash + $1,500 receivables + $1,500 inventory = **$8,900**. Its only current liability is the **$300** utility bill.
 
-The **[current ratio]({{ '/glossary/' | relative_url }}#current-ratio)** divides current assets by current liabilities: **$8,900 ÷ $300 = about 29.67 times**. **[Working capital]({{ '/glossary/' | relative_url }}#working-capital)** subtracts current liabilities from current assets: **$8,900 − $300 = $8,600**. See [OpenStax on short-term financial resources](https://openstax.org/books/principles-finance-2e/pages/6-3-liquidity-ratios).
+The **[current ratio]({{ '/glossary/' | relative_url }}#current-ratio)** divides current assets by current liabilities: **$8,900 ÷ $300 = about 29.67 times**. **[Working capital]({{ '/glossary/' | relative_url }}#working-capital)** subtracts current liabilities from current assets: **$8,900 − $300 = $8,600**.[^8]
 
 That unusually high ratio reflects a newly funded shop with very few unpaid bills. It is not a target for other businesses. Working capital is not the bank balance: some of it is tied up in stock and customer debts. Ratios cannot show whether a particular customer will pay before tomorrow's bill is due. If current liabilities were zero, division by zero would make this ratio undefined.
 
@@ -223,7 +223,7 @@ Compare several periods and similar businesses. A seasonal shop, a bank, and a s
 
 ## Reading beyond the totals
 
-**[Financial statement notes]({{ '/glossary/' | relative_url }}#financial-statement-notes)** explain the policies, estimates, and details behind the numbers. Read them alongside the statements. The [SEC guide's discussion of notes](https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide) explains why they matter.
+**[Financial statement notes]({{ '/glossary/' | relative_url }}#financial-statement-notes)** explain the policies, estimates, and details behind the numbers. Read them alongside the statements. The SEC guide's discussion of notes explains why they matter.[^1]
 
 In our shop, investigate these questions:
 
@@ -234,7 +234,7 @@ In our shop, investigate these questions:
 
 Recorded equity is not a quoted business sale price. Our $10,900 includes amounts measured under accounting assumptions; a buyer may value the shop differently.
 
-An **[audit]({{ '/glossary/' | relative_url }}#audit)** is an independent examination supporting an opinion on financial statements under applicable standards. For U.S. public-company audits, the Public Company Accounting Oversight Board describes the aim as reasonable assurance that statements are free of material misstatement—errors or omissions important enough to affect users' decisions. This is not absolute assurance. An audit does not promise future profitability or detect every fraud. See [PCAOB AS 1000](https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit), consulted September 13, 2026. Other jurisdictions use their own applicable standards.
+An **[audit]({{ '/glossary/' | relative_url }}#audit)** is an independent examination supporting an opinion on financial statements under applicable standards. For U.S. public-company audits, the Public Company Accounting Oversight Board describes the aim as reasonable assurance that statements are free of material misstatement—errors or omissions important enough to affect users' decisions.[^9] This is not absolute assurance. An audit does not promise future profitability or detect every fraud. Other jurisdictions use their own applicable standards.
 
 Our invented shop's statements have not been audited. Use financial analysis to develop questions, then check supporting records and explanations.
 
@@ -281,3 +281,15 @@ Continue with [Investing and portfolio management]({{ '/knowledge/investing-and-
 - Comparing several years of statements and investigating changes
 - Borrowing, financing costs, and longer-term financial resilience
 - Reading a full annual report, accounting policies, and an auditor's opinion
+
+## References
+
+[^1]: U.S. Securities and Exchange Commission, "Beginners' Guide to Financial Statements" — <https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide>
+[^2]: OpenStax, "Principles of Accounting, Volume 1: Financial Accounting," §4.1 Explain the Concepts and Guidelines Affecting Adjusting Entries — <https://openstax.org/books/principles-financial-accounting/pages/4-1-explain-the-concepts-and-guidelines-affecting-adjusting-entries>
+[^3]: OpenStax, "Principles of Accounting, Volume 1: Financial Accounting," §6.1 Compare and Contrast Merchandising versus Service Activities and Transactions — <https://openstax.org/books/principles-financial-accounting/pages/6-1-compare-and-contrast-merchandising-versus-service-activities-and-transactions>
+[^4]: OpenStax, "Principles of Accounting, Volume 1: Financial Accounting," §11.3 Explain and Apply Depreciation Methods to Allocate Capitalized Costs — <https://openstax.org/books/principles-financial-accounting/pages/11-3-explain-and-apply-depreciation-methods-to-allocate-capitalized-costs>
+[^5]: OpenStax, "Principles of Accounting, Volume 1: Financial Accounting," §2.1 Describe the Income Statement, Statement of Owner's Equity, Balance Sheet, and Statement of Cash Flows, and How They Interrelate — <https://openstax.org/books/principles-financial-accounting/pages/2-1-describe-the-income-statement-statement-of-owners-equity-balance-sheet-and-statement-of-cash-flows-and-how-they-interrelate>
+[^6]: OpenStax, "Principles of Accounting, Volume 1: Financial Accounting," §16.2 Differentiate between Operating, Investing, and Financing Activities — <https://openstax.org/books/principles-financial-accounting/pages/16-2-differentiate-between-operating-investing-and-financing-activities>
+[^7]: OpenStax, "Principles of Finance 2e," §6.6 Profitability Ratios and the DuPont Method — <https://openstax.org/books/principles-finance-2e/pages/6-6-profitability-ratios-and-the-dupont-method>
+[^8]: OpenStax, "Principles of Finance 2e," §6.3 Liquidity Ratios — <https://openstax.org/books/principles-finance-2e/pages/6-3-liquidity-ratios>
+[^9]: Public Company Accounting Oversight Board, "AS 1000: General Responsibilities of the Auditor in Conducting an Audit," accessed September 13, 2026 — <https://pcaobus.org/oversight/standards/auditing-standards/details/as-1000--general-responsibilities-of-the-auditor-in-conducting-an-audit>

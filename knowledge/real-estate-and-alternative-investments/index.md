@@ -72,7 +72,7 @@ An **[alternative investment]({{ '/glossary/' | relative_url }}#alternative-inve
 
 An **[investment vehicle]({{ '/glossary/' | relative_url }}#investment-vehicle)** is the legal or financial structure through which an investment is held, such as a fund or company. Separate **what the investment owns** from **how you own your interest**. A listed property fund and a directly owned apartment may share property-market risks while offering very different sale options and responsibilities.
 
-**[Diversification]({{ '/glossary/' | relative_url }}#diversification)** spreads investments across holdings and sources of risk to reduce dependence on one outcome. Adding an “alternative” label does not establish diversification: your home, rental property, job, and local business investment could all depend on the same regional economy. See [FINRA's introduction to alternative and emerging products](https://www.finra.org/investors/investing/investment-products/alternative-and-emerging-products).
+**[Diversification]({{ '/glossary/' | relative_url }}#diversification)** spreads investments across holdings and sources of risk to reduce dependence on one outcome. Adding an “alternative” label does not establish diversification: your home, rental property, job, and local business investment could all depend on the same regional economy.[^1]
 
 ## Follow rent to owner cash flow
 
@@ -102,7 +102,7 @@ The reserve is cash held aside, not necessarily an expense already incurred. If 
 
 Suppose the purchase used a $150,000 loan and **$60,000 of owner cash**: a $50,000 down payment, $6,000 purchase costs, and $4,000 initial cash reserves. **[Cash-on-cash return]({{ '/glossary/' | relative_url }}#cash-on-cash-return)** compares annual cash available to the owner with the owner's cash invested. Under this example's convention, it is $3,000 ÷ $60,000 = **5%**.
 
-This cash measure excludes changes in property value and does not separately add the benefit of loan principal repayment. It is not a total investment return. The [OCC's commercial real estate lending handbook](https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/commercial-real-estate-lending/pub-ch-commercial-real-estate-previous.pdf) explains property income and lending analysis; its concepts also help distinguish operating performance from financing.
+This cash measure excludes changes in property value and does not separately add the benefit of loan principal repayment. It is not a total investment return. The OCC's commercial real estate lending handbook explains how lenders analyze income-producing property; its concepts also help distinguish operating performance from financing.[^2]
 
 ## Compare property valuations
 
@@ -116,7 +116,7 @@ This is an unlevered operating-income measure, before financing and major capita
 
 Rearranging the relationship gives **estimated value = annual NOI ÷ cap rate**. Holding NOI at $15,000, a 7.5% rate implies $200,000, while a 10% rate implies **$150,000**. The calculation shows how a change in the return buyers require can affect value even if current rent is unchanged. A higher cap rate may reflect higher risk, lower expected growth, or other differences; it does not automatically mean a better bargain.
 
-An **[appraisal]({{ '/glossary/' | relative_url }}#appraisal)** is a supported professional opinion of value at a stated date for a stated purpose. It is not a guaranteed sale price. Check comparable-property differences, lease assumptions, repair needs, and the valuation date. For the income approach, see the [CFA Institute's real estate and infrastructure overview](https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/real-estate-and-infrastructure).
+An **[appraisal]({{ '/glossary/' | relative_url }}#appraisal)** is a supported professional opinion of value at a stated date for a stated purpose. It is not a guaranteed sale price. Check comparable-property differences, lease assumptions, repair needs, and the valuation date. The same OCC handbook describes how lenders evaluate the income of a property when financing it.[^2]
 
 ## See how borrowing changes the outcome
 
@@ -136,7 +136,7 @@ A 10% property-price move becomes a 40% change in this equity measure. Sale cost
 
 The **[debt-service coverage ratio (DSCR)]({{ '/glossary/' | relative_url }}#debt-service-coverage-ratio)** compares income available for debt payments with debt service. Using property NOI as the numerator, the original rental example gives $15,000 ÷ $10,000 = **1.5 times**. This excludes the separately stated replacement reserve.
 
-If collected rent falls by $6,000 and operating costs stay unchanged, NOI falls to **$9,000**. DSCR becomes **0.9 times**: NOI is $1,000 short of debt service, even before reserving money for repairs. Lender definitions and required ratios vary. Changes in interest rates or the ability to replace an expiring loan can add pressure. See [OCC guidance on stress testing property income, values, and debt coverage](https://www.occ.gov/news-issuances/bulletins/2012/bulletin-2012-33.html).
+If collected rent falls by $6,000 and operating costs stay unchanged, NOI falls to **$9,000**. DSCR becomes **0.9 times**: NOI is $1,000 short of debt service, even before reserving money for repairs. Lender definitions and required ratios vary. Changes in interest rates or the ability to replace an expiring loan can add pressure, which is why supervisors encourage lenders to stress test property income, values, and debt coverage.[^3]
 
 ## Compare direct property and REITs
 
@@ -152,11 +152,11 @@ A **[real estate investment trust (REIT)]({{ '/glossary/' | relative_url }}#real
 
 The ability to trade shares does not stabilize their price. A private holding's infrequently updated valuation does not prove its economic value is stable either.
 
-**[Return of capital]({{ '/glossary/' | relative_url }}#return-of-capital)** is a distribution representing repayment of invested capital rather than investment earnings. A cash distribution can come from operating income, asset sales, borrowing, or investors' own contributed money. A quoted distribution rate therefore does not by itself establish profitability. Read its source and the accompanying change in investment value. See [Investor.gov on REITs and their risks](https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits).
+**[Return of capital]({{ '/glossary/' | relative_url }}#return-of-capital)** is a distribution representing repayment of invested capital rather than investment earnings. A cash distribution can come from operating income, asset sales, borrowing, or investors' own contributed money. A quoted distribution rate therefore does not by itself establish profitability. Read its source and the accompanying change in investment value.[^4]
 
 ## Compare other alternative investments
 
-Different assets have different return drivers. Their structure can introduce additional borrowing, fees, and restrictions.
+Different assets have different return drivers. Their structure can introduce additional borrowing, fees, and restrictions.[^5]
 
 | Investment | What may generate returns | Risks to investigate |
 | --- | --- | --- |
@@ -168,9 +168,7 @@ Different assets have different return drivers. Their structure can introduce ad
 | **[Commodity]({{ '/glossary/' | relative_url }}#commodity)** | Exposure to physical goods such as metals, oil, or crops | Price changes, storage costs, and differences between physical assets and contracts |
 | **[Collectible]({{ '/glossary/' | relative_url }}#collectible)** | Resale of items valued for rarity or desirability, such as art or coins | Authenticity, condition, insurance, dealer fees, and finding a buyer |
 
-Private equity can include buying a listed business and taking it private. A hedge fund's name does not mean it eliminates risk. Physical commodities and collectibles generally do not pay interest or dividends simply because they are held. A futures-based commodity fund can perform differently from the current cash price of the commodity because of its contracts and costs.
-
-See Investor.gov's guides to [private equity](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity) and [hedge funds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/hedge-funds), the [CFA Institute's alternative-investment primer](https://rpc.cfainstitute.org/research/foundation/2018/alternative-investments-a-primer-for-investment-professionals), and [FINRA on commodities](https://www.finra.org/investors/investing/investment-products/futures-and-commodities).
+Private equity can include buying a listed business and taking it private.[^6] A hedge fund's name does not mean it eliminates risk.[^7] Physical commodities and collectibles generally do not pay interest or dividends simply because they are held. A futures-based commodity fund can perform differently from the current cash price of the commodity because of its contracts and costs.[^8]
 
 ## Understand commitments, withdrawals, and fees
 
@@ -180,7 +178,7 @@ If you commit **$20,000** and the fund initially calls **30%**, you pay **$6,000
 
 A **[lock-up period]({{ '/glossary/' | relative_url }}#lock-up-period)** restricts withdrawals or transfers for a specified time. **[Redemption]({{ '/glossary/' | relative_url }}#redemption)** means asking a fund or issuer to repurchase an investment under its rules. A **[redemption gate]({{ '/glossary/' | relative_url }}#redemption-gate)** limits how much can be withdrawn during a period. A fund may also have authority to suspend withdrawals under stated conditions.
 
-An **[interval fund]({{ '/glossary/' | relative_url }}#interval-fund)** is a U.S. closed-end fund that offers periodic repurchases of a limited portion of its outstanding shares. Access to such a fund does not imply daily access to your money. If requests exceed the offer, you may be able to sell only part of what you requested. See [Investor.gov on interval funds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/closed-end-funds/interval-funds).
+An **[interval fund]({{ '/glossary/' | relative_url }}#interval-fund)** is a U.S. closed-end fund that offers periodic repurchases of a limited portion of its outstanding shares. Access to such a fund does not imply daily access to your money. If requests exceed the offer, you may be able to sell only part of what you requested.[^9]
 
 ### Calculate the fee sequence
 
@@ -194,11 +192,11 @@ Assume a one-year investment starts at **$10,000** and gains **$1,000 before fee
 4. Investor profit = $1,000 − $200 − $160 = **$640**.
 5. Net return = $640 ÷ $10,000 = **6.4%**, compared with 10% before fees.
 
-Actual contracts may calculate fees on committed capital, invested capital, or asset value, and may require a minimum return or recovery of prior losses before performance fees apply. Fees can also exist inside underlying holdings. The order and calculation base matter as much as the headline percentages.
+Actual contracts may calculate fees on committed capital, invested capital, or asset value, and may require a minimum return or recovery of prior losses before performance fees apply.[^7] Fees can also exist inside underlying holdings. The order and calculation base matter as much as the headline percentages.
 
 ## Investigate before committing
 
-**[Due diligence]({{ '/glossary/' | relative_url }}#due-diligence)** investigates an investment's features, risks, costs, and supporting information before deciding whether it fits a goal. For these investments, connect each question to evidence:
+**[Due diligence]({{ '/glossary/' | relative_url }}#due-diligence)** investigates an investment's features, risks, costs, and supporting information before deciding whether it fits a goal.[^10] For these investments, connect each question to evidence:
 
 - **What do I own?** Read the legal documents and identify your rights, obligations, and position relative to lenders or other investors.
 - **What produces the return?** Separate operating cash, price appreciation, borrowing, and distributions of contributed capital.
@@ -248,3 +246,16 @@ For property, also inspect physical condition, title and ownership rights, lease
 [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) connects investment choices to goals, diversification, and fees. [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) explains mortgages and repayment terms.
 
 [Corporate finance and business funding]({{ '/knowledge/corporate-finance-and-business-funding/' | relative_url }}) develops project valuation and funding decisions. [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}) explains property coverage and retained losses. Explore [Books]({{ '/books/' | relative_url }}) for additional reading.
+
+## References
+
+[^1]: FINRA, "Alternative and Emerging Products" — <https://www.finra.org/investors/investing/investment-products/alternative-and-emerging-products>
+[^2]: Office of the Comptroller of the Currency, "Comptroller's Handbook: Commercial Real Estate Lending" — <https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/commercial-real-estate-lending/index-commercial-real-estate-lending.html>
+[^3]: Office of the Comptroller of the Currency, "Community Bank Stress Testing: Supervisory Guidance (Bulletin 2012-33)" — <https://www.occ.gov/news-issuances/bulletins/2012/bulletin-2012-33.html>
+[^4]: Investor.gov (U.S. Securities and Exchange Commission), "Real Estate Investment Trusts (REITs)" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits>
+[^5]: CFA Institute Research Foundation, "Alternative Investments: A Primer for Investment Professionals" — <https://rpc.cfainstitute.org/research/foundation/2018/alternative-investments-a-primer-for-investment-professionals>
+[^6]: Investor.gov (U.S. Securities and Exchange Commission), "Private Equity Funds" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/private-equity>
+[^7]: Investor.gov (U.S. Securities and Exchange Commission), "Hedge Funds" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/hedge-funds>
+[^8]: FINRA, "Futures and Commodities" — <https://www.finra.org/investors/investing/investment-products/futures-and-commodities>
+[^9]: Investor.gov (U.S. Securities and Exchange Commission), "Interval Funds" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/closed-end-funds/interval-funds>
+[^10]: Investor.gov (U.S. Securities and Exchange Commission), "Researching Investments" — <https://www.investor.gov/introduction-investing/getting-started/researching-investments>

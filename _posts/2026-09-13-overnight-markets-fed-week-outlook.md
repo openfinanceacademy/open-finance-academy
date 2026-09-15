@@ -26,4 +26,6 @@ The outlook therefore depends on how these forces develop together. A retreat in
 
 Sunday’s weakness establishes a cautious starting point. Whether it develops into a broader decline will become clearer as trading deepens and Wednesday’s economic data and Fed decision arrive.
 
+This post is for educational purposes only and is not investment, tax, or financial advice.
+
 Browse more articles on the [Open Finance Academy blog]({{ '/blog/' | relative_url }}).

@@ -101,7 +101,7 @@ Monthly totals can hide a shortage halfway through the month. Put receipts and p
 
 **[Working capital]({{ '/glossary/' | relative_url }}#working-capital)** is current assets minus current liabilities: broadly, short-term resources less short-term obligations. **[Accounts receivable]({{ '/glossary/' | relative_url }}#accounts-receivable)** are amounts customers owe for goods or services already provided. **[Accounts payable]({{ '/glossary/' | relative_url }}#accounts-payable)** are amounts owed to suppliers for goods or services already received.
 
-Suppose the shop has $3,000 cash, $4,000 receivables, and $5,000 inventory, with $6,000 of current liabilities. Working capital is $12,000 − $6,000 = **$6,000**. Yet a $4,000 bill due today exceeds its cash by $1,000. Stock on a shelf and unpaid invoices cannot automatically settle today's bill. See [OpenStax on working capital](https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital).
+Suppose the shop has $3,000 cash, $4,000 receivables, and $5,000 inventory, with $6,000 of current liabilities. Working capital is $12,000 − $6,000 = **$6,000**. Yet a $4,000 bill due today exceeds its cash by $1,000. Stock on a shelf and unpaid invoices cannot automatically settle today's bill.[^1]
 
 ## Compare debt and equity
 
@@ -118,7 +118,7 @@ For an interest-only $20,000 loan at 8% for one year, interest is $20,000 × 0.0
 
 **[Collateral]({{ '/glossary/' | relative_url }}#collateral)** is property pledged to support repayment. A **[loan covenant]({{ '/glossary/' | relative_url }}#loan-covenant)** is a contractual requirement or restriction, such as maintaining a specified financial ratio or limiting further borrowing. Read payment dates, security, personal guarantees, restrictions, and breach consequences together. A personal guarantee can make an owner personally responsible under its terms.
 
-Funding should fit the use: a brief seasonal gap differs from a machine expected to operate for years. Repeatedly renewing short-term borrowing for a long-lived investment creates a risk that replacement funding will be unavailable. The [SBA explains debt and equity investment capital](https://www.sba.gov/loans/additional-funding-opportunities/investment-capital/); [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) explains borrowing costs and repayment structures.
+Funding should fit the use: a brief seasonal gap differs from a machine expected to operate for years. Repeatedly renewing short-term borrowing for a long-lived investment creates a risk that replacement funding will be unavailable. The SBA explains debt and equity investment capital.[^2] [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) explains borrowing costs and repayment structures.
 
 ## Understand startup funding and dilution
 
@@ -129,7 +129,7 @@ A new business may lack the predictable customer payments that support loan repa
 - **[Venture capital]({{ '/glossary/' | relative_url }}#venture-capital)** is professionally managed investment, typically in young businesses with high growth potential. Investors usually seek a substantial eventual gain, which can shape expansion and sale decisions.
 - **[Crowdfunding]({{ '/glossary/' | relative_url }}#crowdfunding)** raises money from many contributors, usually through a platform. A donation, a promised product, a loan, and an ownership investment create different obligations.
 
-Grants can fund eligible activities without selling ownership, but applications, permitted uses, reporting, and repayment conditions vary. Customer prepayments can help fund delivery, but the business still owes the promised goods or services. Funding availability depends on the business and its circumstances. The [SBA's business planning guidance](https://www.sba.gov/counseling/plan-your-business/) discusses funding routes; the [SEC's crowdfunding investor bulletin](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-11) explains investment risks, including limited resale opportunities.
+Grants can fund eligible activities without selling ownership, but applications, permitted uses, reporting, and repayment conditions vary. Customer prepayments can help fund delivery, but the business still owes the promised goods or services. Funding availability depends on the business and its circumstances. The SBA's business planning guidance discusses funding routes.[^3] Under U.S. Regulation Crowdfunding, securities purchased in a crowdfunding offering generally cannot be resold for one year, and individual investment limits apply.[^4]
 
 ### Follow the ownership calculation
 
@@ -144,7 +144,7 @@ Suppose a founder owns 800 ordinary shares. An investor agrees to an $80,000 pre
 
 **[Dilution]({{ '/glossary/' | relative_url }}#dilution)** is a reduction in an existing owner's percentage ownership when additional shares are issued. Here the founder owns a smaller percentage of a company that has received new cash. That percentage change alone does not establish a loss in the dollar value of the founder's stake. The negotiated valuation is not a guarantee of a future sale price.
 
-If the investor instead bought existing shares from the founder, the founder would receive the purchase money; the company would receive no new funding from that purchase. Voting rights and priority payments can also make equal ownership percentages economically different. The [SEC’s small-business glossary](https://www.sec.gov/resources-small-businesses/glossary) explains funding-round valuations and ownership terminology.
+If the investor instead bought existing shares from the founder, the founder would receive the purchase money; the company would receive no new funding from that purchase. Voting rights and priority payments can also make equal ownership percentages economically different. The SEC's small-business glossary explains ownership and funding terminology, including dilution.[^5]
 
 ## Estimate the cost of capital
 
@@ -156,7 +156,7 @@ The **[weighted average cost of capital (WACC)]({{ '/glossary/' | relative_url }
 
 The 12% is an assumed required return, not a promised payment. In practice, calculations commonly adjust debt cost for usable interest tax deductions and require estimates of market values. More debt can raise financing risks and required returns, so changing the weights does not leave costs fixed indefinitely.
 
-A company's WACC is a starting point for projects with comparable risk and financing characteristics. It is not automatically the right rate for every project. See [OpenStax's WACC explanation](https://openstax.org/books/principles-finance-2e/pages/17-3-calculating-the-weighted-average-cost-of-capital).
+A company's WACC is a starting point for projects with comparable risk and financing characteristics. It is not automatically the right rate for every project.[^6]
 
 ## Evaluate a project
 
@@ -178,11 +178,11 @@ A **[discount rate]({{ '/glossary/' | relative_url }}#discount-rate)** converts 
 | End of year 1 | +$6,000 | $6,000 ÷ 1.10 | +$5,454.55 |
 | End of year 2 | +$6,000 | $6,000 ÷ (1.10 × 1.10) | +$4,958.68 |
 
-**NPV = −$10,000 + ($6,000 ÷ 1.10) + ($6,000 ÷ 1.21) = $413.22.** Calculate with unrounded values and round only the final answer; adding the rounded table entries gives a one-cent difference. Positive NPV indicates expected value above the required return embedded in the discount rate. It does not guarantee the forecast cash or prove that funding is available. See [OpenStax on NPV](https://openstax.org/books/principles-finance-2e/pages/16-2-net-present-value-npv-method).
+**NPV = −$10,000 + ($6,000 ÷ 1.10) + ($6,000 ÷ 1.21) = $413.22.** Calculate with unrounded values and round only the final answer; adding the rounded table entries gives a one-cent difference. Positive NPV indicates expected value above the required return embedded in the discount rate. It does not guarantee the forecast cash or prove that funding is available.[^7]
 
 For project cash flows available to both lenders and owners, financing costs are reflected in the appropriate discount rate. Subtracting loan interest again from those cash flows would count that financing cost twice. Cash forecasts used to plan actual bank balances must still include loan receipts and repayments. Real analyses also need consistent tax, currency, and inflation assumptions.
 
-The **[payback period]({{ '/glossary/' | relative_url }}#payback-period)** is how long it takes cumulative undiscounted project cash flows to recover the initial investment. Here recovery occurs **at the end of year 2**, because receipts arrive only at year-end. Payback ignores the time value of money and cash flows after recovery, so it cannot substitute for a value calculation. See [OpenStax's capital budgeting summary](https://openstax.org/books/principles-managerial-accounting/pages/11-summary).
+The **[payback period]({{ '/glossary/' | relative_url }}#payback-period)** is how long it takes cumulative undiscounted project cash flows to recover the initial investment. Here recovery occurs **at the end of year 2**, because receipts arrive only at year-end. Payback ignores the time value of money and cash flows after recovery, so it cannot substitute for a value calculation.[^8]
 
 ## Test assumptions and funding needs
 
@@ -190,7 +190,7 @@ The **[payback period]({{ '/glossary/' | relative_url }}#payback-period)** is ho
 
 **NPV = −$10,000 + ($5,000 ÷ 1.10) + ($5,000 ÷ 1.21) = −$1,322.31.**
 
-The original positive result depends on achieving enough benefit. Testing different sales volumes, costs, useful lives, or discount rates shows where the decision is fragile.
+The original positive result depends on achieving enough benefit. Testing different sales volumes, costs, useful lives, or discount rates shows where the decision is fragile.[^9]
 
 **[Scenario analysis]({{ '/glossary/' | relative_url }}#scenario-analysis)** changes a set of assumptions together to represent a possible outcome. A downside scenario might combine slower sales, late customer payments, and higher material costs. It should feed both the project valuation and the dated cash forecast.
 
@@ -200,7 +200,7 @@ With $30,000 available cash, monthly receipts of $4,000, and monthly outflows of
 
 ## Consider acquisitions and capital allocation
 
-An **[acquisition]({{ '/glossary/' | relative_url }}#acquisition)** occurs when one business buys another business or a controlling interest in it. A **[merger]({{ '/glossary/' | relative_url }}#merger)** combines businesses into one organization through an agreed transaction structure. The terminology and legal form can vary. See [OpenStax on mergers and acquisitions](https://openstax.org/books/introduction-business/pages/4-6-mergers-and-acquisitions).
+An **[acquisition]({{ '/glossary/' | relative_url }}#acquisition)** occurs when one business buys another business or a controlling interest in it. A **[merger]({{ '/glossary/' | relative_url }}#merger)** combines businesses into one organization through an agreed transaction structure. The terminology and legal form can vary.[^10]
 
 A **[synergy]({{ '/glossary/' | relative_url }}#synergy)** is an expected benefit from combining businesses beyond what they could achieve separately, such as eliminating duplicated costs. A buyer must also allow for integration expenses, lost customers, and execution risk. **[Due diligence]({{ '/glossary/' | relative_url }}#due-diligence)** means investigating and checking an investment before committing: for a business purchase, this can include finances, contracts, obligations, operations, and customer concentration.
 
@@ -244,3 +244,16 @@ The choice need not be expansion. A business can retain cash, repay debt, or dis
 Use [Accounting and financial analysis]({{ '/knowledge/accounting-and-financial-analysis/' | relative_url }}) to connect these decisions to financial statements. [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) develops borrowing and repayment choices. [Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }}) explains how businesses issue shares and bonds and how those instruments trade afterward.
 
 [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) considers decisions from an investor's perspective. Explore [Books]({{ '/books/' | relative_url }}) for open textbooks and additional reading.
+
+## References
+
+[^1]: OpenStax, "Principles of Finance," §19.1 What Is Working Capital? — <https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital>
+[^2]: U.S. Small Business Administration, "Investment capital" — <https://www.sba.gov/loans/additional-funding-opportunities/investment-capital/>
+[^3]: U.S. Small Business Administration, "Plan your business" — <https://www.sba.gov/counseling/plan-your-business/>
+[^4]: U.S. Securities and Exchange Commission, "Regulation Crowdfunding" — <https://www.sec.gov/smallbusiness/exemptofferings/regcrowdfunding>
+[^5]: U.S. Securities and Exchange Commission, Office of the Advocate for Small Business Capital Formation, "Glossary" — <https://www.sec.gov/resources-small-businesses/glossary>
+[^6]: OpenStax, "Principles of Finance 2e," §17.3 Calculating the Weighted Average Cost of Capital — <https://openstax.org/books/principles-finance-2e/pages/17-3-calculating-the-weighted-average-cost-of-capital>
+[^7]: OpenStax, "Principles of Finance 2e," §16.2 Net Present Value (NPV) Method — <https://openstax.org/books/principles-finance-2e/pages/16-2-net-present-value-npv-method>
+[^8]: OpenStax, "Principles of Accounting, Volume 2: Managerial Accounting," Chapter 11 Summary — <https://openstax.org/books/principles-managerial-accounting/pages/11-summary>
+[^9]: U.S. Government Accountability Office, "Cost Estimating and Assessment Guide" (GAO-20-195G) — <https://www.gao.gov/products/gao-20-195g>
+[^10]: OpenStax, "Introduction to Business," §4.6 Mergers and Acquisitions — <https://openstax.org/books/introduction-business/pages/4-6-mergers-and-acquisitions>

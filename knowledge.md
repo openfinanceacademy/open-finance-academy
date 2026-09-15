@@ -35,7 +35,7 @@ Look up terms in the [Glossary]({{ '/glossary/' | relative_url }}), where defini
 
 ## [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }})
 
-The core concepts used throughout finance.
+An introductory lesson is available: see how money grows through interest and compounding, what inflation does to purchasing power, and how to compare amounts across time, risk, and alternatives.
 
 - Money, currencies, interest, and compounding
 - Time value of money, present value, and discounting
@@ -44,7 +44,7 @@ The core concepts used throughout finance.
 
 ## [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }})
 
-Managing money through everyday decisions and major life changes.
+An introductory lesson is available: build a budget and emergency fund, weigh saving against borrowing, and follow worked examples of debt costs and repayment choices.
 
 - Budgeting, cash flow, saving, and emergency funds
 - Managing debt and understanding credit reports and scores
@@ -62,7 +62,7 @@ An introductory lesson is available: follow a small shop through its first month
 
 ## [Economics and the financial system]({{ '/knowledge/economics-and-the-financial-system/' | relative_url }})
 
-How households, businesses, institutions, and policy interact.
+An introductory lesson is available: connect supply and demand, central banks, and economic indicators to the financial system households and businesses use.
 
 - Supply and demand, incentives, and business cycles
 - Central banks, monetary policy, and money creation
@@ -135,7 +135,7 @@ Learn how property and alternative investments generate returns, and compare bor
 
 ## [Public finance and taxation]({{ '/knowledge/public-finance-and-taxation/' | relative_url }})
 
-How governments raise, spend, and borrow money.
+An introductory lesson is available: follow how governments raise, spend, and borrow money, with worked examples of tax calculations and public budgets.
 
 - Government budgets, public services, and fiscal policy
 - Income, consumption, property, and capital gains taxes
