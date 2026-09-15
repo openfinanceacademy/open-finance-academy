@@ -20,6 +20,9 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Take ownership of generated site
+        run: sudo chown -R "$(id -u):$(id -g)" _site
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
