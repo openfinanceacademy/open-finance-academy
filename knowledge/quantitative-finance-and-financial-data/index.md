@@ -73,7 +73,7 @@ Two habits separate careful number work from misleading number work, and they ru
 
 ## Describing uncertainty with probability
 
-Flip a fair coin. You cannot say which side lands up, but you can say each side is equally likely. A **[probability]({{ '/glossary/' | relative_url }}#probability)** measures how likely an event is on a scale from 0 (impossible) to 1 (certain), often written as a percentage. A fair coin lands heads with probability 0.5, or 50%. That is not a promise that two flips give one head; it describes what to expect on average over many flips.
+Flip a fair coin. You cannot say which side lands up, but you can say each side is equally likely. A **[probability]({{ '/glossary/' | relative_url }}#probability)** measures how likely an event is on a scale from 0 (impossible) to 1 (certain), often written as a percentage.[^1] A fair coin lands heads with probability 0.5, or 50%. That is not a promise that two flips give one head; it describes what to expect on average over many flips.
 
 Money questions rarely come with coin-flip certainty, so we attach estimated probabilities to possible outcomes and compute an average over them. The **[expected value]({{ '/glossary/' | relative_url }}#expected-value)** is the probability-weighted average of all possible outcomes: multiply each outcome by its probability, then add the results.
 
@@ -101,7 +101,7 @@ Raw columns of numbers are hard to read, so we summarize them. Suppose an invent
 
 The **[mean]({{ '/glossary/' | relative_url }}#mean)**, also called the average, is the sum divided by the count: (2 − 1 + 3 + 0 + 1) ÷ 5 = 5 ÷ 5 = **1% per month**.
 
-The **[median]({{ '/glossary/' | relative_url }}#median)** is the middle value when the data are placed in order: −1%, 0%, **+1%**, +2%, +3%. Two values sit below it and two above.
+The **[median]({{ '/glossary/' | relative_url }}#median)** is the middle value when the data are placed in order: −1%, 0%, **+1%**, +2%, +3%. Two values sit below it and two above.[^2]
 
 Now suppose month 3 had been +13% instead of +3%. The mean becomes (2 − 1 + 13 + 0 + 1) ÷ 5 = 15 ÷ 5 = **3%**, while the median stays at **1%**. One extreme month pulled the mean up by 2 percentage points and left the median unmoved. Report both when they tell different stories, and ask which one a writer chose when you see only an "average."
 
@@ -117,9 +117,9 @@ Two funds can share the same 1% average month while one barely moves and the oth
 | 4 | 0% | −1 | 1 |
 | 5 | +1% | 0 | 0 |
 
-The **[variance]({{ '/glossary/' | relative_url }}#variance)** is the average of those squared differences: (1 + 4 + 4 + 1 + 0) ÷ 5 = 10 ÷ 5 = **2**, in the awkward units of "squared percent." Taking the square root returns to the original units: the **[standard deviation]({{ '/glossary/' | relative_url }}#standard-deviation)** is √2 ≈ **1.41%**. A larger standard deviation means wider typical swings around the mean. Some tools divide by the count minus one instead of the count, giving 2.5 and about 1.58% for the same data; both conventions measure the same idea, so consistency matters more than the choice when comparing datasets.
+The **[variance]({{ '/glossary/' | relative_url }}#variance)** is the average of those squared differences: (1 + 4 + 4 + 1 + 0) ÷ 5 = 10 ÷ 5 = **2**, in the awkward units of "squared percent." Taking the square root returns to the original units: the **[standard deviation]({{ '/glossary/' | relative_url }}#standard-deviation)** is √2 ≈ **1.41%**. A larger standard deviation means wider typical swings around the mean. Some tools divide by the count minus one instead of the count, giving 2.5 and about 1.58% for the same data; both conventions measure the same idea, so consistency matters more than the choice when comparing datasets.[^3]
 
-If data follow the symmetric, bell-shaped pattern called the **[normal distribution]({{ '/glossary/' | relative_url }}#normal-distribution)**, a rule of thumb says about 68% of values fall within one standard deviation of the mean and about 95% within two. With a mean of 1% and a standard deviation of 1.41%, that suggests roughly 68% of months between −0.41% and +2.41%. Treat this as a rough guide only: real return series tend to produce extreme months more often than the bell curve predicts, and standard deviation does not capture every kind of **[risk]({{ '/glossary/' | relative_url }}#risk)**. A fund can look calm for years precisely because its losses arrive rarely and all at once. For deeper reading, see the [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/).
+If data follow the symmetric, bell-shaped pattern called the **[normal distribution]({{ '/glossary/' | relative_url }}#normal-distribution)**, a rule of thumb says about 68% of values fall within one standard deviation of the mean and about 95% within two.[^4] With a mean of 1% and a standard deviation of 1.41%, that suggests roughly 68% of months between −0.41% and +2.41%. Treat this as a rough guide only: real return series tend to produce extreme months more often than the bell curve predicts, and standard deviation does not capture every kind of **[risk]({{ '/glossary/' | relative_url }}#risk)**. A fund can look calm for years precisely because its losses arrive rarely and all at once. The NIST/SEMATECH e-Handbook of Statistical Methods offers deeper reading on all of these measures.[^5]
 
 ## How variables move together
 
@@ -137,11 +137,11 @@ A coefficient of +1 means perfectly aligned straight-line movement, −1 means p
 
 Two warnings matter more than the formula. First, correlation is not causation: two bank shares may fall together because a third force, such as an interest-rate change, moves both. Second, correlations change over time and often rise toward 1 during market-wide sell-offs, exactly when spreading money across holdings is most needed. **[Diversification]({{ '/glossary/' | relative_url }}#diversification)** relies on holdings being less than perfectly correlated; combining holdings with a coefficient of +1 provides no smoothing at all.
 
-A related question asks *how much* one measure moves when another moves. **[Linear regression]({{ '/glossary/' | relative_url }}#linear-regression)** fits a straight line, written y = a + b × x, to past data. Suppose an invented benchmark returned 1%, 2%, and 3% over three months while a fund returned 2.5%, 4.5%, and 6.5%. The exact line is y = 0.5 + 2 × x: an intercept of 0.5% and a slope of 2, meaning the fund tended to move about 2% for each 1% move in the benchmark. Three months of invented data prove nothing about the future; the line summarizes a past relationship that can weaken or break.
+A related question asks *how much* one measure moves when another moves. **[Linear regression]({{ '/glossary/' | relative_url }}#linear-regression)** fits a straight line, written y = a + b × x, to past data.[^6] Suppose an invented benchmark returned 1%, 2%, and 3% over three months while a fund returned 2.5%, 4.5%, and 6.5%. The exact line is y = 0.5 + 2 × x: an intercept of 0.5% and a slope of 2, meaning the fund tended to move about 2% for each 1% move in the benchmark. Three months of invented data prove nothing about the future; the line summarizes a past relationship that can weaken or break.
 
 ## Patterns over time and forecasting
 
-A **[time series]({{ '/glossary/' | relative_url }}#time-series)** is a sequence of observations recorded in time order, such as monthly **[inflation]({{ '/glossary/' | relative_url }}#inflation)** readings or a portfolio's monthly values. Two recurring features shape such series. A **[trend]({{ '/glossary/' | relative_url }}#trend)** is a persistent general direction; **[seasonality]({{ '/glossary/' | relative_url }}#seasonality)** is a pattern that repeats at known times, such as stronger retail sales in certain months.
+A **[time series]({{ '/glossary/' | relative_url }}#time-series)** is a sequence of observations recorded in time order, such as monthly **[inflation]({{ '/glossary/' | relative_url }}#inflation)** readings or a portfolio's monthly values. Two recurring features shape such series. A **[trend]({{ '/glossary/' | relative_url }}#trend)** is a persistent general direction; **[seasonality]({{ '/glossary/' | relative_url }}#seasonality)** is a pattern that repeats at known times, such as stronger retail sales in certain months.[^7]
 
 Suppose a small business earned $10,000 in January, $11,000 in February, and $12,000 in March. Three simple **[forecasts]({{ '/glossary/' | relative_url }}#forecast)** for April:
 
@@ -159,7 +159,7 @@ The temptation with more data is to build an ever more complicated rule that mat
 
 Every calculation above is only as good as its inputs. **[Data quality]({{ '/glossary/' | relative_url }}#data-quality)** covers how accurate, complete, consistent, and timely a dataset is for the use you have in mind. Imagine downloading a dataset of fund returns and finding months missing for some funds, one fund recorded in dollars while the rest are in thousands of dollars, and several duplicated rows. Each flaw silently changes any average or correlation computed from it.
 
-Two flaws cannot be spotted in the numbers themselves. **[Survivorship bias]({{ '/glossary/' | relative_url }}#survivorship-bias)** arises when the data include only survivors: a fund database that omits funds that closed makes average past returns look better than what investors actually experienced. **[Look-ahead bias]({{ '/glossary/' | relative_url }}#look-ahead-bias)** arises when an analysis uses information that would not have been available at the time being studied, such as testing a historical strategy with final, revised statistics rather than the figures published on the day. Official statistics are often revised after first release; the St. Louis Fed's [ALFRED archive](https://alfred.stlouisfed.org) preserves the vintages, showing what was known when.
+Two flaws cannot be spotted in the numbers themselves. **[Survivorship bias]({{ '/glossary/' | relative_url }}#survivorship-bias)** arises when the data include only survivors: a fund database that omits funds that closed makes average past returns look better than what investors actually experienced. **[Look-ahead bias]({{ '/glossary/' | relative_url }}#look-ahead-bias)** arises when an analysis uses information that would not have been available at the time being studied, such as testing a historical strategy with final, revised statistics rather than the figures published on the day. Official statistics are often revised after first release; the St. Louis Fed's ALFRED archive preserves the vintages, showing what was known when.[^8]
 
 **[Reproducibility]({{ '/glossary/' | relative_url }}#reproducibility)** is the habit that makes your work checkable: anyone, including future you, should get the same result from the same data and steps. Keep the raw download unchanged, make changes through a script rather than untracked edits, and record sources and retrieval dates alongside the result.
 
@@ -180,7 +180,7 @@ Compounding month by month, simply holding the investment turns $100 into about 
 
 Even a winning backtest would prove little. Six months is a tiny sample; the rule may have been chosen *because* it fit this particular past; and fees and taxes, ignored here, would lower the rule's result further. Honest evaluation also means testing periods the rule was not designed on and applying **[stress testing]({{ '/glossary/' | relative_url }}#stress-testing)**: examining outcomes under severe assumptions rather than average ones.
 
-The broader lesson is **[model risk]({{ '/glossary/' | relative_url }}#model-risk)**: the possibility of loss or poor decisions because a model is wrong, built on flawed data, or used where it does not fit. Banks face formal expectations for managing it — see the [US Federal Reserve's guidance on model risk management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm) — and the same question serves any user of models: what would make this model wrong, and how would I notice?
+The broader lesson is **[model risk]({{ '/glossary/' | relative_url }}#model-risk)**: the possibility of loss or poor decisions because a model is wrong, built on flawed data, or used where it does not fit. Banks face formal expectations for managing it under U.S. Federal Reserve supervisory guidance,[^9] and the same question serves any user of models: what would make this model wrong, and how would I notice?
 
 ## Check your understanding
 
@@ -214,3 +214,15 @@ Use these links to revisit definitions. Each glossary entry has a link back to i
 Apply these ideas to portfolios in [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}), and to the statistics that move markets in [Economics and the financial system]({{ '/knowledge/economics-and-the-financial-system/' | relative_url }}). [Financial technology and open finance]({{ '/knowledge/financial-technology-and-open-finance/' | relative_url }}) covers how financial data moves between systems through APIs and shared data standards.
 
 Planned deeper lessons for this area include time-series econometrics, simulation methods, and data visualization. They are not published yet.
+
+## References
+
+[^1]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §1.3.6.1: What is a Probability Distribution" — <https://www.itl.nist.gov/div898/handbook/eda/section3/eda361.htm>
+[^2]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §1.3.5.1: Measures of Location" — <https://www.itl.nist.gov/div898/handbook/eda/section3/eda351.htm>
+[^3]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §1.3.5.6: Measures of Scale" — <https://www.itl.nist.gov/div898/handbook/eda/section3/eda356.htm>
+[^4]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §1.3.6.6.1: Normal Distribution" — <https://www.itl.nist.gov/div898/handbook/eda/section3/eda3661.htm>
+[^5]: NIST/SEMATECH, "e-Handbook of Statistical Methods" — <https://www.itl.nist.gov/div898/handbook/>
+[^6]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §4.1.4.1: Linear Least Squares Regression" — <https://www.itl.nist.gov/div898/handbook/pmd/section1/pmd141.htm>
+[^7]: NIST/SEMATECH, "e-Handbook of Statistical Methods, §6.4: Introduction to Time Series Analysis" — <https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm>
+[^8]: Federal Reserve Bank of St. Louis, "ALFRED: Archival Federal Reserve Economic Data" — <https://alfred.stlouisfed.org>
+[^9]: Board of Governors of the Federal Reserve System, "SR 11-7: Guidance on Model Risk Management" — <https://www.federalreserve.gov/boarddocs/srletters/2011/sr1107.htm>

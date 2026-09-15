@@ -64,7 +64,7 @@ Money serves three jobs:
 | **[Unit of account]({{ '/glossary/' | relative_url }}#unit-of-account)** | A shared unit for stating and comparing prices. | A $4 loaf costs twice as much as a $2 loaf. |
 | **[Store of value]({{ '/glossary/' | relative_url }}#store-of-value)** | Something that can carry value into the future. | You keep money today to spend next week. What it buys can change. |
 
-These jobs explain why money is useful even when it exists as a number in an account. See the [Bank of England's explanation of money](https://www.bankofengland.co.uk/explainers/what-is-money).
+These jobs explain why money is useful even when it exists as a number in an account.[^1]
 
 ## How interest works
 
@@ -76,13 +76,13 @@ An **[interest rate]({{ '/glossary/' | relative_url }}#interest-rate)** expresse
 
 **First year:** $100 × 0.05 = $5 interest. You finish with $105.
 
-Always look for the period attached to a rate: 5% per month and 5% per year describe very different costs. The [Bank of England explains interest and interest rates](https://www.bankofengland.co.uk/explainers/inflation-and-interest-rates).
+Always look for the period attached to a rate: 5% per month and 5% per year describe very different costs.[^2]
 
 With **[simple interest]({{ '/glossary/' | relative_url }}#simple-interest)**, interest is calculated only on the original principal. At 5% simple interest on $100, you earn $5 each year. After two years, you have $110.
 
 ## How interest grows
 
-**[Compound interest]({{ '/glossary/' | relative_url }}#compound-interest)** is interest calculated on both the principal and interest already added. **[Compounding]({{ '/glossary/' | relative_url }}#compounding)** is the process of adding earnings to the amount that can earn more. See [Investor.gov's compound interest definition](https://www.investor.gov/introduction-investing/investing-basics/glossary/compound-interest).
+**[Compound interest]({{ '/glossary/' | relative_url }}#compound-interest)** is interest calculated on both the principal and interest already added. **[Compounding]({{ '/glossary/' | relative_url }}#compounding)** is the process of adding earnings to the amount that can earn more.[^3]
 
 Start again with $100 earning 5% per year, and leave all interest in the account:
 
@@ -102,7 +102,7 @@ The same process can increase what you owe if unpaid interest is added to a loan
 
 **[Inflation]({{ '/glossary/' | relative_url }}#inflation)** is an increase in the general level of prices over time. One shop raising one price does not, by itself, tell you the overall inflation rate.
 
-**[Purchasing power]({{ '/glossary/' | relative_url }}#purchasing-power)** is the quantity of goods and services money can buy. When prices rise, an unchanged amount of money buys less. See the [Bank of England's inflation explainer](https://www.bankofengland.co.uk/explainers/what-is-inflation).
+**[Purchasing power]({{ '/glossary/' | relative_url }}#purchasing-power)** is the quantity of goods and services money can buy. When prices rise, an unchanged amount of money buys less.[^4]
 
 Suppose your usual basket of groceries costs $100 today and the same basket costs $103 a year later. You need 3% more money to buy it. Keeping $100 without earning anything preserves the number of dollars, but it no longer pays for the whole basket.
 
@@ -110,7 +110,7 @@ This basket is a simplified example. Published inflation measures track many pri
 
 ## Measuring a gain or loss
 
-A **[return]({{ '/glossary/' | relative_url }}#return)** is the gain or loss from saving or investing over a period, including money received and changes in value. It can be stated as money or as a percentage of the starting amount. See [Investor.gov's introduction to investing](https://www.investor.gov/introduction-investing).
+A **[return]({{ '/glossary/' | relative_url }}#return)** is the gain or loss from saving or investing over a period, including money received and changes in value. It can be stated as money or as a percentage of the starting amount.[^5]
 
 If $100 becomes $105 after one year, with no money added or removed, the gain is $5 and the percentage return is $5 ÷ $100 = 5%.
 
@@ -121,7 +121,7 @@ With a 5% nominal return and 3% inflation over the same year:
 - A quick estimate of the real return is 5% − 3% = **2%**.
 - The exact calculation is (1.05 ÷ 1.03) − 1 = about **1.94%**.
 
-Why divide? Your money grew to $105, but a basket that used to cost $100 now costs $103. You can buy $105 ÷ $103 = about 1.0194 baskets: roughly 1.94% more than before. Subtraction is a useful approximation at low rates; it is not the exact calculation. The [St. Louis Fed explains nominal and inflation-adjusted values](https://www.stlouisfed.org/publications/page-one-economics/2023/01/03/adjusting-for-inflation).
+Why divide? Your money grew to $105, but a basket that used to cost $100 now costs $103. You can buy $105 ÷ $103 = about 1.0194 baskets: roughly 1.94% more than before. Subtraction is a useful approximation at low rates; it is not the exact calculation.[^6]
 
 A positive nominal return can still mean a negative real return when prices rise faster than your money grows. Fees and taxes, when applicable, also reduce what you keep.
 
@@ -135,7 +135,7 @@ Suppose you can earn a certain 5% over one year. Under that assumption, $100 tod
 
 **[Present value]({{ '/glossary/' | relative_url }}#present-value)** is today's equivalent of a future amount using a chosen rate. Working backward, $105 ÷ 1.05 = **$100** today.
 
-**[Discounting]({{ '/glossary/' | relative_url }}#discounting)** is that backward calculation. The **[discount rate]({{ '/glossary/' | relative_url }}#discount-rate)** is the rate used in it: 5% here. It is an assumption for comparing amounts at different times, not a discount offered by a shop. These concepts are covered in the [St. Louis Fed's time value of money course](https://www.stlouisfed.org/education/time-value-of-money-online-course-for-consumers).
+**[Discounting]({{ '/glossary/' | relative_url }}#discounting)** is that backward calculation. The **[discount rate]({{ '/glossary/' | relative_url }}#discount-rate)** is the rate used in it: 5% here. It is an assumption for comparing amounts at different times, not a discount offered by a shop.[^7]
 
 For two years at the same annual rate:
 
@@ -146,9 +146,9 @@ Multiplying or dividing once for each year keeps the calculation easy to follow.
 
 ## Weighing risk and access
 
-**[Risk]({{ '/glossary/' | relative_url }}#risk)** is uncertainty about a financial outcome, including the possibility of losing money or falling short of what you need. A hoped-for return is not a promised result. Taking more risk does not guarantee that you will earn more. See [Investor.gov's guide to investment risk](https://www.investor.gov/introduction-investing/investing-basics/what-risk).
+**[Risk]({{ '/glossary/' | relative_url }}#risk)** is uncertainty about a financial outcome, including the possibility of losing money or falling short of what you need. A hoped-for return is not a promised result. Taking more risk does not guarantee that you will earn more.[^8]
 
-**[Liquidity]({{ '/glossary/' | relative_url }}#liquidity)** describes how easily and quickly something can be turned into spendable money without a large loss in value. See [Investor.gov's liquidity definition](https://www.investor.gov/introduction-investing/investing-basics/glossary/liquidity-or-marketability).
+**[Liquidity]({{ '/glossary/' | relative_url }}#liquidity)** describes how easily and quickly something can be turned into spendable money without a large loss in value.[^9]
 
 For example, money in an account that allows immediate withdrawals is usually easier to use for tomorrow's bill than a bicycle you need to sell. You might need time to find a buyer, or accept a lower price to sell quickly.
 
@@ -158,7 +158,7 @@ When comparing choices, ask: What could go wrong? When will I need this money? C
 
 ## What you give up
 
-**[Opportunity cost]({{ '/glossary/' | relative_url }}#opportunity-cost)** is the value of the best alternative you give up when making a choice. It can involve money, time, convenience, or something else you value. The [St. Louis Fed explores opportunity cost in everyday decisions](https://www.stlouisfed.org/publications/page-one-economics/2019/10/01/money-and-missed-opportunities).
+**[Opportunity cost]({{ '/glossary/' | relative_url }}#opportunity-cost)** is the value of the best alternative you give up when making a choice. It can involve money, time, convenience, or something else you value.[^10]
 
 Suppose you have $100. You could buy a concert ticket now or save the money at our assumed 5% annual rate. If saving is your best alternative, choosing the concert means giving up having $105 next year. The $5 is the interest you forgo; the full alternative is the $105 future balance.
 
@@ -194,3 +194,16 @@ Use these links to revisit definitions. Each glossary entry has a link back to i
 ## Keep learning
 
 Continue with [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) to apply these ideas to a household budget, savings, and borrowing. Continue with [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) to compare deposit accounts and work through loan repayments.
+
+## References
+
+[^1]: Bank of England, "What is money?" — <https://www.bankofengland.co.uk/explainers/what-is-money>
+[^2]: Bank of England, "What are interest rates?" — <https://www.bankofengland.co.uk/explainers/what-are-interest-rates>
+[^3]: Investor.gov (U.S. Securities and Exchange Commission), "Compound Interest" — <https://www.investor.gov/introduction-investing/investing-basics/glossary/compound-interest>
+[^4]: Bank of England, "What is inflation?" — <https://www.bankofengland.co.uk/explainers/what-is-inflation>
+[^5]: Investor.gov (U.S. Securities and Exchange Commission), "Introduction to Investing" — <https://www.investor.gov/introduction-investing>
+[^6]: Federal Reserve Bank of St. Louis, "Adjusting for Inflation," Page One Economics, January 2023 — <https://www.stlouisfed.org/publications/page-one-economics/2023/01/03/adjusting-for-inflation>
+[^7]: Federal Reserve Bank of St. Louis, "Baseball and the $700 Million Bet on the Time Value of Money," Page One Economics, October 2024 — <https://www.stlouisfed.org/publications/page-one-economics/2024/oct/baseball-700-million-bet-on-time-value-of-money>
+[^8]: Investor.gov (U.S. Securities and Exchange Commission), "What is Risk?" — <https://www.investor.gov/introduction-investing/investing-basics/what-risk>
+[^9]: Investor.gov (U.S. Securities and Exchange Commission), "Liquidity (or Marketability)" — <https://www.investor.gov/introduction-investing/investing-basics/glossary/liquidity-or-marketability>
+[^10]: Federal Reserve Bank of St. Louis, "Money and Missed Opportunities," Page One Economics, October 2019 — <https://www.stlouisfed.org/publications/page-one-economics/2019/10/01/money-and-missed-opportunities>

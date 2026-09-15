@@ -36,7 +36,16 @@ An area index that only lists planned topics or links to lessons does not need a
 - Use everyday language around the technical vocabulary. Explain unfamiliar abbreviations, mathematical notation, and units before using them.
 - Start with a concrete example before a general formula. Show intermediate steps, specify periods for rates, and distinguish exact results from estimates and rounded amounts.
 - Explain relevant limitations and tradeoffs. Keep assumed returns distinct from guaranteed outcomes and nominal amounts distinct from purchasing power.
-- Link authoritative sources beside the explanations they support. Verify financial claims and calculations; check current primary sources for changing rules or rates. Prefer invented, clearly labeled teaching amounts when live data is unnecessary.
+- Cite authoritative sources beside the explanations they support. Verify financial claims and calculations; check current primary sources for changing rules or rates. Prefer invented, clearly labeled teaching amounts when live data is unnecessary.
+
+## Numbered citations
+
+Lessons cite external sources with kramdown footnotes, not inline prose links.
+
+- Place the marker after the punctuation of the sentence it supports: `...explains money.[^1]`. Number footnotes in order of first appearance.
+- Put footnote definitions under a final `## References` heading, after "Keep learning" (kramdown renders footnote bodies at the end of the document, so this heading must come last). Format: `[^1]: Bank of England, "What is money?" — <https://www.bankofengland.co.uk/explainers/what-is-money>`.
+- Every substantive section needs at least one citation to a reputable source: central banks, regulators (SEC/Investor.gov, CFPB, FDIC, FINRA, IRS), standard setters (FASB, IFRS Foundation), or international bodies (IMF, BIS, OECD, World Bank). Avoid commercial blogs unless nothing official exists.
+- Only cite a URL after fetching it and confirming it supports the claim. Internal site links (glossary, other lessons) use regular `relative_url` links, never footnotes.
 
 ## Maintain the global glossary in the same change
 
@@ -82,4 +91,5 @@ Use the existing term recap pattern:
 - Check that each introduced term has a definition and matching `glossary_terms` registration. IDs must be unique and references must point to real rendered heading anchors.
 - Follow lesson-to-glossary links and glossary-to-lesson references, including reused terms with multiple references. Check for unrendered Liquid syntax.
 - Recalculate worked examples and practice answers, including rounding and matching rate periods. Confirm source links support the associated explanations.
+- Run `python3 scripts/check_math.py` (also part of `just check`). It re-evaluates inline statements shaped like `$100 × 1.05 = $105` and fails on mismatches. Write worked examples in that explicit form so the checker covers them; arithmetic that lives only in tables or prose without an equals sign must be verified by hand.
 - Edit source files only; do not commit generated `_site/` output.

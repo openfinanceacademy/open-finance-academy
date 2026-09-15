@@ -67,13 +67,13 @@ Suppose you use a bicycle to get to work. Theft could mean replacing the bicycle
 | Retain the cost | Set aside money for repairs or replacement. | You need enough money when the loss happens. |
 | Transfer part of the cost | Buy insurance that covers theft. | You pay for cover and still bear costs outside its terms. |
 
-An **[emergency fund]({{ '/glossary/' | relative_url }}#emergency-fund)** is money kept available for unexpected costs or a loss of income. It can cover retained costs and help while an insurance payment is pending. Several responses can work together: lock the bicycle, insure a large loss, and save for the part you must pay.
+An **[emergency fund]({{ '/glossary/' | relative_url }}#emergency-fund)** is money kept available for unexpected costs or a loss of income. It can cover retained costs and help while an insurance payment is pending.[^1] Several responses can work together: lock the bicycle, insure a large loss, and save for the part you must pay.
 
 A rare event that would make housing or essential care unaffordable deserves attention even if a small repair is more likely.
 
 ## How insurance shares losses
 
-**[Insurance]({{ '/glossary/' | relative_url }}#insurance)** is an arrangement in which an insurer takes on specified financial risks in exchange for payment. An **[insurance policy]({{ '/glossary/' | relative_url }}#insurance-policy)** is the contract setting out the cover and its conditions. The **[insurance premium]({{ '/glossary/' | relative_url }}#insurance-premium)** is the price paid to keep that cover for a stated period. Paying it does not mean every loss will be covered. See the [Financial Consumer Agency of Canada's insurance explainer](https://www.canada.ca/en/financial-consumer-agency/services/insurance/determining-insurance-needs.html).
+**[Insurance]({{ '/glossary/' | relative_url }}#insurance)** is an arrangement in which an insurer takes on specified financial risks in exchange for payment. An **[insurance policy]({{ '/glossary/' | relative_url }}#insurance-policy)** is the contract setting out the cover and its conditions. The **[insurance premium]({{ '/glossary/' | relative_url }}#insurance-premium)** is the price paid to keep that cover for a stated period. Paying it does not mean every loss will be covered.[^2]
 
 Insurers pool many people's risks. Payments from the group help fund the covered losses of those who experience them. Pooling does not remove uncertainty, especially when one event affects many customers at once.
 
@@ -98,7 +98,7 @@ Start with the financial consequence you want to manage, then examine the releva
 | **[Property insurance]({{ '/glossary/' | relative_url }}#property-insurance)** | Covers specified loss or damage to belongings or buildings. | Are my belongings, building, and likely causes of damage included? |
 | **[Liability insurance]({{ '/glossary/' | relative_url }}#liability-insurance)** | Covers specified costs arising from legal responsibility for harm to others. | Which activities, people, and legal costs does it cover? |
 
-A **[beneficiary]({{ '/glossary/' | relative_url }}#beneficiary)** is a person or organization designated or entitled to receive a benefit. With life insurance, check that the intended recipients are recorded correctly. Some life policies last for a stated number of years; others are designed for longer cover and may include savings features. Costs and conditions differ. See the [NAIC's life insurance overview](https://content.naic.org/article/consumer_insight_what_type_life_insurance_right_you.htm).
+A **[beneficiary]({{ '/glossary/' | relative_url }}#beneficiary)** is a person or organization designated or entitled to receive a benefit. With life insurance, check that the intended recipients are recorded correctly. Some life policies last for a stated number of years; others are designed for longer cover and may include savings features. Costs and conditions differ.[^3]
 
 Medical bills and lost earnings are separate needs. A health plan may pay a hospital while leaving a household short of money for rent. Likewise, a landlord's building cover does not establish that a tenant's belongings are insured. Check existing employer, public, and household arrangements for gaps or overlap.
 
@@ -111,7 +111,7 @@ Four terms help explain what you are buying:
 - An **[exclusion]({{ '/glossary/' | relative_url }}#insurance-exclusion)** is a loss, circumstance, or item the contract does not cover.
 - An **[insurance claim]({{ '/glossary/' | relative_url }}#insurance-claim)** is a request for payment or services under a policy. Submitting one does not guarantee payment.
 
-For property, **[replacement cost]({{ '/glossary/' | relative_url }}#replacement-cost)** means the cost of replacing or repairing with comparable new items or materials, subject to policy terms. **[Actual cash value]({{ '/glossary/' | relative_url }}#actual-cash-value)** generally means replacement cost reduced for age and wear; the precise calculation depends on the contract and jurisdiction. A used sofa may therefore produce a payment smaller than the price of a new one. The [NAIC explains property policy sections and valuation](https://content.naic.org/article/consumer-insight-understanding-your-homeowners-or-renters-policy).
+For property, **[replacement cost]({{ '/glossary/' | relative_url }}#replacement-cost)** means the cost of replacing or repairing with comparable new items or materials, subject to policy terms. **[Actual cash value]({{ '/glossary/' | relative_url }}#actual-cash-value)** generally means replacement cost reduced for age and wear; the precise calculation depends on the contract and jurisdiction. A used sofa may therefore produce a payment smaller than the price of a new one.[^4]
 
 Compare the same covered events, people, property values, dates, limits, and valuation method. Read the full wording as well as the summary. Ask about conditions that must be met and when payment would arrive.
 
@@ -138,11 +138,11 @@ For a $3,000 loss:
 
 For the $8,000 loss, subtracting $500 leaves $7,500, but payment stops at $5,000. You bear both the deductible and the unpaid amount above the limit. For an excluded event, the deductible does not turn the loss into a covered one.
 
-Now compare another policy with identical terms except a $1,000 deductible and a $180 annual premium. With no loss, it saves $240 − $180 = **$60**. With one $3,000 eligible loss, your total is $1,000 + $180 = **$1,180**, versus $740: **$440 more**. A lower premium shifts more cost to you when a loss occurs. Check whether that amount would be available when needed.
+Now compare another policy with identical terms except a $1,000 deductible and a $180 annual premium. With no loss, it saves $240 − $180 = **$60**. With one $3,000 eligible loss, your total is $1,000 + $180 = **$1,180**, versus $740: **$440 more**. A lower premium shifts more cost to you when a loss occurs.[^2] Check whether that amount would be available when needed.
 
 ## Health cost sharing works differently
 
-In health insurance, **[coinsurance]({{ '/glossary/' | relative_url }}#health-insurance-coinsurance)** is your percentage share of an eligible medical cost under the plan. A **[copayment]({{ '/glossary/' | relative_url }}#copayment)** is a fixed amount for an eligible service. An **[out-of-pocket maximum]({{ '/glossary/' | relative_url }}#out-of-pocket-maximum)** caps specified patient payments during a plan period; premiums and uncovered costs generally do not count. These terms describe health cover here; “coinsurance” has a different use in some property policies. See the [NAIC's explanation of health deductibles and cost sharing](https://content.naic.org/article/consumer-insight-understand-your-health-plans-deductible).
+In health insurance, **[coinsurance]({{ '/glossary/' | relative_url }}#health-insurance-coinsurance)** is your percentage share of an eligible medical cost under the plan. A **[copayment]({{ '/glossary/' | relative_url }}#copayment)** is a fixed amount for an eligible service. An **[out-of-pocket maximum]({{ '/glossary/' | relative_url }}#out-of-pocket-maximum)** caps specified patient payments during a plan period; premiums and uncovered costs generally do not count.[^5][^6] These terms describe health cover here; “coinsurance” has a different use in some property policies.
 
 Assume a plan has a $1,000 annual deductible, then 20% patient coinsurance, no copayments, and a $3,000 annual out-of-pocket maximum. All services are covered, use approved providers, and count toward these amounts. Use the plan's agreed eligible charges, not a provider's potentially higher billed price.
 
@@ -166,13 +166,13 @@ A business can lose money even when nothing is stolen or damaged.
 | **[Liquidity risk]({{ '/glossary/' | relative_url }}#liquidity-risk)** | The risk of being unable to meet payments when due or turn holdings into money promptly without substantial loss. | The shop owns equipment but lacks cash for tomorrow's wages. |
 | **[Operational risk]({{ '/glossary/' | relative_url }}#operational-risk)** | The possibility of loss from failed processes, people, systems, or external events. | A computer outage prevents orders from being processed. |
 
-[Investor.gov discusses investment risks](https://www.investor.gov/introduction-investing/investing-basics/what-risk), and the [Basel Committee defines operational risk](https://www.bis.org/committees/bcbs/basel-framework/standard/ope/10/inforce/2023-01-01/published/2024-07-05).
+These categories follow common usage by securities and banking regulators.[^7][^8]
 
 Responses can include checking a customer's ability to pay, holding accessible cash, testing backups, and limiting dependence on one supplier. A single disruption can create several risks at once. Insurance only pays where its terms apply; ordinary price changes or a routine shortage of cash are not automatically insured.
 
 ## Try a difficult scenario
 
-**[Stress testing]({{ '/glossary/' | relative_url }}#stress-testing)** means examining whether resources and plans could withstand a severe but plausible scenario. It asks “could we cope?” rather than predicting that the scenario will happen. The [Basel Committee's stress testing principles](https://www.bis.org/bcbs/publ/d450.pdf) explain its role in financial risk management; the household example below uses a simpler version of the idea.
+**[Stress testing]({{ '/glossary/' | relative_url }}#stress-testing)** means examining whether resources and plans could withstand a severe but plausible scenario. It asks “could we cope?” rather than predicting that the scenario will happen. Stress testing is a formal part of risk management for banks and their supervisors; the household example below uses a simpler version of the idea.[^9]
 
 A household has $4,000 available for emergencies. Suppose earnings stop for two months, essential spending is $1,500 per month, and an insured repair leaves a $1,000 deductible to pay. Assume no replacement earnings, benefits, or other costs, and that the insurer pays the rest of the repair directly and promptly.
 
@@ -216,3 +216,15 @@ Each definition links back to its explanation above.
 Continue with [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}) to plan emergency savings, or [Investing and portfolio management]({{ '/knowledge/investing-and-portfolio-management/' | relative_url }}) to explore investment risk. [Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }}) introduces contracts used to offset particular market risks.
 
 Further lessons in this area are planned on detailed life and property cover comparisons, hedging strategies, actuarial methods for estimating insured losses, and reinsurance arrangements between insurers.
+
+## References
+
+[^1]: Consumer Financial Protection Bureau, "An essential guide to building an emergency fund" — <https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/>
+[^2]: Financial Consumer Agency of Canada, "How insurance works" — <https://www.canada.ca/en/financial-consumer-agency/services/insurance/determining-insurance-needs.html>
+[^3]: National Association of Insurance Commissioners, "What Type of Life Insurance Is Right for You?" — <https://content.naic.org/article/consumer_insight_what_type_life_insurance_right_you.htm>
+[^4]: National Association of Insurance Commissioners, "Understanding Your Homeowners or Renter's Policy" — <https://content.naic.org/article/consumer-insight-understanding-your-homeowners-or-renters-policy>
+[^5]: National Association of Insurance Commissioners, "Understand Your Health Plan's Deductible" — <https://content.naic.org/article/consumer-insight-understand-your-health-plans-deductible>
+[^6]: HealthCare.gov glossary, "Out-of-pocket maximum/limit" — <https://www.healthcare.gov/glossary/out-of-pocket-maximum-limit/>
+[^7]: U.S. Securities and Exchange Commission, "What is Risk?" — <https://www.investor.gov/introduction-investing/investing-basics/what-risk>
+[^8]: Basel Committee on Banking Supervision, "OPE10: Definitions and application (operational risk)" — <https://www.bis.org/committees/bcbs/basel-framework/standard/ope/10/inforce/2023-01-01/published/2024-07-05>
+[^9]: Basel Committee on Banking Supervision, "Stress testing principles" — <https://www.bis.org/bcbs/publ/d450.pdf>

@@ -46,11 +46,11 @@ The amounts and rates below are invented teaching examples. Unless stated otherw
 
 Governments are not households. A government may collect taxes across many years, provide services to millions of people, and have legal authority to borrow or change taxes. Still, a simple household analogy can help: revenue is money coming in, expenditure is money going out, and borrowing creates an obligation for future budgets.
 
-**[Fiscal policy]({{ '/glossary/' | relative_url }}#fiscal-policy)** means government decisions about spending and taxation used to influence economic activity. It is different from monetary policy, which is carried out by a central bank. A government can use fiscal policy to provide services, support incomes, respond to a downturn, or reduce demand when the economy is overheating. Each choice has tradeoffs and distributional effects.
+**[Fiscal policy]({{ '/glossary/' | relative_url }}#fiscal-policy)** means government decisions about spending and taxation used to influence economic activity. It is different from monetary policy, which is carried out by a central bank.[^1] A government can use fiscal policy to provide services, support incomes, respond to a downturn, or reduce demand when the economy is overheating. Each choice has tradeoffs and distributional effects.
 
 ## Read a public budget
 
-A **[public budget]({{ '/glossary/' | relative_url }}#public-budget)** is a plan for public revenue and expenditure over a stated period. **[Public revenue]({{ '/glossary/' | relative_url }}#public-revenue)** includes money received by a government, such as taxes, fees, fines, and some income from public assets. **[Public expenditure]({{ '/glossary/' | relative_url }}#public-expenditure)** is money the government spends on services, infrastructure, transfers, wages, interest, and other obligations.
+A **[public budget]({{ '/glossary/' | relative_url }}#public-budget)** is a plan for public revenue and expenditure over a stated period. **[Public revenue]({{ '/glossary/' | relative_url }}#public-revenue)** includes money received by a government, such as taxes, fees, fines, and some income from public assets. **[Public expenditure]({{ '/glossary/' | relative_url }}#public-expenditure)** is money the government spends on services, infrastructure, transfers, wages, interest, and other obligations.[^2]
 
 Imagine a city has this one-year plan:
 
@@ -67,11 +67,11 @@ Total revenue is $72 million + $8 million = **$80 million**. Total expenditure i
 
 A surplus does not automatically mean taxes are too high or services are underfunded. The city may be saving for a large project, repaying debt, or building a reserve. A deficit may likewise be deliberate if borrowing pays for a long-lived bridge, but it creates future obligations that the budget must account for.
 
-The [International Monetary Fund's overview of fiscal policy](https://www.imf.org/en/Topics/Fiscal-Policies) provides broader context on government revenue, spending, and borrowing.
+For a real-world national example, the U.S. Treasury's America's Finance Guide walks through one government's revenue, spending, deficits, and debt using current data.[^3]
 
 ## Compare common taxes
 
-A **[tax]({{ '/glossary/' | relative_url }}#tax)** is a compulsory payment to a public authority, usually used to fund public purposes. A **[tax base]({{ '/glossary/' | relative_url }}#tax-base)** is the income, spending, property value, transaction, or other measure to which a tax rate applies.
+A **[tax]({{ '/glossary/' | relative_url }}#tax)** is a compulsory payment to a public authority, usually used to fund public purposes.[^4] A **[tax base]({{ '/glossary/' | relative_url }}#tax-base)** is the income, spending, property value, transaction, or other measure to which a tax rate applies.
 
 Common categories include:
 
@@ -82,13 +82,13 @@ Common categories include:
 | Property tax | Assessed property value | A yearly charge on a home or land |
 | Capital gains tax | Increase in an asset's value when sold | Tax on a realized investment gain |
 
-A **[progressive tax]({{ '/glossary/' | relative_url }}#progressive-tax)** takes a larger percentage as the tax base increases. For example, a system might charge 5% on the first $20,000 of taxable income and 15% on the next $20,000. Someone with $40,000 would pay $1,000 + $3,000 = **$4,000**, an average rate of 10%. The 15% rate applies only to the second band, not to all $40,000.
+A **[progressive tax]({{ '/glossary/' | relative_url }}#progressive-tax)** takes a larger percentage as the tax base increases. For example, a system might charge 5% on the first $20,000 of taxable income and 15% on the next $20,000. Someone with $40,000 would pay $1,000 + $3,000 = **$4,000**, an average rate of 10%. The 15% rate applies only to the second band, not to all $40,000. The U.S. federal income tax works the same way: higher bracket rates apply only to the income within each bracket (U.S., 2025 rules).[^5]
 
 A **[consumption tax]({{ '/glossary/' | relative_url }}#consumption-tax)** is charged when people buy goods or services. If a purchase costs $80 before a 5% tax, the tax is $80 × 0.05 = **$4**, and the total is $84. The effect on different households depends on what they buy and how much of their income they spend. A tax's legal payer, the person or business required to send it to the authority, may differ from the person who bears its economic cost through prices or wages.
 
 ## Understand public services
 
-Governments spend money on services such as courts, roads, schools, health programs, emergency response, and administration. A **[public good]({{ '/glossary/' | relative_url }}#public-good)** is a service or benefit that can be difficult to restrict to paying users and where one person's use may not substantially reduce what is available to others. National defense is a common example, although real services do not always fit neatly into one category.
+Governments spend money on services such as courts, roads, schools, health programs, emergency response, and administration. A **[public good]({{ '/glossary/' | relative_url }}#public-good)** is a service or benefit that can be difficult to restrict to paying users and where one person's use may not substantially reduce what is available to others. National defense is a common example, although real services do not always fit neatly into one category.[^6]
 
 Public spending can also address external effects, provide support during hardship, or make services available more widely. These goals do not prove that a particular program is effective. Evaluation should ask what the program costs, who benefits, what alternatives exist, and what unintended effects may occur.
 
@@ -96,13 +96,13 @@ Public spending can also address external effects, provide support during hardsh
 
 When expenditure is higher than revenue in a budget period, the difference is a **[budget deficit]({{ '/glossary/' | relative_url }}#budget-deficit)**. If the city above instead spent $86 million, its deficit would be $86 million − $80 million = **$6 million**. It could cover that gap by using reserves, raising revenue, reducing spending, or borrowing.
 
-**[Public debt]({{ '/glossary/' | relative_url }}#public-debt)** is the accumulated amount a public authority owes to lenders. A new deficit can add to debt, while a surplus can be used to repay it. Debt is not the same as the deficit: the deficit is a period's shortfall, while debt is a stock measured at a point in time.
+**[Public debt]({{ '/glossary/' | relative_url }}#public-debt)** is the accumulated amount a public authority owes to lenders. A new deficit can add to debt, while a surplus can be used to repay it. Debt is not the same as the deficit: the deficit is a period's shortfall, while debt is a stock measured at a point in time.[^7]
 
 Suppose a city begins with $40 million of debt, borrows $6 million to cover the year's deficit, and repays $2 million of older debt. Ignoring interest, ending debt is $40 million + $6 million − $2 million = **$44 million**. Interest payments would be additional expenditure in later budgets. Whether debt is manageable depends on its interest cost, maturity, currency, revenue capacity, economic conditions, and the purpose of borrowing.
 
 ## Understand pensions and social insurance
 
-A **[pension]({{ '/glossary/' | relative_url }}#pension)** is income paid after a person retires or meets another qualifying condition. A **[social insurance]({{ '/glossary/' | relative_url }}#social-insurance)** program collects contributions or taxes to provide defined support when people face risks such as old age, disability, unemployment, or illness.
+A **[pension]({{ '/glossary/' | relative_url }}#pension)** is income paid after a person retires or meets another qualifying condition.[^8] A **[social insurance]({{ '/glossary/' | relative_url }}#social-insurance)** program collects contributions or taxes to provide defined support when people face risks such as old age, disability, unemployment, or illness.[^9]
 
 Programs differ. In a funded arrangement, contributions are invested to help pay future benefits. In a pay-as-you-go arrangement, current contributions and other revenue help pay current benefits. A program can also combine these features. Its long-term position depends on eligibility, benefit rules, contribution rates, investment results, population age, employment, and policy changes. A promise of future benefits is not the same as money already held in a personal account.
 
@@ -134,3 +134,15 @@ Use these links to revisit definitions. Each glossary entry links back to its ex
 ## Keep learning
 
 Future lessons can examine government budget processes, tax incidence and tax design, sovereign and municipal debt in more detail, public pensions, and social insurance sustainability. For economic context, continue with [Economics and the financial system]({{ '/knowledge/economics-and-the-financial-system/' | relative_url }}). For household-level applications, see [Personal finance and financial wellbeing]({{ '/knowledge/personal-finance-and-financial-wellbeing/' | relative_url }}).
+
+## References
+
+[^1]: Board of Governors of the Federal Reserve System, "What is the difference between monetary policy and fiscal policy, and how are they related?" — <https://www.federalreserve.gov/faqs/money_12855.htm>
+[^2]: U.S. Government Accountability Office, "A Glossary of Terms Used in the Federal Budget Process" (GAO-05-734SP) — <https://www.gao.gov/products/gao-05-734sp>
+[^3]: U.S. Department of the Treasury, Fiscal Data, "America's Finance Guide" — <https://fiscaldata.treasury.gov/americas-finance-guide/>
+[^4]: U.S. Department of the Treasury, Fiscal Data, "How much revenue has the U.S. government collected this year?" — <https://fiscaldata.treasury.gov/americas-finance-guide/government-revenue/>
+[^5]: Internal Revenue Service, "Federal income tax rates and brackets" — <https://www.irs.gov/filing/federal-income-tax-rates-and-brackets>
+[^6]: OpenStax, "Principles of Economics 3e," §13.3 Public Goods — <https://openstax.org/books/principles-economics-3e/pages/13-3-public-goods>
+[^7]: U.S. Department of the Treasury, Fiscal Data, "What is the national deficit?" — <https://fiscaldata.treasury.gov/americas-finance-guide/national-deficit/>
+[^8]: U.S. Department of Labor, "Types of Retirement Plans" — <https://www.dol.gov/general/topic/retirement/typesofplans>
+[^9]: International Labour Organization, "Social protection" — <https://www.ilo.org/topics/social-protection>

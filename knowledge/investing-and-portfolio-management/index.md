@@ -69,17 +69,17 @@ Alex has money for a course starting next year and separate savings for a goal f
 
 **[Investing]({{ '/glossary/' | relative_url }}#investing)** means committing money to assets in pursuit of future income or growth, accepting uncertainty and possible loss. A **[portfolio]({{ '/glossary/' | relative_url }}#portfolio)** is the collection of investments held together. Managing it starts with the purpose of the money.
 
-A **[time horizon]({{ '/glossary/' | relative_url }}#time-horizon)** is the time until money is needed. **[Risk]({{ '/glossary/' | relative_url }}#risk)** is uncertainty about a financial outcome, including losing money or falling short of a goal. **[Risk tolerance]({{ '/glossary/' | relative_url }}#risk-tolerance)** describes willingness to accept losses; **[risk capacity]({{ '/glossary/' | relative_url }}#risk-capacity)** describes the financial ability to absorb them. Alex could feel comfortable with a large loss but still be unable to pay tuition after one.
+A **[time horizon]({{ '/glossary/' | relative_url }}#time-horizon)** is the time until money is needed. **[Risk]({{ '/glossary/' | relative_url }}#risk)** is uncertainty about a financial outcome, including losing money or falling short of a goal. **[Risk tolerance]({{ '/glossary/' | relative_url }}#risk-tolerance)** describes willingness to accept losses; **[risk capacity]({{ '/glossary/' | relative_url }}#risk-capacity)** describes the financial ability to absorb them. Alex could feel comfortable with a large loss but still be unable to pay tuition after one.[^1]
 
-**[Liquidity]({{ '/glossary/' | relative_url }}#liquidity)** means how readily something can become spendable money without a large loss in value. A readily traded investment can still have an unstable price. Consider access and potential losses separately. See [Investor.gov on risk tolerance and investment timeframe](https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/gauge-your-risk-tolerance).
+**[Liquidity]({{ '/glossary/' | relative_url }}#liquidity)** means how readily something can become spendable money without a large loss in value. A readily traded investment can still have an unstable price. Consider access and potential losses separately.
 
 Write down the goal, amount needed, date, and how much shortfall would be manageable before comparing products. Account for essential spending and unexpected cash needs when deciding what money is available to invest.
 
 ## Understand what you own
 
-A **[stock]({{ '/glossary/' | relative_url }}#stock)** is an ownership interest in a company. A **[dividend]({{ '/glossary/' | relative_url }}#dividend)** is a distribution to shareholders, often in cash. Both the share price and any dividend can change; dividends are not promised. See [Investor.gov's stock introduction](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks).
+A **[stock]({{ '/glossary/' | relative_url }}#stock)** is an ownership interest in a company. A **[dividend]({{ '/glossary/' | relative_url }}#dividend)** is a distribution to shareholders, often in cash. Both the share price and any dividend can change; dividends are not promised.[^2]
 
-A **[bond]({{ '/glossary/' | relative_url }}#bond)** is a debt investment: its issuer promises payments under stated terms. The issuer might fail to pay, and a bond's resale price can fall. For many ordinary fixed-payment bonds, rising market interest rates reduce the attractiveness and price of older bonds paying less. Holding a bond does not make every possible loss disappear. Explore [Investor.gov's investment product resources](https://www.investor.gov/introduction-investing/investing-basics/investment-products).
+A **[bond]({{ '/glossary/' | relative_url }}#bond)** is a debt investment: its issuer promises payments under stated terms. The issuer might fail to pay, and a bond's resale price can fall. For many ordinary fixed-payment bonds, rising market interest rates reduce the attractiveness and price of older bonds paying less. Holding a bond does not make every possible loss disappear.[^3]
 
 Cash and bank deposits serve a different role from ownership in a company. Access conditions and any deposit protection depend on the provider, product, and country. Money held in a bank account should not be assumed equivalent to every investment product with “cash” in its name.
 
@@ -95,7 +95,7 @@ For arithmetic practice, give Alex's long-term portfolio a $10,000 starting valu
 | Bond holdings across several issuers | $4,000 | $4,000 ÷ $10,000 = 40% |
 | **Total** | **$10,000** | **100%** |
 
-Different names do not always mean different risks. Several funds may own the same large companies; several companies may depend on the same industry. Inspect underlying holdings. Diversification can reduce dependence on one company, but many investments can fall together. [Investor.gov explains allocation and diversification](https://www.investor.gov/introduction-investing/getting-started/asset-allocation).
+Different names do not always mean different risks. Several funds may own the same large companies; several companies may depend on the same industry. Inspect underlying holdings. Diversification can reduce dependence on one company, but many investments can fall together.[^4]
 
 ### A loss scenario
 
@@ -117,11 +117,11 @@ An **[investment fund]({{ '/glossary/' | relative_url }}#investment-fund)** pool
 | **[Mutual fund]({{ '/glossary/' | relative_url }}#mutual-fund)** | For an ordinary open-end fund, investors buy or redeem shares at the next calculated value of net assets per share, generally calculated each business day, with applicable fees. |
 | **[Exchange-traded fund (ETF)]({{ '/glossary/' | relative_url }}#exchange-traded-fund)** | Shares trade on an exchange during the trading day. Their trading price can differ from the underlying net asset value per share. |
 
-These descriptions follow the ordinary U.S. fund structures in [Investor.gov's mutual fund and ETF comparison](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/characteristics-mutual-funds-exchange-traded-funds), consulted September 13, 2026. Product and tax rules differ elsewhere. Neither structure tells you whether the investments are broad, narrow, inexpensive, or appropriate for a particular goal.
+These descriptions follow the ordinary U.S. fund structures in the SEC's mutual fund and ETF comparison, consulted September 14, 2026.[^5] Product and tax rules differ elsewhere. Neither structure tells you whether the investments are broad, narrow, inexpensive, or appropriate for a particular goal.
 
-A **[market index]({{ '/glossary/' | relative_url }}#market-index)** measures the performance of a selected group of investments using stated rules. An **[index fund]({{ '/glossary/' | relative_url }}#index-fund)** seeks to track one of these indexes. This is a form of **[passive investing]({{ '/glossary/' | relative_url }}#passive-investing)**: following a specified market exposure instead of choosing investments to beat it. Costs and implementation can make fund results differ from index results. You cannot buy an index itself. See [Investor.gov on index funds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4).
+A **[market index]({{ '/glossary/' | relative_url }}#market-index)** measures the performance of a selected group of investments using stated rules. An **[index fund]({{ '/glossary/' | relative_url }}#index-fund)** seeks to track one of these indexes. This is a form of **[passive investing]({{ '/glossary/' | relative_url }}#passive-investing)**: following a specified market exposure instead of choosing investments to beat it. Costs and implementation can make fund results differ from index results. You cannot buy an index itself.[^6]
 
-**[Active investing]({{ '/glossary/' | relative_url }}#active-investing)** uses investment judgments to select or change holdings, often aiming to outperform a comparison measure. Both mutual funds and ETFs can be active or passive. A narrow industry index can be concentrated; an active fund can be diversified. Compare the actual strategy and costs rather than treating a label as a quality guarantee. [FINRA's fund guide](https://www.finra.org/investors/investing/investment-products/mutual-funds) discusses strategies and costs.
+**[Active investing]({{ '/glossary/' | relative_url }}#active-investing)** uses investment judgments to select or change holdings, often aiming to outperform a comparison measure. Both mutual funds and ETFs can be active or passive. A narrow industry index can be concentrated; an active fund can be diversified. Compare the actual strategy and costs rather than treating a label as a quality guarantee. FINRA's fund guide discusses strategies and costs.[^7]
 
 ## Measure results consistently
 
@@ -131,7 +131,7 @@ A **[return]({{ '/glossary/' | relative_url }}#return)** is an investment's gain
 
 **Return = $6 ÷ $100 × 100 = 6%.**
 
-Looking only at the share price would report 4% and miss the dividend. If an ending account value already includes the dividend, do not add it again. [FINRA explains return calculations](https://syndication.finra.org/content/key-concepts-return-and-rate-return).
+Looking only at the share price would report 4% and miss the dividend. If an ending account value already includes the dividend, do not add it again.[^8]
 
 ### A different portfolio scenario
 
@@ -161,11 +161,11 @@ After the +10% stock / −5% bond scenario, the stock share is **$6,600 ÷ $10,4
 
 Total value stays $10,400 under our no-cost assumptions. The purpose is to restore the intended risk mix, not predict which holding will win next. New deposits can also help move an allocation toward its target without selling existing holdings.
 
-A plan might review allocations at stated intervals or after they drift beyond a chosen range. Actual trades can incur costs and taxes, so a review need not produce a trade. Revisit the target itself when goals or circumstances change. See [Investor.gov's rebalancing guide](https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset).
+A plan might review allocations at stated intervals or after they drift beyond a chosen range. Actual trades can incur costs and taxes, so a review need not produce a trade. Revisit the target itself when goals or circumstances change.[^9]
 
 ## Understand fees and taxes
 
-A fund's **[expense ratio]({{ '/glossary/' | relative_url }}#expense-ratio)** expresses annual operating expenses as a percentage of average net assets. At a constant $10,000 balance, 0.20% is roughly **$20 a year**, while 1.20% is roughly **$120**. Fund expenses are normally deducted within the fund, not necessarily billed separately. Account fees, advice charges, and trading costs may be additional. See [Investor.gov's fund fee guide](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin).
+A fund's **[expense ratio]({{ '/glossary/' | relative_url }}#expense-ratio)** expresses annual operating expenses as a percentage of average net assets. At a constant $10,000 balance, 0.20% is roughly **$20 a year**, while 1.20% is roughly **$120**. Fund expenses are normally deducted within the fund, not necessarily billed separately. Account fees, advice charges, and trading costs may be additional.[^10]
 
 ### A simplified ten-year fee comparison
 
@@ -176,7 +176,7 @@ Assume both hypothetical investments earn exactly 5% each year before costs. For
 | 0.20% of starting balance | 5% − 0.20% = 4.80% | **$15,981.33** |
 | 1.20% of starting balance | 5% − 1.20% = 3.80% | **$14,520.23** |
 
-For the first row, multiply $10,000 by 1.048 ten times; for the second, multiply by 1.038 ten times. The difference is **$1,461.10**, reflecting both charges and the growth forgone on money no longer invested. Lower fees do not by themselves establish comparable risk or better future results. [Investor.gov illustrates the cumulative effect of investment costs](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated).
+For the first row, multiply $10,000 by 1.048 ten times; for the second, multiply by 1.038 ten times. The difference is **$1,461.10**, reflecting both charges and the growth forgone on money no longer invested. Lower fees do not by themselves establish comparable risk or better future results. The SEC illustrates the cumulative effect of investment costs in an investor bulletin.[^11]
 
 Taxes can apply to investment payments and sales, depending on the country, account, and personal circumstances. Compare applicable account and product rules; this lesson assumes no particular tax rate or tax advantage.
 
@@ -184,19 +184,19 @@ Taxes can apply to investment payments and sales, depending on the country, acco
 
 ## Research before committing money
 
-**[Due diligence]({{ '/glossary/' | relative_url }}#due-diligence)** means investigating an investment's features, risks, costs, and supporting information. A **[prospectus]({{ '/glossary/' | relative_url }}#prospectus)** is a formal disclosure document describing an investment offering, including objectives, risks, costs, and terms. Requirements vary by product and country. Start with official documents and independently verified provider information. [Investor.gov explains investment research](https://www.investor.gov/introduction-investing/getting-started/researching-investments).
+**[Due diligence]({{ '/glossary/' | relative_url }}#due-diligence)** means investigating an investment's features, risks, costs, and supporting information. A **[prospectus]({{ '/glossary/' | relative_url }}#prospectus)** is a formal disclosure document describing an investment offering, including objectives, risks, costs, and terms. Requirements vary by product and country. Start with official documents and independently verified provider information.[^12]
 
 For a fund, ask what it owns, whether holdings overlap your other investments, how it could lose money, what all-in costs apply, and how you can sell or withdraw. For a company, examine its business, obligations, and financial statements. The [accounting lesson]({{ '/knowledge/accounting-and-financial-analysis/' | relative_url }}) shows how profit and cash can tell different stories.
 
-**[Valuation]({{ '/glossary/' | relative_url }}#valuation)** estimates what something is worth using assumptions about future benefits and risk. Price is what someone asks or pays; an estimate of value can differ. As [FINRA's stock evaluation guide](https://www.finra.org/investors/investing/investment-products/stocks/evaluating-stocks) explains, evaluating an investment requires looking beyond a price alone.
+**[Valuation]({{ '/glossary/' | relative_url }}#valuation)** estimates what something is worth using assumptions about future benefits and risk. Price is what someone asks or pays; an estimate of value can differ. As FINRA's stock evaluation guide explains, evaluating an investment requires looking beyond a price alone.[^13]
 
 Consider an asset that pays exactly $105 in one year and has no value afterward. Its **[present value]({{ '/glossary/' | relative_url }}#present-value)** is today's equivalent under a chosen **[discount rate]({{ '/glossary/' | relative_url }}#discount-rate)**, the rate used to work backward from a future amount. At an assumed 5%, **$105 ÷ 1.05 = $100**. At 10%, **$105 ÷ 1.10 = about $95.45**. The estimate changes with the assumption; uncertain cash payments require further analysis. This is the [time-value calculation from the fundamentals lesson]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}#comparing-money-at-different-times).
 
-Promises of high returns without risk, pressure to act immediately, or unverifiable sellers are reasons to investigate carefully. Use the [Investor.gov fraud warning checklist](https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist). Registration does not guarantee investment performance.
+Promises of high returns without risk, pressure to act immediately, or unverifiable sellers are reasons to investigate carefully. Use Investor.gov's fraud warning checklist.[^14] Registration does not guarantee investment performance.
 
 ## Make a plan you can follow
 
-A **[behavioral bias]({{ '/glossary/' | relative_url }}#behavioral-bias)** is a recurring distortion in judgment. Examples include seeking only evidence supporting a purchase, assuming recent winners will keep winning, and becoming overconfident after a few successful decisions. The [SEC's investor behavior bulletin](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72) describes patterns that can undermine results.
+A **[behavioral bias]({{ '/glossary/' | relative_url }}#behavioral-bias)** is a recurring distortion in judgment. Examples include seeking only evidence supporting a purchase, assuming recent winners will keep winning, and becoming overconfident after a few successful decisions. The SEC's investor behavior bulletin describes patterns that can undermine results.[^15]
 
 A short written plan can record the goal, time horizon, intended allocation, acceptable costs, and review rules. Before acting on a headline, compare the proposed change with that plan. A changed goal or new evidence can justify a change; a price movement alone does not explain whether the investment still fits.
 
@@ -246,3 +246,21 @@ Use [Accounting and financial analysis]({{ '/knowledge/accounting-and-financial-
 - Bond risks and the effect of changing interest rates
 - Portfolio decisions during retirement withdrawals
 - Investment valuation and the limits of forecasts
+
+## References
+
+[^1]: U.S. Securities and Exchange Commission, Investor.gov, "Gauge Your Risk Tolerance" — <https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/gauge-your-risk-tolerance>
+[^2]: U.S. Securities and Exchange Commission, Investor.gov, "Stocks" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks>
+[^3]: U.S. Securities and Exchange Commission, Investor.gov, "Investment Products" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products>
+[^4]: U.S. Securities and Exchange Commission, Investor.gov, "Asset Allocation and Diversification" — <https://www.investor.gov/introduction-investing/getting-started/asset-allocation>
+[^5]: U.S. Securities and Exchange Commission, Investor.gov, "Characteristics of Mutual Funds and Exchange-Traded Funds (ETFs) – Investor Bulletin" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/characteristics-mutual-funds-exchange-traded-funds>
+[^6]: U.S. Securities and Exchange Commission, Investor.gov, "Index Funds" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-4>
+[^7]: Financial Industry Regulatory Authority (FINRA), "Mutual Funds" — <https://www.finra.org/investors/investing/investment-products/mutual-funds>
+[^8]: Financial Industry Regulatory Authority (FINRA), "Key Concepts: Return and Rate of Return" — <https://syndication.finra.org/content/key-concepts-return-and-rate-return>
+[^9]: U.S. Securities and Exchange Commission, Investor.gov, "Beginners' Guide to Asset Allocation, Diversification, and Rebalancing" — <https://www.investor.gov/additional-resources/general-resources/publications-research/info-sheets/beginners-guide-asset>
+[^10]: U.S. Securities and Exchange Commission, Investor.gov, "Mutual Fund and ETF Fees and Expenses – Investor Bulletin" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/mutual-fund-and-etf-fees-and-expenses-investor-bulletin>
+[^11]: U.S. Securities and Exchange Commission, Investor.gov, "How Fees and Expenses Affect Your Investment Portfolio – Investor Bulletin" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated>
+[^12]: U.S. Securities and Exchange Commission, Investor.gov, "Researching Investments" — <https://www.investor.gov/introduction-investing/getting-started/researching-investments>
+[^13]: Financial Industry Regulatory Authority (FINRA), "Evaluating Stocks" — <https://www.finra.org/investors/investing/investment-products/stocks/evaluating-stocks>
+[^14]: U.S. Securities and Exchange Commission, Investor.gov, "Red Flags of Investment Fraud Checklist" — <https://www.investor.gov/protect-your-investments/fraud/how-avoid-fraud/red-flags-investment-fraud-checklist>
+[^15]: U.S. Securities and Exchange Commission, Investor.gov, "Investor Bulletin: Behavioral Patterns of U.S. Investors" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-72>

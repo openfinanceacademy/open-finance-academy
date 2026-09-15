@@ -59,7 +59,7 @@ No trading experience is needed. Basic percentages help. [Investing and portfoli
 
 All prices, quantities, and rates are invented teaching examples, not live quotes or suggested trades. Examples are independent. Unless stated otherwise, assume no fees, taxes, borrowing costs, or other cash payments. Bond examples assume the issuer pays as promised. Quotes have enough quantity available for each example unless the text says otherwise. Derivative examples simplify real contract terms and identify their quantity and time period explicitly.
 
-The linked U.S. regulator and market sources were checked September 13, 2026. Legal definitions, product access, order handling, and settlement rules vary by market and jurisdiction. We focus on concepts rather than a universal trading rulebook.
+The cited U.S. regulator and market sources were checked September 14, 2026. Legal definitions, product access, order handling, and settlement rules vary by market and jurisdiction. We focus on concepts rather than a universal trading rulebook.
 
 ## In this lesson
 
@@ -80,17 +80,17 @@ A company wants money to build a factory. One investor is willing to supply fund
 
 A **[financial market]({{ '/glossary/' | relative_url }}#financial-market)** is a system for issuing or trading financial claims and contracts. A **[financial instrument]({{ '/glossary/' | relative_url }}#financial-instrument)** specifies financial rights or obligations, such as ownership in a company or a promise of repayment.
 
-In the **[primary market]({{ '/glossary/' | relative_url }}#primary-market)**, an issuer sells newly issued instruments, typically to raise funding. In the **[secondary market]({{ '/glossary/' | relative_url }}#secondary-market)**, investors trade existing instruments with one another. Buying an existing share from another investor generally pays that seller, not the company. Secondary trading can nevertheless make new issues more attractive by offering a way to sell later. See [Investor.gov's primary and secondary market definitions](https://www.investor.gov/introduction-investing/investing-basics/glossary).
+In the **[primary market]({{ '/glossary/' | relative_url }}#primary-market)**, an issuer sells newly issued instruments, typically to raise funding. In the **[secondary market]({{ '/glossary/' | relative_url }}#secondary-market)**, investors trade existing instruments with one another. Buying an existing share from another investor generally pays that seller, not the company. Secondary trading can nevertheless make new issues more attractive by offering a way to sell later.[^1]
 
 Markets also let participants transfer certain risks. A manufacturer may want a more predictable input price, while another participant is willing to accept the price uncertainty. A contract can move risk between them without eliminating it from the system.
 
 ## Compare the main instruments
 
-A **[stock]({{ '/glossary/' | relative_url }}#stock)** is an ownership interest in a company, divided into shares. A **[dividend]({{ '/glossary/' | relative_url }}#dividend)** is a distribution to shareholders, often in cash. Neither the future share price nor dividends are guaranteed. Shareholders generally stand behind creditors in claims on a failed company's assets. See [Investor.gov on stocks](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks).
+A **[stock]({{ '/glossary/' | relative_url }}#stock)** is an ownership interest in a company, divided into shares. A **[dividend]({{ '/glossary/' | relative_url }}#dividend)** is a distribution to shareholders, often in cash. Neither the future share price nor dividends are guaranteed. Shareholders generally stand behind creditors in claims on a failed company's assets.[^2]
 
 A **[bond]({{ '/glossary/' | relative_url }}#bond)** is a debt investment whose issuer promises payments under stated terms. The **[face value]({{ '/glossary/' | relative_url }}#face-value)** is the stated principal amount. A **[coupon]({{ '/glossary/' | relative_url }}#coupon)** is a contractual interest payment; a fixed coupon rate applies to face value. **[Maturity]({{ '/glossary/' | relative_url }}#maturity)** is the date the principal becomes due. Repayment depends on the issuer's ability to meet its obligations; selling beforehand can produce a gain or loss.
 
-The **[money market]({{ '/glossary/' | relative_url }}#money-market)** covers short-term borrowing and lending, commonly for periods of a year or less. A **[Treasury bill]({{ '/glossary/' | relative_url }}#treasury-bill)** is short-term government debt; U.S. bills pay face value at maturity and are sold at a discount or face value. **[Commercial paper]({{ '/glossary/' | relative_url }}#commercial-paper)** is short-term company debt, commonly unsecured. Short maturity does not make every issuer equally safe. See [TreasuryDirect on bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) and the [Federal Reserve’s commercial paper overview](https://www.federalreserve.gov/Releases/cp/about.htm).
+The **[money market]({{ '/glossary/' | relative_url }}#money-market)** covers short-term borrowing and lending, commonly for periods of a year or less. A **[Treasury bill]({{ '/glossary/' | relative_url }}#treasury-bill)** is short-term government debt; U.S. bills pay face value at maturity and are sold at a discount or face value.[^3] **[Commercial paper]({{ '/glossary/' | relative_url }}#commercial-paper)** is short-term company debt, commonly unsecured.[^4] Short maturity does not make every issuer equally safe.
 
 For example, pay **$980** for an invented bill that pays **$1,000 after six months**. The gain is **$20**, and the six-month return is **$20 ÷ $980 = about 2.04%**. This is not an annualized yield. Different quotation conventions can produce different displayed yields for the same cash payments.
 
@@ -103,7 +103,7 @@ A **[commodity]({{ '/glossary/' | relative_url }}#commodity)** is a basic physic
 | Short-term debt | A near-term repayment claim | Who owes the money, and can they repay on time? |
 | Physical commodity | The actual good | What are its price, storage, quality, and delivery risks? |
 
-A money market **fund** holds a portfolio of short-term instruments. It is not the same as a money market **deposit account**. In the U.S., money market mutual funds are not FDIC-insured deposits and can lose value. See [Investor.gov on money market funds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-5).
+A money market **fund** holds a portfolio of short-term instruments. It is not the same as a money market **deposit account**. In the U.S., money market mutual funds are not FDIC-insured deposits and can lose value.[^5]
 
 ## Read a bond price and yield
 
@@ -117,13 +117,13 @@ Suppose a fixed-rate bond has **$1,000 face value** and a **5% annual coupon rat
 | $900 | $50 | $50 ÷ $900 = **5.56%** |
 | $1,100 | $50 | $50 ÷ $1,100 = **4.55%** |
 
-A lower price gives a higher current yield for the same coupon. This measure excludes the gain or loss between the purchase price and eventual sale or principal repayment. It is not the bond's complete return. [FINRA explains bond yield measures](https://www.finra.org/investors/insights/bond-yield-return).
+A lower price gives a higher current yield for the same coupon. This measure excludes the gain or loss between the purchase price and eventual sale or principal repayment. It is not the bond's complete return. FINRA explains this and other bond yield measures.[^6]
 
 For an ordinary fixed-payment bond, a rise in comparable market interest rates generally reduces its price, all else equal: new alternatives offer more attractive payments. Changes in expected repayment risk also affect prices. A high displayed yield may reflect a lower price caused by serious concerns, rather than an unusually favorable deal.
 
 ## Understand quotes and trading costs
 
-An **[exchange]({{ '/glossary/' | relative_url }}#exchange)** is an organized trading venue with rules for matching buyers and sellers. A **[broker]({{ '/glossary/' | relative_url }}#broker)** arranges or executes customer trades. A **[market maker]({{ '/glossary/' | relative_url }}#market-maker)** stands ready to buy and sell at quoted prices for stated quantities. A firm may act both for customers and on its own account. Trading can also occur through dealer networks outside an exchange. See [Investor.gov's market participants guide](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/market-participants).
+An **[exchange]({{ '/glossary/' | relative_url }}#exchange)** is an organized trading venue with rules for matching buyers and sellers. A **[broker]({{ '/glossary/' | relative_url }}#broker)** arranges or executes customer trades. A **[market maker]({{ '/glossary/' | relative_url }}#market-maker)** stands ready to buy and sell at quoted prices for stated quantities. A firm may act both for customers and on its own account. Trading can also occur through dealer networks outside an exchange.[^7]
 
 Imagine the best displayed prices for a share are:
 
@@ -131,7 +131,7 @@ Imagine the best displayed prices for a share are:
 - **[Ask price]({{ '/glossary/' | relative_url }}#ask-price)**: **$50.10**, the price a seller asks to receive.
 - **[Bid–ask spread]({{ '/glossary/' | relative_url }}#bid-ask-spread)**: **$50.10 − $49.90 = $0.20 per share**.
 
-If you buy ten shares at the ask, you pay **10 × $50.10 = $501**. If you immediately sell all ten at the unchanged bid, you receive **10 × $49.90 = $499**. The difference is **$2**, even before commissions or other costs. The [Investor.gov spread definition](https://www.investor.gov/introduction-investing/investing-basics/glossary/bid-ask-spread) describes this price gap.
+If you buy ten shares at the ask, you pay **10 × $50.10 = $501**. If you immediately sell all ten at the unchanged bid, you receive **10 × $49.90 = $499**. The difference is **$2**, even before commissions or other costs.[^8]
 
 **[Price discovery]({{ '/glossary/' | relative_url }}#price-discovery)** is the process through which information, orders, and trades establish market prices. A quote is available only for its stated quantity and conditions; it is not a permanent promise or proof of fair value.
 
@@ -147,9 +147,9 @@ An order gives instructions, but different instructions control different things
 | **[Limit order]({{ '/glossary/' | relative_url }}#limit-order)** | Buy at the limit or lower; sell at the limit or higher. | It may fill partially or not at all. |
 | **[Stop order]({{ '/glossary/' | relative_url }}#stop-order)** | Once its stop condition is triggered, it becomes a market order. | The eventual execution price can differ substantially from the stop price. |
 
-At the $50.10 ask above, a buy limit of $50.00 will not immediately buy from that offer. It might execute later if suitable selling interest appears and the order remains active. A sell stop set at $45 could execute around $40 if the market jumps downward; $45 is a trigger, not a guaranteed sale price. See [Investor.gov's order guide](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders).
+At the $50.10 ask above, a buy limit of $50.00 will not immediately buy from that offer. It might execute later if suitable selling interest appears and the order remains active. A sell stop set at $45 could execute around $40 if the market jumps downward; $45 is a trigger, not a guaranteed sale price.[^9]
 
-Order execution is also different from completing the transfer. **[Clearing]({{ '/glossary/' | relative_url }}#clearing)** checks transaction details and establishes obligations between participants. **[Settlement]({{ '/glossary/' | relative_url }}#settlement)** completes the required transfer of money and, for securities trades, securities. Timing and procedures depend on the product and market. [Investor.gov's market participants guide](https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/market-participants) describes the organizations involved. A trading app's execution notice does not mean all transfers are already final.
+Order execution is also different from completing the transfer. **[Clearing]({{ '/glossary/' | relative_url }}#clearing)** checks transaction details and establishes obligations between participants. **[Settlement]({{ '/glossary/' | relative_url }}#settlement)** completes the required transfer of money and, for securities trades, securities. Timing and procedures depend on the product and market. Investor.gov's market participants guide describes the organizations involved.[^7] A trading app's execution notice does not mean all transfers are already final.
 
 ## Distinguish derivative contracts
 
@@ -162,14 +162,14 @@ A **[derivative]({{ '/glossary/' | relative_url }}#derivative)** is a contract w
 | **[Option]({{ '/glossary/' | relative_url }}#option)** | The buyer obtains a right rather than an obligation; the seller must meet the corresponding obligation if the option is exercised. |
 | **[Swap]({{ '/glossary/' | relative_url }}#swap)** | Parties exchange payments calculated under agreed formulas, such as fixed-rate payments for variable-rate payments. |
 
-The [CFTC glossary](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/CFTCGlossary/index.htm) explains these contract types. Futures differ from a private forward in standardization, trading, and daily cash requirements. See the [CFTC's futures market introduction](https://www.cftc.gov/LearnAndProtect/EducationCenter/FuturesMarketBasics/index2.htm).
+The CFTC glossary explains these contract types.[^10] Futures differ from a private forward in standardization, trading, and daily cash requirements.[^11]
 
 **[Hedging]({{ '/glossary/' | relative_url }}#hedging)** takes a position intended to offset a particular existing risk. A bakery agrees to buy 100 units of wheat in three months at $5 per unit. Under this forward, the agreed cost is **100 × $5 = $500**. Assume the exact wheat and delivery date match what it needs and both parties perform:
 
 - If the market price then becomes $6, the bakery pays $500 instead of $600.
 - If it becomes $4, the bakery still pays $500 instead of $400.
 
-The agreement makes that input cost predictable while giving up the benefit of a lower future price. A mismatch in quantity, quality, or date can leave risk unoffset. The other party may also fail to perform. The [CFTC explains the economic purpose of hedging](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/economicpurpose.html).
+The agreement makes that input cost predictable while giving up the benefit of a lower future price. A mismatch in quantity, quality, or date can leave risk unoffset. The other party may also fail to perform. The CFTC explains the economic purpose of hedging.[^12]
 
 For a separate simplified one-year interest-rate swap, suppose one party pays 4% and receives a variable rate on a **$100,000 reference amount**. If the variable rate for that year is 6%, the payments are $4,000 and $6,000; if netted, that party receives **$2,000**. If the variable rate is 2%, it instead pays **$2,000 net**. The reference amount is used for calculation and, in this example, is not exchanged. Actual swaps specify reset dates, payment periods, and other conventions.
 
@@ -189,7 +189,7 @@ At $60: **$60 − $50 = $10 exercise value; $10 − $3 = $7 profit**. The expira
 
 For a separate one-share put with a $50 strike and $2 premium, a $40 expiration price gives **$50 − $40 − $2 = $8 profit**. These are expiration calculations, not pricing formulas before expiration. Time remaining and uncertainty also affect an option's trading price.
 
-The buyer can lose the entire premium. A seller's obligations differ: an uncovered call seller can face theoretically unlimited losses as the share price rises. Exercise may also create a separate asset purchase or sale requiring cash or delivery. See [Investor.gov's introduction to options](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63).
+The buyer can lose the entire premium. A seller's obligations differ: an uncovered call seller can face theoretically unlimited losses as the share price rises. Exercise may also create a separate asset purchase or sale requiring cash or delivery.[^13]
 
 ## See how leverage changes losses
 
@@ -203,9 +203,9 @@ The buyer can lose the entire premium. A seller's obligations differ: an uncover
 
 A 10% price move creates a 20% change in your own money. In the last scenario, sale proceeds do not repay the loan: you lose the original $500 and still owe $100. A broker may close the position before these illustrated prices are reached; the table is a loss calculation, not a prediction of account handling.
 
-**[Margin]({{ '/glossary/' | relative_url }}#margin)** is money or eligible assets supporting a trading position. For securities borrowing, it supports a loan. For futures, it supports performance of the contract rather than buying the underlying asset. Neither amount is necessarily a maximum possible loss.
+**[Margin]({{ '/glossary/' | relative_url }}#margin)** is money or eligible assets supporting a trading position. For securities borrowing, it supports a loan. For futures, it supports performance of the contract rather than buying the underlying asset.[^10] Neither amount is necessarily a maximum possible loss.
 
-A **[margin call]({{ '/glossary/' | relative_url }}#margin-call)** demands additional resources when an account falls below its required level. A firm may sell positions without waiting for the customer. See [FINRA's margin risk explanation](https://syndication.finra.org/content/margin-debt-record-levels-know-risks) and the [CFTC's futures basics](https://www.cftc.gov/LearnAndProtect/EducationCenter/FuturesMarketBasics/index2.htm). Exact requirements depend on the market, instrument, account, and firm.
+A **[margin call]({{ '/glossary/' | relative_url }}#margin-call)** demands additional resources when an account falls below its required level. A firm may sell positions without waiting for the customer.[^14] Exact requirements depend on the market, instrument, account, and firm.
 
 ## Read the terms before comparing prices
 
@@ -265,3 +265,20 @@ Use [Accounting and financial analysis]({{ '/knowledge/accounting-and-financial-
 - Calculating futures gains, losses, and daily cash requirements
 - Option pricing before expiration and contract exercise mechanics
 - Understanding swaps and the risk of a counterparty failing to pay
+
+## References
+
+[^1]: U.S. Securities and Exchange Commission, Investor.gov, "Glossary" (primary market and secondary market entries) — <https://www.investor.gov/introduction-investing/investing-basics/glossary>
+[^2]: U.S. Securities and Exchange Commission, Investor.gov, "Stocks" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks>
+[^3]: U.S. Department of the Treasury, TreasuryDirect, "Treasury Bills" — <https://www.treasurydirect.gov/marketable-securities/treasury-bills/>
+[^4]: Board of Governors of the Federal Reserve System, "About Commercial Paper" — <https://www.federalreserve.gov/Releases/cp/about.htm>
+[^5]: U.S. Securities and Exchange Commission, Investor.gov, "Money Market Funds" — <https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-5>
+[^6]: Financial Industry Regulatory Authority (FINRA), "Bond Yield and Return" — <https://www.finra.org/investors/insights/bond-yield-return>
+[^7]: U.S. Securities and Exchange Commission, Investor.gov, "Market Participants" — <https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/market-participants>
+[^8]: U.S. Securities and Exchange Commission, Investor.gov, "Bid-Ask Spread" (glossary) — <https://www.investor.gov/introduction-investing/investing-basics/glossary/bid-ask-spread>
+[^9]: U.S. Securities and Exchange Commission, Investor.gov, "Types of Orders" — <https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/types-orders>
+[^10]: U.S. Commodity Futures Trading Commission, "CFTC Glossary" — <https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/CFTCGlossary/index.htm>
+[^11]: U.S. Commodity Futures Trading Commission, "Futures Market Basics" — <https://www.cftc.gov/LearnAndProtect/EducationCenter/FuturesMarketBasics/index2.htm>
+[^12]: U.S. Commodity Futures Trading Commission, "The Economic Purpose of Futures Markets" — <https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/economicpurpose.html>
+[^13]: U.S. Securities and Exchange Commission, Investor.gov, "An Introduction to Options – Investor Bulletin" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-63>
+[^14]: Financial Industry Regulatory Authority (FINRA), "Margin Debt at Record Levels: Know the Risks" — <https://syndication.finra.org/content/margin-debt-record-levels-know-risks>

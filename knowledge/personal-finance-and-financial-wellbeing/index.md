@@ -65,7 +65,7 @@ All amounts and rates are invented teaching examples in dollars. The budget uses
 
 **[Personal finance]({{ '/glossary/' | relative_url }}#personal-finance)** is how you or your household manage money: what comes in, what goes out, and what you prepare for.
 
-**[Financial wellbeing]({{ '/glossary/' | relative_url }}#financial-wellbeing)** means being able to handle ongoing money needs, absorb setbacks, work toward future goals, and make choices that support your life. It includes both practical security and how secure you feel. The [Consumer Financial Protection Bureau's financial wellbeing research](https://www.consumerfinance.gov/consumer-tools/educator-tools/financial-well-being-resources/explore-findings/) uses this broader view.
+**[Financial wellbeing]({{ '/glossary/' | relative_url }}#financial-wellbeing)** means being able to handle ongoing money needs, absorb setbacks, work toward future goals, and make choices that support your life. It includes both practical security and how secure you feel. The Consumer Financial Protection Bureau's financial wellbeing research uses this broader view.[^1]
 
 A useful plan starts with your actual circumstances. Low pay, high housing costs, illness, and caring responsibilities can limit your options. A budget can reveal a shortfall; it cannot make insufficient income cover every need. The purpose is to make decisions clearer, without treating money difficulties as a personal failure.
 
@@ -73,7 +73,7 @@ A useful plan starts with your actual circumstances. Low pay, high housing costs
 
 **[Income]({{ '/glossary/' | relative_url }}#income)** is money received over a period, such as pay or regular benefit payments. Borrowing puts money in your account but is not income: it has to be repaid. **[Take-home pay]({{ '/glossary/' | relative_url }}#take-home-pay)** is what remains of your pay after taxes and other payroll deductions.
 
-An **[expense]({{ '/glossary/' | relative_url }}#expense)** is a cost you need or choose to cover. A **[budget]({{ '/glossary/' | relative_url }}#budget)** is a plan for using available money over a period, including spending, saving, and payments on money owed. Start with recent account records, bills, and pay statements rather than guessing. See [Consumer.gov's guide to making a budget](https://consumer.gov/your-money/making-budget).
+An **[expense]({{ '/glossary/' | relative_url }}#expense)** is a cost you need or choose to cover. A **[budget]({{ '/glossary/' | relative_url }}#budget)** is a plan for using available money over a period, including spending, saving, and payments on money owed. Start with recent account records, bills, and pay statements rather than guessing.[^2]
 
 Suppose Sam receives **$2,400 a month in take-home pay**:
 
@@ -96,11 +96,11 @@ The two savings rows are transfers to money Sam still owns, not purchases. They 
 
 Your categories and amounts will differ. If income varies, build the core plan around an amount you can reasonably rely on, and decide what extra income will cover when it arrives. Compare the plan with what actually happened, then revise it.
 
-If the numbers do not cover essentials, examine the consequences of each missed payment, especially threats to housing, health, or the ability to work. Contact providers about available arrangements and check local support. The [CFPB's bill-prioritization tools](https://www.consumerfinance.gov/archive/blog/tools-to-help-pay-bills/) help make these choices explicit.
+If the numbers do not cover essentials, examine the consequences of each missed payment, especially threats to housing, health, or the ability to work. Contact providers about available arrangements and check local support. The CFPB's bill-prioritization tools help make these choices explicit.[^3]
 
 ## Check when money arrives and leaves
 
-**[Cash flow]({{ '/glossary/' | relative_url }}#cash-flow)** means money moving in and out, including **when** it arrives and leaves. A positive monthly total can hide a shortage before payday. The [CFPB's money-management toolkit](https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/) includes bill calendars and cash flow tools.
+**[Cash flow]({{ '/glossary/' | relative_url }}#cash-flow)** means money moving in and out, including **when** it arrives and leaves. A positive monthly total can hide a shortage before payday. The CFPB's money-management toolkit includes bill calendars and cash flow tools.[^4]
 
 Suppose Sam starts the month with $200, receives $1,200 on the fifth, and owes $900 in rent on the first. On the first, Sam is **$700 short**: $900 − $200. The later paycheck does not solve the earlier due date.
 
@@ -116,7 +116,7 @@ Sam's plan assigns $100 a month for a $1,200 bill due in 12 months:
 
 That only works with 12 deposits before the deadline. If the same bill is due in three months and nothing is saved, the amount needed is **$1,200 ÷ 3 = $400 a month**. Averages do not remove deadlines.
 
-For unexpected costs, suppose Sam chooses an initial $600 target and can save $150 a month. Starting from zero, with no withdrawals, it takes **$600 ÷ $150 = four months**. This is an example milestone, not a universal amount. A useful target depends on likely costs, income stability, people relying on you, and available support. Even a smaller reserve can help. See the [CFPB's emergency fund guide](https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/).
+For unexpected costs, suppose Sam chooses an initial $600 target and can save $150 a month. Starting from zero, with no withdrawals, it takes **$600 ÷ $150 = four months**. This is an example milestone, not a universal amount. A useful target depends on likely costs, income stability, people relying on you, and available support. Even a smaller reserve can help.[^5]
 
 **[Liquidity]({{ '/glossary/' | relative_url }}#liquidity)** is how easily and quickly something can become spendable money without a large loss in value. Emergency savings need to be accessible when trouble arrives. Check withdrawal restrictions and fees before treating money as available for emergencies.
 
@@ -133,7 +133,7 @@ When required payments and essential needs are covered, two common ways to direc
 | **[Debt avalanche]({{ '/glossary/' | relative_url }}#debt-avalanche)** | The debt with the highest interest rate first. | Usually reduces interest costs most when rates stay fixed and there are no special fees or terms. |
 | **[Debt snowball]({{ '/glossary/' | relative_url }}#debt-snowball)** | The debt with the smallest balance first. | Can provide an earlier completed payoff, but may cost more interest. |
 
-Both keep required payments going on the other debts. The [CFPB compares these debt-repayment approaches](https://www.consumerfinance.gov/archive/blog/how-reduce-your-debt/).
+Both keep required payments going on the other debts. The CFPB compares these debt-repayment approaches.[^6]
 
 For example, after making required payments, Sam owes $800 at 24% annual interest and $200 at 12%. Sam has another $100 available. Putting it toward the 24% debt avoids about **$100 × 0.24 ÷ 12 = $2** of interest next month; putting it toward the 12% debt avoids about **$1**.
 
@@ -145,15 +145,15 @@ If you cannot cover required payments, the immediate task is to seek an arrangem
 
 **[Credit]({{ '/glossary/' | relative_url }}#credit)** is an arrangement that lets you borrow or receive something now and pay later.
 
-In the US, a **[credit report]({{ '/glossary/' | relative_url }}#credit-report)** records information about borrowing accounts and payment history. A **[credit score]({{ '/glossary/' | relative_url }}#credit-score)** is a number calculated by a model to estimate repayment risk, often using that report. You can have different scores from different models or data. A score is not a complete picture of your finances or a measure of your worth. See the [CFPB's explanation of reports and scores](https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-credit-report-and-a-credit-score-en-2069/).
+In the US, a **[credit report]({{ '/glossary/' | relative_url }}#credit-report)** records information about borrowing accounts and payment history. A **[credit score]({{ '/glossary/' | relative_url }}#credit-score)** is a number calculated by a model to estimate repayment risk, often using that report. You can have different scores from different models or data. A score is not a complete picture of your finances or a measure of your worth.[^7]
 
 A **[credit limit]({{ '/glossary/' | relative_url }}#credit-limit)** is the maximum you may borrow on an account. **[Credit utilization]({{ '/glossary/' | relative_url }}#credit-utilization)** is the share of available credit being used. For a card with a reported $300 balance and a $1,000 limit:
 
 **$300 ÷ $1,000 × 100 = 30% utilization.**
 
-The limit is permission to borrow, not a spending target. Lower reported card balances relative to limits generally help US credit scores, but no percentage guarantees a score. You do not need to carry an interest-bearing balance to build credit. Payment history also matters. The [CFPB's credit-building guidance](https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/how-to-rebuild-your-credit/) explains these habits.
+The limit is permission to borrow, not a spending target. Lower reported card balances relative to limits generally help US credit scores, but no percentage guarantees a score. You do not need to carry an interest-bearing balance to build credit. Payment history also matters. The CFPB's credit-building guidance explains these habits.[^8]
 
-Check reports for accounts you do not recognize and information that is wrong. In the US, use the official [AnnualCreditReport.com service](https://www.annualcreditreport.com/) and follow the reporting company's dispute process for errors. Other countries have different reporting systems and access rules.
+Check reports for accounts you do not recognize and information that is wrong. In the US, use the official AnnualCreditReport.com service and follow the reporting company's dispute process for errors.[^9] Other countries have different reporting systems and access rules.
 
 ## Turn future goals into amounts
 
@@ -161,11 +161,11 @@ A **[financial goal]({{ '/glossary/' | relative_url }}#financial-goal)** is a de
 
 **[Retirement]({{ '/glossary/' | relative_url }}#retirement)** is a stage when you reduce or stop paid work and rely more on other sources of money. A **[pension]({{ '/glossary/' | relative_url }}#pension)** is a retirement arrangement intended to provide money later in life; the meaning and rules vary across countries.
 
-Some workplace plans promise a payment determined by a formula. Others build an individual account whose future value depends on money paid in, investment results, and fees. A **[contribution]({{ '/glossary/' | relative_url }}#contribution)** is money paid into a savings or retirement plan. The [US Department of Labor describes these retirement-plan differences](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa).
+Some workplace plans promise a payment determined by a formula. Others build an individual account whose future value depends on money paid in, investment results, and fees. A **[contribution]({{ '/glossary/' | relative_url }}#contribution)** is money paid into a savings or retirement plan. The US Department of Labor describes these retirement-plan differences.[^10]
 
 An **[employer match]({{ '/glossary/' | relative_url }}#employer-match)** is money an employer adds based on your contributions. For example, a fictional plan might add 50 cents per dollar on the first $100 you contribute each month. Contributing $100 would then put **$100 + $50 = $150** into the account before investment changes or fees. This is a plan contribution, not a guaranteed investment return.
 
-**[Vesting]({{ '/glossary/' | relative_url }}#vesting)** means gaining a non-forfeitable right to a benefit or contribution. Some employer contributions become yours to keep only after you meet service requirements. Check the plan's match rules, vesting, fees, and withdrawal conditions. See the [IRS explanation of vesting in US retirement plans](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting).
+**[Vesting]({{ '/glossary/' | relative_url }}#vesting)** means gaining a non-forfeitable right to a benefit or contribution. Some employer contributions become yours to keep only after you meet service requirements. Check the plan's match rules, vesting, fees, and withdrawal conditions.[^11]
 
 A retirement account may contain investments that rise or fall in value and may restrict early access. It should not automatically be counted as money available for next month's bills. Retirement planning connects what you can contribute today with future living costs and the other income you may receive.
 
@@ -175,9 +175,9 @@ A retirement account may contain investments that rise or fall in value and may 
 
 A **[will]({{ '/glossary/' | relative_url }}#will)** is a legal document directing how certain money and property should be handled after death. A **[beneficiary]({{ '/glossary/' | relative_url }}#beneficiary)** is a person or organization entitled or designated to receive money, property, or benefits. An **[inheritance]({{ '/glossary/' | relative_url }}#inheritance)** is money or property received from someone after their death.
 
-A will does not necessarily control every account. Account ownership and beneficiary arrangements can affect what happens. Keep account records and beneficiary details current, particularly after changes in family circumstances. [FINRA explains how account arrangements affect transfers after death](https://syndication.finra.org/content/when-brokerage-account-holder-dies-what-comes-next).
+A will does not necessarily control every account. Account ownership and beneficiary arrangements can affect what happens. Keep account records and beneficiary details current, particularly after changes in family circumstances. FINRA explains how account arrangements affect transfers after death.[^12]
 
-A **[power of attorney]({{ '/glossary/' | relative_url }}#power-of-attorney)** is a legal document authorizing someone to act on your behalf. Its scope and when it applies depend on the document and local law. Choosing an emergency contact alone does not give that person authority to manage your money. The [CFPB explains financial powers of attorney](https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/) and [planning for help with financial decisions](https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/financial-security-as-you-age/planning-for-diminished-capacity-and-illness/).
+A **[power of attorney]({{ '/glossary/' | relative_url }}#power-of-attorney)** is a legal document authorizing someone to act on your behalf. Its scope and when it applies depend on the document and local law. Choosing an emergency contact alone does not give that person authority to manage your money. The CFPB explains financial powers of attorney[^13] and planning for help with financial decisions.[^14]
 
 These are concepts to recognize, not a legal-document template. Use guidance for your jurisdiction when arranging a will or authority over your money. A practical first step is a secure list of accounts, important documents, and contact details, with a trusted person knowing how to locate it when needed.
 
@@ -227,3 +227,20 @@ These include terms from the fundamentals lesson that we explain again here. Eac
 ## Keep learning
 
 Revisit [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}) for interest, purchasing power, and comparisons over time. Continue with [Banking, credit, and lending]({{ '/knowledge/banking-credit-and-lending/' | relative_url }}) to compare accounts, loan costs, and repayment options. [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}) explains coverage choices, claims, deductibles, and the costs households retain.
+
+## References
+
+[^1]: Consumer Financial Protection Bureau, "Explore financial well-being survey results" — <https://www.consumerfinance.gov/consumer-tools/educator-tools/financial-well-being-resources/explore-findings/>
+[^2]: Consumer.gov (Federal Trade Commission), "Making a Budget" — <https://consumer.gov/your-money/making-budget>
+[^3]: Consumer Financial Protection Bureau, "Tools to help when you can't pay your bills" (archived) — <https://www.consumerfinance.gov/archive/blog/tools-to-help-pay-bills/>
+[^4]: Consumer Financial Protection Bureau, "Your Money, Your Goals toolkit" — <https://www.consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit/>
+[^5]: Consumer Financial Protection Bureau, "An essential guide to building an emergency fund" — <https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/>
+[^6]: Consumer Financial Protection Bureau, "How to reduce your debt" (archived) — <https://www.consumerfinance.gov/archive/blog/how-reduce-your-debt/>
+[^7]: Consumer Financial Protection Bureau, "What is the difference between a credit report and a credit score?" — <https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-credit-report-and-a-credit-score-en-2069/>
+[^8]: Consumer Financial Protection Bureau, "How to rebuild your credit" — <https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/how-to-rebuild-your-credit/>
+[^9]: AnnualCreditReport.com, the centralized service for free credit reports authorized by US federal law — <https://www.annualcreditreport.com/>
+[^10]: US Department of Labor, "FAQs about Retirement Plans and ERISA" — <https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/retirement-plans-and-erisa>
+[^11]: Internal Revenue Service, "Retirement topics - Vesting" — <https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-vesting>
+[^12]: FINRA, "When a Brokerage Account Holder Dies—What Comes Next?" — <https://syndication.finra.org/content/when-brokerage-account-holder-dies-what-comes-next>
+[^13]: Consumer Financial Protection Bureau, "What is a power of attorney (POA)?" — <https://www.consumerfinance.gov/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/>
+[^14]: Consumer Financial Protection Bureau, "Planning for diminished capacity and illness" — <https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/financial-security-as-you-age/planning-for-diminished-capacity-and-illness/>

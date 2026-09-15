@@ -64,7 +64,7 @@ To find how many euros $960 buys, reverse the calculation:
 
 $960 ÷ 1.20 dollars per euro = **€800**.
 
-The reverse quote is 1 ÷ 1.20 = about **0.8333 euros per dollar**. Keep full precision during calculations and round money at the end. Writing the units prevents accidentally multiplying when you should divide. The [Reserve Bank of Australia explains exchange-rate measurement](https://www.rba.gov.au/education/resources/explainers/exchange-rates-and-their-measurement.html).
+The reverse quote is 1 ÷ 1.20 = about **0.8333 euros per dollar**. Keep full precision during calculations and round money at the end. Writing the units prevents accidentally multiplying when you should divide.[^1]
 
 The displayed market rate may differ from your provider's rate. If the provider charges $10 in addition to the $960 conversion, you pay **$970** in total. A second provider charging $5 but quoting 1.22 dollars per euro costs (€800 × 1.22) + $5 = **$981**. The smaller stated fee does not produce the lower total cost.
 
@@ -80,9 +80,9 @@ The dollar depreciates against the euro, but its percentage change is not exactl
 
 At the new rate, the unchanged €800 course costs €800 × 1.32 = **$1,056**, or $96 more. A business receiving €800 and paying its costs in dollars would instead receive more dollars from the same sale.
 
-Currency movements affect people differently depending on what they earn, owe, and buy. Contract terms and business pricing choices can delay or change the effect on shop prices. See the [RBA's explanation of exchange rates and trade](https://www.rba.gov.au/education/resources/explainers/exchange-rates-and-the-australian-economy.html).
+Currency movements affect people differently depending on what they earn, owe, and buy. Contract terms and business pricing choices can delay or change the effect on shop prices.[^2]
 
-Under a **[floating exchange rate]({{ '/glossary/' | relative_url }}#floating-exchange-rate)**, the currency's price is mainly determined in markets. Under a **[fixed exchange rate]({{ '/glossary/' | relative_url }}#fixed-exchange-rate)**, authorities commit to maintaining a stated value against another currency or reference, sometimes within a band. There are also managed arrangements between these cases. A fixed rate can come under pressure and be changed; it is not a promise that conversion will always be available on unchanged terms. The [RBA describes exchange-rate regimes and their drivers](https://www.rba.gov.au/education/resources/explainers/drivers-of-the-aud-exchange-rate.html).
+Under a **[floating exchange rate]({{ '/glossary/' | relative_url }}#floating-exchange-rate)**, the currency's price is mainly determined in markets. Under a **[fixed exchange rate]({{ '/glossary/' | relative_url }}#fixed-exchange-rate)**, authorities commit to maintaining a stated value against another currency or reference, sometimes within a band. There are also managed arrangements between these cases. A fixed rate can come under pressure and be changed; it is not a promise that conversion will always be available on unchanged terms.[^1][^3]
 
 ## Measure an overseas investment
 
@@ -102,13 +102,13 @@ For an investment with no intermediate payments, the general calculation is:
 
 where both rates are home-currency units per foreign-currency unit. A growth factor is the ending amount divided by the starting amount: an 8% gain means a factor of 1.08. Here, 1.08 × (1.10 ÷ 1.20) = 0.99, or a 1% loss. Adding percentage changes would miss their interaction.
 
-Buying an overseas fund quoted in dollars does not by itself remove currency risk from its underlying holdings. International investments also involve differences in disclosure, trading access, costs, and legal protections. See [Investor.gov's international investing bulletin](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/international-investing).
+Buying an overseas fund quoted in dollars does not by itself remove currency risk from its underlying holdings. International investments also involve differences in disclosure, trading access, costs, and legal protections.[^4]
 
 ## Manage a future foreign-currency bill
 
 A shop owes a supplier €10,000 in three months and earns dollars. Its dollar cost is uncertain until it obtains the euros.
 
-**[Hedging]({{ '/glossary/' | relative_url }}#hedging)** means taking a position intended to offset a particular risk. A **[forward contract]({{ '/glossary/' | relative_url }}#forward-contract)** is an agreement to exchange an asset at a price agreed today for a future date. A currency forward can fix the exchange rate for a specified amount and date. See the [International Trade Administration's guide to foreign-exchange risk](https://www.trade.gov/foreign-exchange-risk).
+**[Hedging]({{ '/glossary/' | relative_url }}#hedging)** means taking a position intended to offset a particular risk. A **[forward contract]({{ '/glossary/' | relative_url }}#forward-contract)** is an agreement to exchange an asset at a price agreed today for a future date. A currency forward can fix the exchange rate for a specified amount and date.[^5]
 
 Assume the shop agrees to buy €10,000 in three months at $1.21 per euro. It must pay **$12,100** under that contract. Ignore fees and any money required as security for this example.
 
@@ -133,9 +133,9 @@ The **[balance of payments]({{ '/glossary/' | relative_url }}#balance-of-payment
 | **[Capital account]({{ '/glossary/' | relative_url }}#capital-account)** | Capital transfers, such as debt forgiveness, and transactions in certain non-produced, nonfinancial assets. It is not the account for all investment flows. |
 | **[Financial account]({{ '/glossary/' | relative_url }}#financial-account)** | Transactions in financial assets and obligations between residents and nonresidents, including investment, lending, and official reserve assets. |
 
-The **[trade balance]({{ '/glossary/' | relative_url }}#trade-balance)** is exports minus imports of goods and services here; some publications use the phrase for goods alone. It is only part of the current account. See the [RBA's guide to the balance of payments](https://www.rba.gov.au/education/resources/explainers/the-balance-of-payments.html).
+The **[trade balance]({{ '/glossary/' | relative_url }}#trade-balance)** is exports minus imports of goods and services here; some publications use the phrase for goods alone. It is only part of the current account.[^6]
 
-Financial flows take different forms. **[Foreign direct investment]({{ '/glossary/' | relative_url }}#foreign-direct-investment)** involves a lasting interest and significant influence in an enterprise in another economy. **[Portfolio investment]({{ '/glossary/' | relative_url }}#portfolio-investment)** involves cross-border holdings of shares and debt securities outside direct investment and reserve assets. Building a controlled overseas subsidiary illustrates direct investment; buying a small holding of a foreign company's listed shares generally illustrates portfolio investment. See the [IMF's balance of payments framework](https://www.elibrary.imf.org/display/book/9781589068124/ch06.xml).
+Financial flows take different forms. **[Foreign direct investment]({{ '/glossary/' | relative_url }}#foreign-direct-investment)** involves a lasting interest and significant influence in an enterprise in another economy. **[Portfolio investment]({{ '/glossary/' | relative_url }}#portfolio-investment)** involves cross-border holdings of shares and debt securities outside direct investment and reserve assets. Building a controlled overseas subsidiary illustrates direct investment; buying a small holding of a foreign company's listed shares generally illustrates portfolio investment.[^7]
 
 ## Work through an economy's accounts
 
@@ -156,7 +156,7 @@ Assume the capital account and statistical discrepancies are zero. The economy i
 
 Using the financial-account convention **net acquisition of assets minus net incurrence of liabilities**, its balance is 10 − 30 = **−20 billion**. In everyday language, this is a net financial inflow of 20 billion. State the convention: some presentations describe inflows with the opposite sign.
 
-A current-account deficit can also be financed by reducing foreign assets; it does not necessarily mean new government borrowing. Its implications depend on what funds support, how stable the funding is, and whether future payments can be met. The [IMF explains how to interpret current-account deficits](https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/current-account-deficits).
+A current-account deficit can also be financed by reducing foreign assets; it does not necessarily mean new government borrowing. Its implications depend on what funds support, how stable the funding is, and whether future payments can be met.[^8]
 
 ## Assess country and borrowing risks
 
@@ -164,17 +164,17 @@ A current-account deficit can also be financed by reducing foreign assets; it do
 
 Suppose a government owes $100 million, but collects taxes in a local currency. At 5 local units per dollar, the debt equals **500 million local units**. At 6 units per dollar, it equals **600 million local units**: 100 million more, or **20% more**, even though the dollar debt is unchanged. This example measures the principal only and ignores interest and any offsetting dollar assets or receipts.
 
-A country cannot create another country's currency to repay foreign-currency borrowing. Domestic-currency borrowing avoids that specific mismatch but does not remove repayment, inflation, or refinancing risks. See the [IMF's introduction to sovereign debt](https://www.imf.org/en/publications/fandd/issues/2022/12/basics-what-is-sovereign-debt).
+A country cannot create another country's currency to repay foreign-currency borrowing. Domestic-currency borrowing avoids that specific mismatch but does not remove repayment, inflation, or refinancing risks.[^9]
 
-**[Capital controls]({{ '/glossary/' | relative_url }}#capital-controls)** are rules restricting or conditioning cross-border financial transactions. Such rules can affect whether investors can bring money in or take it out. Check the applicable country and date rather than assuming unrestricted conversion or transfer. The [IMF discusses capital-flow management measures](https://www.imf.org/en/topics/capital-flows).
+**[Capital controls]({{ '/glossary/' | relative_url }}#capital-controls)** are rules restricting or conditioning cross-border financial transactions. Such rules can affect whether investors can bring money in or take it out. Check the applicable country and date rather than assuming unrestricted conversion or transfer; the IMF documents each member's arrangements and restrictions annually.[^10]
 
-**[Emerging markets]({{ '/glossary/' | relative_url }}#emerging-markets)** is a classification commonly used for economies with developing financial markets and growing international integration. There is no single universal list or definition. Countries differ in institutions, market access, and sources of risk; the label alone cannot establish investment quality. See the [IMF's discussion of emerging markets](https://www.imf.org/en/publications/fandd/issues/2021/06/the-future-of-emerging-markets-duttagupta-and-pazarbasioglu).
+**[Emerging markets]({{ '/glossary/' | relative_url }}#emerging-markets)** is a classification commonly used for economies with developing financial markets and growing international integration. There is no single universal list or definition.[^11] Countries differ in institutions, market access, and sources of risk; the label alone cannot establish investment quality.
 
 ## Understand development finance
 
 **[Development finance]({{ '/glossary/' | relative_url }}#development-finance)** is funding intended to support economic and social development, such as reliable water, transport, or healthcare. It can involve public institutions, private investors, and international organizations.
 
-A **[grant]({{ '/glossary/' | relative_url }}#grant)** is funding that generally does not need repayment if its conditions are met. A **[concessional loan]({{ '/glossary/' | relative_url }}#concessional-loan)** offers terms more favorable than comparable market borrowing, such as lower interest or longer repayment periods; it remains debt. The World Bank's [International Development Association describes its grants and concessional financing](https://ida.worldbank.org/en/ida-financing).
+A **[grant]({{ '/glossary/' | relative_url }}#grant)** is funding that generally does not need repayment if its conditions are met. A **[concessional loan]({{ '/glossary/' | relative_url }}#concessional-loan)** offers terms more favorable than comparable market borrowing, such as lower interest or longer repayment periods; it remains debt. The World Bank's International Development Association, for example, provides both grants and highly concessional loans to lower-income countries.[^12]
 
 For a teaching example, a water project costs $10 million and receives a $4 million grant plus a $6 million loan. Only the grant portion is funding without scheduled loan repayment. The remaining **$6 million**, plus any contractual interest and fees, must be funded over time. Assess who receives the service, who bears repayment costs, whether the project works as intended, and whether loan payments are in the same currency as project receipts. A development purpose does not eliminate financial or implementation risk.
 
@@ -212,3 +212,18 @@ Each glossary definition links back to its explanation above.
 Continue with [Payments and money movement]({{ '/knowledge/payments-and-money-movement/' | relative_url }}) to compare international transfer costs, [Financial markets and instruments]({{ '/knowledge/financial-markets-and-instruments/' | relative_url }}) to explore contracts used for hedging, and [Insurance and risk management]({{ '/knowledge/insurance-and-risk-management/' | relative_url }}) to practice assessing financial setbacks.
 
 Further lessons are planned on exchange-rate drivers, international investment positions, currency crises, sovereign debt restructuring, and evaluating development projects.
+
+## References
+
+[^1]: Reserve Bank of Australia, "Exchange Rates and their Measurement" — <https://www.rba.gov.au/education/resources/explainers/exchange-rates-and-their-measurement.html>
+[^2]: Reserve Bank of Australia, "Exchange Rates and the Australian Economy" — <https://www.rba.gov.au/education/resources/explainers/exchange-rates-and-the-australian-economy.html>
+[^3]: Reserve Bank of Australia, "Drivers of the Australian Dollar Exchange Rate" — <https://www.rba.gov.au/education/resources/explainers/drivers-of-the-aud-exchange-rate.html>
+[^4]: U.S. Securities and Exchange Commission, "Investor Bulletin: International Investing" — <https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/international-investing>
+[^5]: International Trade Administration, "Foreign Exchange Risk" — <https://www.trade.gov/foreign-exchange-risk>
+[^6]: Reserve Bank of Australia, "The Balance of Payments" — <https://www.rba.gov.au/education/resources/explainers/the-balance-of-payments.html>
+[^7]: International Monetary Fund, "Balance of Payments and International Investment Position Manual, Sixth Edition (BPM6), Chapter 6: Functional Categories" — <https://www.elibrary.imf.org/display/book/9781589068124/ch06.xml>
+[^8]: International Monetary Fund, "Back to Basics: Do Current Account Deficits Matter?" (Finance & Development, December 2006) — <https://www.elibrary.imf.org/view/journals/022/0043/004/article-A015-en.xml>
+[^9]: International Monetary Fund, "Back to Basics: What Is Sovereign Debt?" (Finance & Development, December 2022) — <https://www.elibrary.imf.org/view/journals/022/0059/004/article-A020-en.xml>
+[^10]: International Monetary Fund, "Annual Report on Exchange Arrangements and Exchange Restrictions 2019" — <https://www.elibrary.imf.org/display/book/9781498324571/9781498324571.xml>
+[^11]: International Monetary Fund, "Miles to Go: The Future of Emerging Markets" (Finance & Development, June 2021) — <https://www.elibrary.imf.org/view/journals/022/0058/002/article-A002-en.xml>
+[^12]: World Bank, "IDA Financing" — <https://ida.worldbank.org/en/ida-financing>
