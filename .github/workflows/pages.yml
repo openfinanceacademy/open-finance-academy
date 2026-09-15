@@ -44,8 +44,8 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Make generated site writable
-        run: chmod -R u+rwX _site
+      - name: Take ownership of generated site
+        run: sudo chown -R "$(id -u):$(id -g)" _site
 
       - name: Setup Node
         uses: actions/setup-node@v4
