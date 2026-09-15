@@ -120,6 +120,10 @@ Explore careers in finance, from helping people manage money to building financi
     <p>Explains a company's financial performance and strategy to investors and analysts through reports, presentations, and meetings.</p>
   </article>
   <article class="career-card">
+    <h2><a href="{{ '/careers/chief-financial-officer/' | relative_url }}">Chief Financial Officer</a></h2>
+    <p>Leads an organization's financial strategy, reporting, planning, and risk management.</p>
+  </article>
+  <article class="career-card">
     <h2><a href="{{ '/careers/financial-technology-product-manager/' | relative_url }}">Financial Technology Product Manager</a></h2>
     <p>Guides the development of financial apps and services by understanding customer needs and coordinating design, engineering, and business teams.</p>
   </article>
