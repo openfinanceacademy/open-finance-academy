@@ -24,6 +24,8 @@ glossary_terms:
   algorithm: financial-applications-automation-and-responsible-ai
   automation: financial-applications-automation-and-responsible-ai
   algorithmic-transparency: financial-applications-automation-and-responsible-ai
+  generative-ai: financial-applications-automation-and-responsible-ai
+  model-risk: financial-applications-automation-and-responsible-ai
 description: "Learn how open banking, financial APIs, account connections, and automated tools work, including consent, privacy, security, and practical tradeoffs."
 ---
 
@@ -50,7 +52,8 @@ Rules on data sharing, consent, and required security measures vary significantl
 5. [Digital identity and authentication](#digital-identity-and-authentication)
 6. [Cybersecurity basics for financial apps](#cybersecurity-basics-for-financial-apps)
 7. [Financial applications, automation, and responsible AI](#financial-applications-automation-and-responsible-ai)
-8. [Check your understanding](#check-your-understanding)
+8. [AI-assisted financial-services workflows](#ai-assisted-financial-services-workflows)
+9. [Check your understanding](#check-your-understanding)
 
 ## What "open finance" means
 
@@ -121,6 +124,21 @@ A lower fee does not by itself mean the robo-advisor's recommended portfolio is 
 
 **[Algorithmic transparency]({{ '/glossary/' | relative_url }}#algorithmic-transparency)** is the degree to which the factors, data, and logic behind an automated decision can be explained or examined — this matters most when an algorithm affects access to money or credit, such as an automated loan denial or a fraud flag that freezes an account. Ask whether a decision can be explained in plain terms and whether there is a way to have it reviewed by a person; "the algorithm decided" is not, by itself, an adequate answer to why a specific decision was made.
 
+## AI-assisted financial-services workflows
+
+**[Generative AI]({{ '/glossary/' | relative_url }}#generative-ai)** is technology that produces new text, code, tables, or other content from patterns learned from data and instructions. In financial work, it can help draft a research note, inspect a spreadsheet, summarize a filing, or route an exception. The output can sound confident while still containing an invented fact, a missed footnote, or a calculation error.
+
+The [Claude for Financial Services repository](https://github.com/anthropics/financial-services) is an example of this kind of software. It provides reference agents, skills, and connectors for professional workflows such as valuation, earnings analysis, reconciliation, and KYC screening. It is not a bank connection, investment product, or source of authoritative financial data. Some connectors require separate subscriptions or API keys, and the repository's managed-agent delegation features are identified as a research preview.
+
+For a workflow that handles financial data, ask four questions before trusting the result:
+
+1. **What data can it access?** Limit connectors and credentials to the records the task needs. A connector to a research service or internal drive may expose more information than the final report requires.
+2. **Can each claim be traced?** Require the source document, date, and location for figures and conclusions. A link to a tool or model is not evidence for a particular number.
+3. **What must a person verify?** Recalculate material figures, check formulas and units, inspect exceptions, and confirm the result against primary records. Treat this as **[model risk]({{ '/glossary/' | relative_url }}#model-risk)** — the possibility that a model's design, data, implementation, or use produces an unreliable outcome.
+4. **What happens when it is wrong?** Keep an audit trail, provide a way to correct or escalate the output, and do not let an assistant alone approve onboarding, move money, post accounting entries, or make a binding investment decision.
+
+These controls extend the earlier advice on **[cybersecurity]({{ '/glossary/' | relative_url }}#cybersecurity)**, **[data breaches]({{ '/glossary/' | relative_url }}#data-breach)**, and **[algorithmic transparency]({{ '/glossary/' | relative_url }}#algorithmic-transparency)**. The [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) is a useful organizational reference, but using a framework does not prove that a particular tool is safe or accurate.
+
 ## Check your understanding
 
 Try these before reading the answers. Each numerical question is independent and uses the assumptions stated in that question.
@@ -132,6 +150,8 @@ Try these before reading the answers. Each numerical question is independent and
 5. Does encryption make a data breach harmless?
 6. Why might a shared data standard matter more as more banks and apps try to connect to each other, rather than for a single pair of institutions?
 7. A loan application is declined by an automated system with no further explanation offered. What does algorithmic transparency suggest you should be able to ask for?
+8. A financial-services AI assistant produces a polished valuation memo. What evidence should you request before relying on its figures?
+9. Why should an AI assistant that flags a KYC issue route the case for review rather than approve or decline the customer by itself?
 
 ### Answers
 
@@ -142,6 +162,8 @@ Try these before reading the answers. Each numerical question is independent and
 5. **No.** Encryption reduces what an attacker can read, but a breach can still expose unencrypted fields, metadata, or other details, and encrypted data can sometimes still be misused or later decrypted.
 6. **Because without a shared standard, each new connection between a bank and an app may require custom, one-off work,** while a shared standard lets any compliant bank and any compliant app interoperate without building a separate integration for every pair.
 7. **A plain-language explanation of the factors behind the decision, and a way to have the decision reviewed**, rather than only being told that an algorithm made the call.
+8. **Traceable source documents and dates for each material claim, plus a check of the calculations, formulas, units, assumptions, and exceptions against primary records.** A confident-sounding draft is not evidence of accuracy.
+9. **Because the result can be wrong or incomplete and the decision may carry legal or consumer consequences.** The assistant can organize evidence and apply a stated rules grid, but an authorized reviewer should resolve uncertainty and make the final decision.
 
 ## Terms introduced in this lesson
 

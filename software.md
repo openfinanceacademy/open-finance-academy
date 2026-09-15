@@ -12,7 +12,7 @@ Explore the technology used to move money, connect financial data, run finance t
 
 The selection covers established commercial products and notable open source projects across the main areas of financial technology. It is a broad starting point, not an exhaustive inventory or a ranking. Each product link points to its official website, documentation, or source repository and supports the accompanying description. Regional availability and supported integrations vary by product.
 
-*Directory updated: September 13, 2026.*
+*Directory updated: September 14, 2026.*
 
 ## Browse by function
 
@@ -27,6 +27,7 @@ The selection covers established commercial products and notable open source pro
 - [Market data and investment research](#market-data-and-investment-research)
 - [Portfolio, trading, and risk systems](#portfolio-trading-and-risk-systems)
 - [Quantitative research and open source tools](#quantitative-research-and-open-source-tools)
+- [AI-assisted financial-services workflows](#ai-assisted-financial-services-workflows)
 - [Data engineering and analytics](#data-engineering-and-analytics)
 - [Identity, fraud, and compliance](#identity-fraud-and-compliance)
 - [Blockchain and digital asset infrastructure](#blockchain-and-digital-asset-infrastructure)
@@ -218,6 +219,14 @@ General-purpose tools used to store, prepare, and report on financial data.
 | [PostgreSQL](https://www.postgresql.org/) | Stores structured application and reporting data in a relational database. |
 | [Apache Kafka](https://kafka.apache.org/) | Streams transaction and other event data between applications. |
 | [Apache Airflow](https://airflow.apache.org/) | Schedules and monitors data-processing workflows. |
+
+## AI-assisted financial-services workflows
+
+Reference implementations for using AI assistants in professional financial work. These are workflow templates, not financial advice or autonomous decision systems; review data access, provider terms, calculations, and outputs before relying on them.
+
+| Software or project | What it does |
+| --- | --- |
+| [Claude for Financial Services](https://github.com/anthropics/financial-services) | Provides Apache-2.0 reference plugins, skills, agents, and data connectors for investment banking, research, private equity, wealth management, fund administration, and onboarding workflows. It supports Claude Cowork plugins and Claude Managed Agent templates; outputs are intended for qualified human review, and some managed-agent features are marked as research preview. |
 
 ## Identity, fraud, and compliance
 
