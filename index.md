@@ -9,6 +9,8 @@ seo_title: "Free Financial Education and Money Skills"
 
 Open Finance Academy provides educational content on finance and financial technology and curates lists of learning resources. This community-driven project brings lessons, guides, books, courses, and videos together in one place to make information easier to find and explore.
 
+We may use AI to help research, draft, and improve content, but we are committed to linking to reputable references, continuously reviewing the information on this site, and correcting it when needed. If you find an issue or have an idea for an improvement, please report it or make a recommendation through [GitHub](https://github.com/openfinanceacademy/open-finance-academy/issues).
+
 **Open Finance Academy is not a financial advisor and does not provide financial advice.** Our content is for educational purposes only. [Read our full disclaimer]({{ '/disclaimer/' | relative_url }}).
 
 We believe everyone has the right to pursue financial freedom and access the knowledge and tools needed to protect themselves from financial exploitation and repression. Open finance should expand people’s choices, privacy, and agency, not make it easier to control or profit from them.
