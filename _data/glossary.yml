@@ -460,6 +460,30 @@
 - id: financial-crisis
   term: "Financial crisis"
   definition: "A period of severe disruption to financial institutions or markets, often involving sharp asset price declines, credit shortages, or institution failures."
+- id: asset-bubble
+  term: "Asset bubble"
+  definition: "A period when an asset's market price appears to rise far beyond what its expected income, usefulness, or other fundamentals can reasonably support."
+- id: speculation
+  term: "Speculation"
+  definition: "Buying or selling an asset mainly because of an expectation about a later price change, rather than because of its current income or use."
+- id: market-crash
+  term: "Market crash"
+  definition: "A rapid and severe fall in prices across a market or group of related markets."
+- id: volatility
+  term: "Volatility"
+  definition: "The size and speed of changes in a price or return over time. High volatility means outcomes are less stable; it does not determine the direction of the next change."
+- id: yield-curve
+  term: "Yield curve"
+  definition: "A comparison of interest rates for similar debt with different lengths of time until repayment."
+- id: credit-spread
+  term: "Credit spread"
+  definition: "The difference between the interest rate on a risky borrower's debt and the rate on a relatively safer comparison with a similar maturity."
+- id: leading-indicator
+  term: "Leading indicator"
+  definition: "A statistic that tends to change before broader economic activity changes and may provide an early, imperfect signal of future conditions."
+- id: financial-conditions
+  term: "Financial conditions"
+  definition: "The overall ease or difficulty of borrowing, trading, and raising money, reflected in measures such as interest rates, credit spreads, asset prices, exchange rates, and lending standards."
 - id: payment
   term: "Payment"
   definition: "The transfer of money from a payer to a payee, whether to buy something, repay a debt, or move money for another purpose."

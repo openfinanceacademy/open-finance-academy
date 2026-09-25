@@ -34,6 +34,8 @@ How households, businesses, institutions, and policy interact.
 
 See the [Economic Calendar]({{ '/knowledge/economics-and-the-financial-system/economic-calendar/' | relative_url }}) for external calendar resources and the planned Open Finance Academy curated calendar.
 
+Continue with [Signals of bubbles, crashes, and recessions]({{ '/knowledge/economics-and-the-financial-system/signals-of-bubbles-and-crashes/' | relative_url }}) to learn how economists and investors interpret valuations, credit, employment, spending, interest rates, and financial stress.
+
 No prior finance knowledge is needed, though this lesson builds on the terms introduced in [Money and financial fundamentals]({{ '/knowledge/money-and-financial-fundamentals/' | relative_url }}), especially interest and inflation. Each new finance term is **bold**, explained on first use, and linked to its glossary definition. The glossary links back to the section where you can see it in context.
 
 The prices, rates, and figures below are invented teaching examples chosen to make the ideas concrete, not forecasts or current data. Where real institutions and events are mentioned by name, that is noted in the text.
